@@ -1,0 +1,2871 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.data
+@.reloc
+uRjPhx
+n8WPht%
+QSUVWjPj
+D$4PWj
+\$dSht%
+D$ ^_][
+S\UVR3
+B\VEUSP
+L$$QWSV
+T$(_^]
+O\FVUQ
+O\FVUQ
+D$ PhH'
+D$<SUV
+|$(9t$4t
+L$$WQP
+t#UFVP
+@D t69
+QRPh@+
+t'Wh`+
+|!UhH+
+t?][_^
+ 9~lt"j
+9^lt[j
+Fl9X,t
+Nl9Y0t
+RRRRRRRRR
+	RRRRRR
+RR R!"RR#$RRRR%&'RRR(R)*R+RRR,-.RR/0123RRRR4R5RRRRRRR6RRRRRR789:;<RRRRRRRR=RRR>?@ABCDERRRRFRRRRGHRRRRRIRJKLRRRRRMNRRROORRPRRRRRRRRRQ
+11111111111111111
+ !"111#1$1%11&1'()1111*11111111+111111111111,11-.11111111111/10
+-	------
+- --!"------#$%&'()-*+--,
+FLPh4,
+uk9FHuf
+VLRhL,
+L$8VPh
+GLPh0-
+uu9D$8
+D$ ;D$,s}
+D$$VhT.
+<A|&<Z
+</u38C
+T$<Rh`/
+L$ RPQU
++D$$@PRV
+T$(j#R
+L$D_^][3
+L$$QWU
+D$0PSU
+OLPQh82
+u%9;uL
+D$4SUV
+L$LRWQ
+~X_^][
+G\_^]3
+C\_^][
+09V t	
+\$|UW3
+T$LQRU
+ RPhX4
+T$<RSU
+L$\tCj
+9t$ uU9
+u-9D$ 
+L$(QUR
+9|$@|"
+L$<j	PQU
++D$ SWj
+D$ WRP
+PRQh@5
+L$$_^]
+T$$RUj
+																
+								
+							
+D$<Ph|6
+VWUSP3
+D$ PSWVRQh
+,_^][Y
+trSh`7
+t0WhX7
+PQVhP9
+T$<RP3
+L$DPQWU
+L$pSUV3
+ut9o\uo
+L$`Qh@;
+L$t_^][3
+D$ RPQ
+l$ VW3
+L$$UQPS
+.......
+..........
+ !"#$%&'()...................*+,.......-
+L$8^[_]3
+91u,h,X
+D$`PVj
+D$LPQj
+u2PhxV
+|$|9\$
+@$RPhX\
+|$,WSS
+x8SSWR
+L$d_^]
+T$d_^]
+P$QRhX\
+@$RPhX\
+9H(r	9XH
+L$8Qh0b
+D$$PSQR
+P$QRhX\
+D$hSRP
+)X(Sh`_
+QSSSSRUQ
+Y(_^]3
+L$$_^]
+T$$_^]
+T$ j<RP
+VWQRSUhXe
+RPSUhDe
+D$TQRP
+D$TQRP
+L$ SQRP
+D$|PQR
+D$@RPSQ
+D$\RPh
+L$p_^][
+L$$PQj
+|6VjdSj
+T$(RWPSU
+D$HSUVW
+T$TPQRh
+\$hURQPh
+T$Xhli
+T$XUQR
+t)<-uM
+;SIZEu	
+D$$PUQ
+T$(RWSPV
++CA;L$,
+;\$,t.
+T$ RjD
+9-ERRu
+L$<^]3
+=STLSu
+=USERu
+t4WhPr
+9(uXUj
+> u2FS
+D$(_^]
+PREAu,
+L$(_^]
+T$(_^]
+t-_^]3
+T$(_^]
+D$(_^]
+T$ QRU
+T$ RWh@n
+>SASLu(
+>AUTHu+
+V@Rh<y
+																																																																																																	
+F0_^]+
+;G ~!^]
+D$ j@P
+L$T^][3
+T$4RPQ
+T$PQRPh
+L$,PSQ
+D$$RPV
+L$DSUV
+T$ PhD}
+9|$(uO
+9|$(u7;
+T$PUVj
+L$XQRS
+D$ UPS
+\$@SUj
+D$$QRP
+L$0PQj
+t.Gj:W
+tEGj:W
+t4RWUh
+T$,j!UR
+T$\RPU
+9^Dt8W3
+D$,PVj
+uUFf;t$
+RQPh@+
+9^Hu(hX)
+nPUSWQ
+L$8QSR
+T$$RGh
+L$(RPQh,
+T$$PQRh
+T$$PQRh8
+L$,QRP
+T$HQRPh
+\$,UVW
+FT9D$<u%9D$
+L$ _[^
+:/trhh
+|'9]|u"
+L$ PSQ
+tk^][Y
+;L$ uk
+^T[_^]
+L$(QPR
+T$,RPQh
+L$TjPQ
+D$$@;D$
+L$hUVW
+T$D+l$(
+<AtX<DtT<ItP
+L$\QPh|
+L$`QPhh
+D$0QPh
+l$DURQP
+L$TQPh`t
+L$DPQj
+L$(QPS
+t\[_^]
+L$l[_^]3
+Fl+FpP
+L$ Qh,
+D$$RPh
+Vxj	RhL
+VxPQRj
+T$4PQWR
+FpRWPj
+CdUVWP3
+VLPVRh@
+|$ RPj
+D$,PQV
+T$,RSV
+T$ PQhP
+D$ QRh
+L$ RPh8
+T$ PQh
+L$ PQh
+D$<SPUj
+D$(RPh
+D$`PUW
+D$<RPj
+T$PRUW
+L$HQUW
+D$HPUW
+D$HPQW
+D$HPQW
+D$RPQW
+Vu3h @
+D$DRPhT
+D$DRPhL
+T$HRQSPh8
+D$4PQh
+u`9l$,
+T$<USR
+L$8Qh@
+L$([_^
+tA9D$ t
+D$$_^]
+|$0t"j?W
+PQWRUSV
+D$$_^]
+9L$(t$
+QRPUh 
+uc9HXu^
+\$ UV3
+ RPhX4
+;< t#<?u
+thj/UN
+9l$8u<
+L$(_^][3
+9\$Dr,;
+9\$0uA
+|$$9\$
+9l$ ug
+T9t$HsN
+D$,_^]
+L$l_^]
+TUUUw?
+|$ RWQE
+L$(9L$$
+sgVSUj
+t6SUVW
+t1USVW
+D$@8\$
+T$@PQR
+^4WPht
+L$,UQW
+T$,RWUPS
+L$(SQUj
+D$ SUV
+T$,PURQ
+D$,_^][
+QSUVW3
+T$8RPQ
+D$8PRj
+D$8PRQ
+L$8QRPS
+T$8RPS
+T$8RPS
+T$8RPS
+D$ QRPS
+L$ WRPQS
+L$8QRu'
+VPRVQP
+D$,][_^
+D$,][_^
+D$,][_^
+D$,][_@^
+UVQRPSW
+L$lQRP
+T$(RSSUSj
+T$ RSSWSj
+N0RPQj
+T$LPQR
+L$`SPQ
+D$,PVhL
+T$,RhD
+uW9s$t"
+D$XPh|
+D$,Php
+L$xRQ+
+T$8RWWW
+D$tRPV
+L$pRPQV
+T$$;T$ 
+T$pQPRV
+T$DQRP
+T$0QRSV
+D$$;D$ 
+T$0RQPSV
+L$hSPQ
+T$xRhh
+T$tQRV
+L$<RPSVQ
+T$ QRP
+T$XPQRh
+L$,_^][3
+<*u?8F
+D$(PQC
+GP_^[3
+Yj8Yjx
+Y89X8t
+P4+S4t
+V,YYG;~
+w&s)+F
+SVWhk$
+kVWj23
+E SVWP
+SVjA[jZ^+
+jAZjZ^
+RVSQSWV
+PPPPPPPP
+v	N+D$
+v	N+D$
+QQSVWd
+HHtVHHt
+~pjCXf
+URPQQh 	
+j@j _W
+<at-<rt"<wt
+< t8<	t4
+<itx<o
+<itx<o
+bWWWWj
+PP9E u
+,SVWj0X
+Wj0XPV
+@jd_u	
+PWWWWV
+PSSSSV
+j/_j\[f;
+jA[jZZ+
+tHHt*Ht#
+;t$,v-
+UQPXY]Y[
+~';_t|%3
+SSPQSW
+?:uBGW
+} kE$<
++t"HHt
+uaPPPS
+YY_^[]
+Ht+Ht$Ht
+SVWjA_jZ+
+uBjAYjZ+
+easy handle already used in multi handle
+InitSecurityInterfaceA
+secur32.dll
+security.dll
+i386-pc-win32
+7.56.0-DEV
+telnet
+gopher
+libcurl/7.56.0-DEV
+Could not resolve %s: %s
+getaddrinfo() failed for %s:%d; %s
+init_resolve_thread() failed for %s; %s
+Unrecognized parameter value passed via CURLOPT_SSLVERSION
+CURL_SSLVERSION_MAX incompatible with CURL_SSLVERSION
+CURL_SSL_BACKEND
+Hostname in DNS cache was stale, zapped
+Hostname %s was found in DNS cache
+Added %s:%d:%s to DNS cache
+Address in '%s' found illegal!
+Couldn't parse CURLOPT_RESOLVE entry '%s'!
+%255[^:]:%d:%255s
+Couldn't parse CURLOPT_RESOLVE removal entry '%s'!
+%255[^:]:%d
+<no protocol>
+unknown proxytype option given
+Connected to %s (%s) port %ld (#%ld)
+IDN support not present, can't parse Unicode domains
+Protocol "%s" not supported or disabled in libcurl
+%I64u-
+ALL_PROXY
+all_proxy
+http_proxy
+_proxy
+Port number out of range
+Port number ended with '%c'
+%s://%s%s%s:%hu%s%s%s
+;type=%c
+IPv6 numerical address used in URL without brackets
+[%*45[0123456789abcdefABCDEF:.]%c
+Couldn't find host %s in the _netrc file; using defaults
+ftp@example.com
+anonymous
+No valid port number in connect to host string (%s)
+Invalid IPv6 address format
+Please URL encode %% as %%25, see RFC 6874.
+%s%s%s
+Connecting to port: %d
+Connecting to hostname: %s
+Couldn't resolve proxy '%s'
+Couldn't resolve host '%s'
+User-Agent: %s
+Set-Cookie:
+RELOAD
+identity
+CURLOPT_SSL_VERIFYHOST no longer supports 1 as value!
+Closing connection %ld
+Connection %ld seems to be dead!
+Found pending candidate for reuse and CURLOPT_PIPEWAIT is set
+Multiplexed connection found!
+Connection #%ld isn't open enough, can't reuse
+Penalized, skip
+Pipe is full, skip (%zu)
+Connection #%ld is still name resolving, can't reuse
+Could multiplex, but not asked to!
+Could pipeline, but not asked to!
+Server doesn't support multi-use (yet)
+Server doesn't support multi-use yet, wait
+Found bundle for host %s: %p [%s]
+serially
+can multiplex
+can pipeline
+No valid port number in proxy string (%s)
+Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+Unsupported proxy scheme for '%s'
+socks4
+socks4a
+socks5
+socks5h
+NO_PROXY
+no_proxy
+memory shortage
+Rebuilt URL to: %s
+%s://%s%s
+Unwillingly accepted illegal URL using %d slash%s!
+Invalid file://hostname/, expected localhost or 127.0.0.1 or none
+127.0.0.1/
+localhost/
+%*15[^
+/:]:%[^
+<url> malformed
+/?#]%[^
+/:]:%3[/]%[^
+/?#]%[^
+Bad URL
+Bad URL, colon is first character
+Illegal characters found in URL
+No connections available.
+No connections available in cache
+No more connections allowed to host: %d
+NTLM-proxy picked AND auth done set, clear picked!
+NTLM picked AND auth done set, clear picked!
+Re-using existing connection! (#%ld) with %s %s
+We can reuse, but we want a new connection anyway
+Found connection %ld, with requests in the pipe (%zu)
+%s://%s
+Connection cache is full, closing the oldest one.
+Connection #%ld to host %s left intact
+Re-used connection seems dead, get a new one
+Internal error removing splay node = %d
+Internal error clearing splay node = %d
+In state %d with no easy_conn, bail out!
+Hostname '%s' was found in DNS cache
+Operation timed out after %ld milliseconds with %I64d bytes received
+Operation timed out after %ld milliseconds with %I64d out of %I64d bytes received
+Connection timed out after %ld milliseconds
+Resolving timed out after %ld milliseconds
+Pipe broke: handle %p, url = %s
+[%s %s %s]
+Header
+Recv failure: %s
+Failed writing header
+Failed writing body (%zu != %zu)
+Write callback asked for PAUSE when not supported!
+Send failure: %s
+.A%s cookie %s="%s" for domain %s, path %s, expire %I64d
+Replaced
+#HttpOnly_
+expires
+max-age
+version
+skipped cookie with bad tailmatch domain: %s
+localhost
+domain
+httponly
+secure
+%1023[^;
+=] =%4999[^;
+%s%s%s	%s	%s	%s	%I64d	%s	%s
+unknown
+# Fatal libcurl error
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/docs/http-cookies.html
+# This file was generated by libcurl! Edit at your own risk.
+ignoring failed cookie_init for %s
+WARNING: failed to save cookies in %s
+Failed to set SIO_KEEPALIVE_VALS on fd %d: %d
+Failed to set SO_KEEPALIVE on fd %d
+bind failed with errno %d: %s
+Local port: %hu
+Couldn't bind to '%s'
+getsockname() failed with errno %d: %s
+Bind to local port %hu failed, trying next
+Name '%s' family %i resolved to '%s' family %i
+Couldn't bind to interface '%s'
+Local Interface %s is ip %s using address family %i
+ssloc inet_ntop() failed with errno %d: %s
+ssrem inet_ntop() failed with errno %d: %s
+getpeername() failed with errno %d: %s
+TCP_NODELAY set
+Could not set TCP_NODELAY: %s
+Immediate connect fail for %s: %s
+  Trying %s...
+sa_addr inet_ntop() failed with errno %d: %s
+Connection time-out
+Failed to connect to %s port %ld: %s
+Connection failed
+connect to %s port %ld failed: %s
+After %ldms connect time, move on!
+AddDllDirectory
+LoadLibraryExA
+kernel32
+0123456789abcdefghijklmnopqrstuvwxyz
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Unknown error
+Stream error in the HTTP/2 framing layer
+SSL server certificate status verification FAILED
+SSL public key does not match pinned public key
+The max connection limit is reached
+Chunk callback failed
+Unable to parse FTP file list
+RTSP session error
+RTSP CSeq mismatch or invalid CSeq
+Socket not ready for send/recv
+Error in the SSH layer
+Remote file not found
+Caller must register CURLOPT_CONV_ callback options
+Conversion failed
+TFTP: No such user
+Remote file already exists
+TFTP: Unknown transfer ID
+TFTP: Illegal operation
+Disk full or allocation exceeded
+TFTP: Access Violation
+TFTP: File Not Found
+Login denied
+Send failed since rewinding of the data stream failed
+Issuer check against peer certificate failed
+Failed to load CRL file (path? access rights?, format?)
+Failed to shut down the SSL connection
+Requested SSL level failed
+Maximum file size exceeded
+Invalid LDAP URL
+Unrecognized or bad HTTP Content or Transfer-Encoding
+Problem with the SSL CA cert (path? access rights?)
+Peer certificate cannot be authenticated with given CA certificates
+Couldn't use specified SSL cipher
+Problem with the local SSL certificate
+Failure when receiving data from the peer
+Failed sending data to the peer
+Failed to initialise SSL crypto engine
+Can not set SSL crypto engine as default
+SSL crypto engine not found
+Server returned nothing (no headers, no data)
+SSL peer certificate or SSH remote key was not OK
+Malformed telnet option
+An unknown option was passed in to libcurl
+Number of redirects hit maximum amount
+Failed binding local connection end
+A libcurl function was given a bad argument
+Operation was aborted by an application callback
+A required function in the library was not found
+LDAP: search failed
+LDAP: cannot bind
+Couldn't read a file:// file
+Couldn't resume download
+SSL connect error
+Internal problem setting up the POST
+Requested range was not delivered by the server
+FTP: command REST failed
+FTP: command PORT failed
+Timeout was reached
+Out of memory
+Failed to open/read local data from file/application
+Upload failed (at start/before it took off)
+Failed writing received data to disk/application
+HTTP response code said error
+Quote command returned error
+FTP: couldn't retrieve (RETR failed) the specified file
+Transferred a partial file
+FTP: couldn't set file type
+Error in the HTTP2 framing layer
+FTP: can't figure out the host in the PASV response
+FTP: unknown 227 response format
+FTP: unknown PASV reply
+FTP: unknown PASS reply
+FTP: The server did not accept the PRET command.
+FTP: Accepting server connect has timed out
+FTP: The server failed to connect to data port
+Access denied to remote resource
+Weird server reply
+Couldn't connect to server
+Couldn't resolve host name
+Couldn't resolve proxy name
+A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+URL using bad/illegal format or missing URL
+Failed initialization
+Unsupported protocol
+No error
+Host not found, try again
+Unrecoverable error in call to nameserver
+No data record of requested type
+Host not found
+Winsock version not supported
+Winsock library not initialised
+Winsock library is not ready
+Disconnected
+Remote error
+Something is stale
+Bad quota
+Too many users
+Process limit reached
+Not empty
+Host unreachable
+Host down
+Name too long
+Loop??
+Connection refused
+Timed out
+Too many references
+Socket has been shut down
+Socket is not connected
+Socket is already connected
+No buffer space
+Connection was reset
+Connection was aborted
+Network has been reset
+Network unreachable
+Network down
+Address not available
+Address already in use
+Protocol family not supported
+Address family not supported
+Operation not supported
+Socket is unsupported
+Protocol is unsupported
+Protocol option is unsupported
+Bad protocol
+Bad message size
+Need destination address
+Descriptor is not a socket
+Blocking call in progress
+Call would block
+Out of file descriptors
+Invalid arguments
+Bad argument
+Bad access
+Bad file
+Call interrupted
+Unknown error %d (%#x)
+SEC_E_ILLEGAL_MESSAGE (0x%08X) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+SEC_I_SIGNATURE_NEEDED
+SEC_I_RENEGOTIATE
+SEC_I_NO_LSA_CONTEXT
+SEC_I_LOCAL_LOGON
+SEC_I_INCOMPLETE_CREDENTIALS
+SEC_I_CONTEXT_EXPIRED
+SEC_I_COMPLETE_NEEDED
+SEC_I_COMPLETE_AND_CONTINUE
+SEC_I_CONTINUE_NEEDED
+%s - %s
+%s (0x%08X)
+CRYPT_E_REVOKED
+SEC_E_WRONG_PRINCIPAL
+SEC_E_WRONG_CREDENTIAL_HANDLE
+SEC_E_UNTRUSTED_ROOT
+SEC_E_UNSUPPORTED_PREAUTH
+SEC_E_UNSUPPORTED_FUNCTION
+SEC_E_UNKNOWN_CREDENTIALS
+SEC_E_UNFINISHED_CONTEXT_DELETED
+SEC_E_TOO_MANY_PRINCIPALS
+SEC_E_TIME_SKEW
+SEC_E_TARGET_UNKNOWN
+SEC_E_STRONG_CRYPTO_NOT_SUPPORTED
+SEC_E_SMARTCARD_LOGON_REQUIRED
+SEC_E_SMARTCARD_CERT_REVOKED
+SEC_E_SMARTCARD_CERT_EXPIRED
+SEC_E_SHUTDOWN_IN_PROGRESS
+SEC_E_SECURITY_QOS_FAILED
+SEC_E_SECPKG_NOT_FOUND
+SEC_E_REVOCATION_OFFLINE_KDC
+SEC_E_REVOCATION_OFFLINE_C
+SEC_E_QOP_NOT_SUPPORTED
+SEC_E_POLICY_NLTM_ONLY
+SEC_E_PKINIT_NAME_MISMATCH
+SEC_E_PKINIT_CLIENT_FAILURE
+SEC_E_OUT_OF_SEQUENCE
+SEC_E_NO_TGT_REPLY
+SEC_E_NO_S4U_PROT_SUPPORT
+SEC_E_NO_PA_DATA
+SEC_E_NO_KERB_KEY
+SEC_E_NO_IP_ADDRESSES
+SEC_E_NO_IMPERSONATION
+SEC_E_NO_CREDENTIALS
+SEC_E_NO_AUTHENTICATING_AUTHORITY
+SEC_E_NOT_OWNER
+SEC_E_MUST_BE_KDC
+SEC_E_MULTIPLE_ACCOUNTS
+SEC_E_MESSAGE_ALTERED
+SEC_E_MAX_REFERRALS_EXCEEDED
+SEC_E_LOGON_DENIED
+SEC_E_KDC_UNKNOWN_ETYPE
+SEC_E_KDC_UNABLE_TO_REFER
+SEC_E_KDC_INVALID_REQUEST
+SEC_E_KDC_CERT_REVOKED
+SEC_E_KDC_CERT_EXPIRED
+SEC_E_ISSUING_CA_UNTRUSTED_KDC
+SEC_E_ISSUING_CA_UNTRUSTED
+SEC_E_INVALID_TOKEN
+SEC_E_INVALID_PARAMETER
+SEC_E_INVALID_HANDLE
+SEC_E_INTERNAL_ERROR
+SEC_E_INSUFFICIENT_MEMORY
+SEC_E_INCOMPLETE_MESSAGE
+SEC_E_INCOMPLETE_CREDENTIALS
+SEC_E_ILLEGAL_MESSAGE
+SEC_E_ENCRYPT_FAILURE
+SEC_E_DOWNGRADE_DETECTED
+SEC_E_DELEGATION_REQUIRED
+SEC_E_DELEGATION_POLICY
+SEC_E_DECRYPT_FAILURE
+SEC_E_CRYPTO_SYSTEM_INVALID
+SEC_E_CROSSREALM_DELEGATION_FAILURE
+SEC_E_CONTEXT_EXPIRED
+SEC_E_CERT_WRONG_USAGE
+SEC_E_CERT_UNKNOWN
+SEC_E_CERT_EXPIRED
+SEC_E_CANNOT_PACK
+SEC_E_CANNOT_INSTALL
+SEC_E_BUFFER_TOO_SMALL
+SEC_E_BAD_PKGID
+SEC_E_BAD_BINDINGS
+SEC_E_ALGORITHM_MISMATCH
+0123456789
+0123456789abcdef
+0123456789ABCDEF
+schannel
+Schannel: TLS 1.3 is not yet supported
+schannel: failed to send initial handshake data: sent %zd of %lu bytes
+schannel: sent initial handshake data: sent %zd bytes
+schannel: sending initial handshake data: sending %lu bytes...
+schannel: initial InitializeSecurityContext failed: %s
+schannel: using IP address, SNI is not supported by OS.
+Unrecognized parameter passed via CURLOPT_SSLVERSION
+schannel: AcquireCredentialsHandle failed: %s
+schannel: SNI or certificate check failed: %s
+Microsoft Unified Security Protocol Provider
+schannel: unable to allocate memory
+schannel: verifyhost setting prevents Schannel from comparing the supplied target name with the subject names in server certificates.
+schannel: disabled server certificate revocation checks
+schannel: checking server certificate revocation
+schannel: incremented credential handle refcount = %d
+schannel: re-using existing credential handle
+schannel: WinSSL version is old and may not be able to connect to some servers due to lack of SNI, algorithms, etc.
+schannel: SSL/TLS connection with %s port %hu (step 1/3)
+schannel: SSL/TLS handshake complete
+schannel: failed to send next handshake data: sent %zd of %lu bytes
+schannel: a client certificate has been requested
+schannel: received incomplete message, need more data
+schannel: failed to receive handshake, SSL/TLS connection failed
+schannel: failed to receive handshake, need more data
+schannel: next InitializeSecurityContext failed: %s
+schannel: encrypted data length: %lu
+schannel: sending next handshake data: sending %lu bytes...
+schannel: encrypted data buffer: offset %zu length %zu
+schannel: encrypted data got %zd
+schannel: unable to re-allocate memory
+schannel: SSL/TLS connection with %s port %hu (step 2/3)
+schannel: failed to retrieve remote cert context
+schannel: stored credential handle in session cache
+schannel: failed to store credential handle
+schannel: old credential handle is stale, removing
+schannel: failed to setup stream orientation
+schannel: failed to setup memory allocation
+schannel: failed to setup confidentiality
+schannel: failed to setup replay detection
+schannel: failed to setup sequence detection
+schannel: SSL/TLS connection with %s port %hu (step 3/3)
+select/poll on SSL socket, errno: %d
+schannel: timed out sending data (bytes sent: %zd)
+schannel: decrypted data returned %zu
+schannel: server closed abruptly (missing close_notify)
+schannel: renegotiation failed
+schannel: can't renogotiate, encrypted data available
+schannel: can't renogotiate, an error is pending
+schannel: failed to read data from server: %s
+schannel: failed to decrypt data, need more data
+schannel: schannel_recv cleanup
+schannel: decrypted data buffer: offset %zu length %zu
+schannel: SSL/TLS connection renegotiated
+schannel: renegotiating SSL/TLS connection
+schannel: remote party requests renegotiation
+schannel: encrypted data cached: offset %zu length %zu
+schannel: decrypted data cached: offset %zu length %zu
+schannel: decrypted data added: %zu
+schannel: decrypted data length: %lu
+schannel: server closed the connection
+schannel: Curl_read_plain returned error %d
+schannel: Curl_read_plain returned CURLE_RECV_ERROR
+schannel: Curl_read_plain returned CURLE_AGAIN
+schannel: encdata_buffer resized %zu
+schannel: server indicated shutdown in a prior call
+schannel: an unrecoverable error occurred in a prior call
+schannel: enough decrypted data is already available
+schannel: client wants to read %zu bytes
+schannel: clear security context handle
+schannel: failed to send close msg: %s (bytes written: %zd)
+schannel: ApplyControlToken failure: %s
+schannel: shutting down SSL/TLS connection with %s port %hu
+WinSSL
+select/poll on SSL/TLS socket, errno: %d
+SSL/TLS connection timeout
+%7I64dd
+%3I64dd %02I64dh
+%2I64d:%02I64d:%02I64d
+--:--:--
+%4I64dP
+%4I64dT
+%4I64dG
+%2I64d.%0I64dG
+%4I64dM
+%2I64d.%0I64dM
+%4I64dk
+%5I64d
+%3I64d %s  %3I64d %s  %3I64d %s  %s  %s %s %s %s %s
+  %% Total    %% Received %% Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+** Resuming transfer from byte position %I64d
+Callback aborted
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_
+%c%c==
+%c%c%c=
+%c%c%c%c
+%d.%d.%d.%d
+GOPHER
+Failed sending Gopher request
+Got an RTP Receive with a CSeq of %ld
+The CSeq of this request %ld did not match the response %ld
+Got invalid RTSP request
+Got invalid RTSP request: RTSPREQ_LAST
+Failed sending RTSP request
+Content-Type: application/sdp
+Content-Type: text/parameters
+Content-Type:
+Content-Length: %I64d
+Content-Length:
+%s%s%s%s%s%s%s%s
+Session: %s
+%s %s RTSP/1.0
+CSeq: %ld
+Session ID cannot be set as a custom header.
+Session:
+CSeq cannot be set as a custom header.
+Range: %s
+Range:
+Referer: %s
+Referer:
+User-Agent:
+Accept-Encoding: %s
+Accept-Encoding:
+Accept: application/sdp
+Accept:
+Refusing to issue an RTSP SETUP without a Transport: header.
+Transport: %s
+Transport:
+Refusing to issue an RTSP request [%s] without a session ID.
+RECORD
+SET_PARAMETER
+GET_PARAMETER
+TEARDOWN
+ANNOUNCE
+DESCRIBE
+OPTIONS
+Failed writing RTP data
+Cannot pause RTP
+Cannot write a 0 size RTP packet.
+Got RTSP Session ID Line [%s], but wanted ID [%s]
+Got a blank Session ID
+Unable to read the CSeq header: [%s]
+Got an error writing an RTP packet
+EHLO %s
+HELO %s
+STARTTLS
+AUTH %s
+AUTH %s %s
+No known authentication mechanisms supported!
+MAIL FROM:%s SIZE=%s
+MAIL FROM:%s AUTH=%s SIZE=%s
+MAIL FROM:%s AUTH=%s
+MAIL FROM:%s
+RCPT TO:<%s>
+RCPT TO:%s
+Got unexpected smtp-server response: %d
+STARTTLS denied, code %d
+STARTTLS not supported.
+Remote access denied: %d
+Authentication cancelled
+Command failed: %d
+MAIL failed: %d
+RCPT failed: %d
+DATA failed: %d
+Failed to alloc scratch buffer!
+NT LM 0.12
+Invalid input packet
+USER %s
+APOP %s %s
+Got unexpected pop3-server response
+STLS not supported.
+STARTTLS denied
+Authentication failed: %d
+PASS %s
+Access denied. %c
+Unexpected continuation response
+EXPUNGE
+SEARCH
+EXAMINE
+SELECT
+CAPABILITY
+Failed to parse FETCH response.
+Written %I64u bytes, %I64u bytes are left for transfer
+Found %I64u bytes to download
+%c%03d
+(){ %*]
+PARTIAL
+SECTION
+UIDVALIDITY
+LOGIN %s %s
+AUTHENTICATE %s
+AUTHENTICATE %s %s
+LIST "%s" *
+SELECT %s
+Cannot SELECT without a mailbox.
+FETCH %s BODY[%s]
+FETCH %s BODY[%s]<%s>
+Cannot FETCH without a UID.
+APPEND %s (\Seen) {%I64d}
+Cannot APPEND with unknown input file size
+Cannot APPEND without a mailbox.
+SEARCH %s
+Cannot SEARCH without a query string.
+LOGOUT
+Got unexpected imap-server response
+PREAUTH connection, already authenticated!
+LOGINDISABLED
+Select failed
+Mailbox UIDVALIDITY has changed
+OK [UIDVALIDITY %19[0123456789]]
+set timeouts for state %d; Total %ld, retry %d maxtry %d
+invalid tsize -:%s:- value in OACK packet
+%s (%ld)
+server requested blksize larger than allocated
+blksize is smaller than min supported
+%s (%d)
+blksize is larger than max supported
+invalid blocksize value in OACK packet
+Malformed ACK packet, rejecting
+%s (%ld)
+tsize parsed from OACK
+%s (%d) %s (%d)
+blksize parsed from OACK
+requested
+blksize
+got option=(%s) value=(%s)
+tftp_rx: internal error
+Timeout waiting for block %d ACK.  Retries = %d
+Received unexpected DATA packet block %d, expecting block %d
+Received last DATA packet block %d again.
+tftp_tx: internal error, event: %i
+tftp_tx: giving up waiting for block %d ack
+Received ACK for block %d, expecting %d
+bind() failed; %s
+;mode=
+Connected for transmit
+Connected for receive
+tftp_send_first: internal error
+timeout
+%s%c%s%c
+TFTP file name too long
+netascii
+Internal state machine error
+TFTP finished
+Internal error: Unexpected packet
+Received too short packet
+TFTP response timeout
+Can't get the size of %s
+Can't open %s for writing
+failed to resume file:// transfer
+Can't get the size of file.
+Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT
+Accept-ranges: bytes
+Couldn't open file %s
+subtree
+onetree
+There are more than %d entries
+;binary
+LDAP remote: %s
+LDAP local: ldap_simple_bind_s %s
+LDAP local: Cannot connect to %s:%ld
+LDAP local: trying to establish %s connection
+cleartext
+encrypted
+LDAP local: %s
+LDAP local: %s
+LDAP local: LDAP Vendor = %s ; LDAP Version = %d
+Microsoft Corporation.
+CLIENT libcurl 7.56.0-DEV
+MATCH %s %s %s
+CLIENT libcurl 7.56.0-DEV
+DEFINE %s %s
+default
+lookup word is missing
+Failed sending DICT request
+CLIENT libcurl 7.56.0-DEV
+/LOOKUP:
+/DEFINE:
+/FIND:
+/MATCH:
+TELNET
+NEW-ENVIRON
+ENCRYPT
+AUTHENTICATION
+OLD-ENVIRON
+XDISPLOC
+LINEMODE
+TERM SPEED
+X3 PAD
+3270 REGIME
+TTYLOC
+OUTPUT MARKING
+TACACS UID
+END OF RECORD
+TERM TYPE
+SEND LOCATION
+SUPDUP OUTPUT
+SUPDUP
+DE TERMINAL
+BYTE MACRO
+EXTEND ASCII
+NAOLFD
+NAOVTD
+NAOVTS
+NAOFFD
+NAOHTD
+NAOHTS
+NAOCRD
+TIMING MARK
+STATUS
+SUPPRESS GO AHEAD
+BINARY
+insufficient winsock version to support telnet
+WSAStartup failed (%d)
+%s %d %d
+%s %s %d
+%s %s %s
+%s IAC %d
+%s IAC %s
+Sending data failed (%d)
+Width: %hu ; Height: %hu
+ INFO/REPLY
+%d (unknown)
+%s (unsupported)
+(Empty suboption?)
+, not IAC SE!) 
+(terminated by 
+%s IAC SB 
+Unknown telnet option %s
+Syntax error in telnet option: %s
+%hu%*[xX]%hu
+NEW_ENV
+%127[^= ]%*[ =]%255s
+USER,%s
+%c%c%c%c%s%c%c
+%c%s%c%s
+%127[^,],%127s
+In SUBOPTION processing, RCVD
+FreeLibrary(wsock2) failed (%u)
+WSACloseEvent failed (%d)
+Time-out
+WSAEnumNetworkEvents failed (%d)
+WSACreateEvent failed (%d)
+failed to find WSAEnumNetworkEvents function (%u)
+WSAEnumNetworkEvents
+failed to find WSAEventSelect function (%u)
+WSAEventSelect
+failed to find WSACloseEvent function (%u)
+WSACloseEvent
+failed to find WSACreateEvent function (%u)
+WSACreateEvent
+failed to load WS2_32.DLL (%u)
+WS2_32.DLL
+Connection accepted from server
+Error accept()ing server connect
+Failure sending PORT command: %s
+,%d,%d
+Failure sending EPRT command: %s
+%s |%d|%s|%hu|
+bind() failed, we ran out of ports!
+bind(port=%hu) failed: %s
+bind(port=%hu) on non-local address failed: %s
+socket failure: %s
+failed to resolve the address provided to PORT: %s
+getsockname() failed: %s
+Connect data stream passively
+STOR %s
+APPE %s
+Failed to read data
+File already completely uploaded
+Could not seek stream
+SIZE %s
+Failed EPSV attempt. Disabling EPSV
+Failed EPSV attempt, exiting
+RETR %s
+REST %I64d
+Instructs server to resume from offset %I64d
+File already completely downloaded
+Offset (%I64d) was beyond file size (%I64d)
+ftp server doesn't support SIZE
+PBSZ %d
+Access denied: %03d
+ACCT requested but none available
+ACCT %s
+ACCT rejected by server: %03d
+Connecting to %s (%s) port %d
+Failure sending QUIT command: %s
+Request has same path as previous transfer
+Uploading to a URL without a file name!
+no memory
+;type=
+Doing the SSL/TLS handshake on the data stream
+We got a 421 - timeout!
+FTP response aborted due to select/poll error: %d
+FTP response timeout
+MDTM %s
+Bad PASV/EPSV response: %03d
+Can't resolve new host %s:%hu
+Can't resolve proxy host %s:%hu
+Skip %d.%d.%d.%d for data connection, re-use %s instead
+Couldn't interpret the 227-response
+%d,%d,%d,%d,%d,%d
+Weirdly formatted EPSV reply
+Illegal port number in EPSV reply
+%c%c%c%u%c
+Skipping time comparison
+The requested document is not old enough
+%04d%02d%02d %02d:%02d:%02d GMT
+%04d%02d%02d%02d%02d%02d
+Given file does not exist
+The requested document is not new enough
+unsupported MDTM reply format
+QUOT string not accepted: %s
+Wildcard - Parsing started
+Wildcard - "%s" skipped by user
+Wildcard - START of "%s"
+Error while waiting for server connect
+Ctrl conn has data while waiting for data conn
+Ready to accept data connection from server
+There is negative response in cache while serv connect
+Accept timeout occurred while waiting server connect
+Checking for server connect
+Preparing for accepting server on data port
+CWD %s
+Data conn was not available immediately
+Failed FTP upload: %0d
+Getting file with size: %I64d
+Maxdownload = %I64d
+ bytes
+RETR response: %03d
+No data was received!
+Received only partial file: %I64d bytes
+Uploaded unaligned file size (%I64d out of %I64d bytes)
+server did not report OK, got %d
+partial download completed, closing connection
+control connection looks dead
+Failure sending ABOR command: %s
+Remembering we are in dir "%s"
+ftp_perform ends with SECONDARY: %d
+PRET RETR %s
+PRET STOR %s
+PRET %s
+REST %d
+Got a %03d response code instead of the assumed 200
+Couldn't set desired mode
+Couldn't use REST
+TYPE %c
+Connect data stream actively
+Failed to do PORT
+disabling EPRT usage
+PRET command not accepted: %03d
+Failed to MKD dir: %03d
+Server denied you to change to the given directory
+MKD %s
+QUOT command failed with %03d
+SITE NAMEFMT 1
+OS/400
+Failed to figure out path
+Entry path is '%s'
+Failed to clear the command channel (CCC)
+PROT %c
+unsupported parameter to CURLOPT_FTPSSLAUTH: %d
+Got a %03d ftp-server response when 220 was expected
+%sAuthorization: Basic %s
+Proxy-
+Rewind stream after send
+NTLM send, close instead of sending %I64d bytes
+%s auth using %s with user '%s'
+Server
+Authorization:
+Proxy-authorization:
+Digest
+Negotiate
+Authentication problem. Ignoring this.
+Ignoring duplicate digest auth header.
+Empty reply from server
+%s: %s, %02d %s %4d %02d:%02d:%02d GMT
+If-Modified-Since
+If-Unmodified-Since
+Last-Modified
+Invalid TIMEVALUE
+Failed to alloc memory for big header!
+Avoided giant realloc for header (max is %d)!
+The requested URL returned error: %d
+The requested URL returned error: %s
+Expect: 100-continue
+100-continue
+Transfer-Encoding:
+Connection
+Content-Length
+upload completely sent off: %I64d out of %I64d bytes
+Failed sending HTTP POST request
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+Failed sending POST request
+Could not get Content-Type header line!
+Internal HTTP POST error!
+Failed sending PUT request
+Failed sending HTTP request
+%s%s=%s
+Cookie: 
+%s HTTP/%s
+%s%s%s%s%s%s%s%s%s%s%s
+Proxy-Connection: Keep-Alive
+Proxy-Connection:
+ftp://%s:%s@%s
+Content-Range: bytes %s/%I64d
+Content-Range: bytes %s%I64d/%I64d
+Content-Range: bytes 0-%I64d/%I64d
+Content-Range:
+Range: bytes=%s
+Could only read %I64d bytes from the input
+File already completely uploaded
+Host: %s%s%s:%hu
+Host: %s%s%s
+Accept: */*
+ftp://
+Transfer-Encoding: chunked
+Chunky upload is not supported by HTTP 1.0
+chunked
+Cookie:
+Unsupported HTTP version in response
+Received 101
+Keep sending data to get tossed away!
+HTTP error before end of send, stop sending
+HTTP error before end of send, keep sending
+Connection closure while negotiating auth (HTTP 1.0?)
+no chunk, no close, no size. Assume close to signal end
+Location:
+Proxy-authenticate:
+WWW-Authenticate:
+Last-Modified:
+Content-Encoding:
+x-gzip
+deflate
+HTTP/1.0 connection set to keep alive!
+Connection:
+HTTP/1.1 proxy connection set close!
+HTTP/1.0 proxy connection set to keep alive!
+keep-alive
+Server:
+Illegal Content-Length: header
+Negative content-length: %I64d, closing after transfer
+HTTP 1.0, assume close after body
+ RTSP/%d.%d %3d
+ HTTP %3d
+Lying server, not serving HTTP/2
+ HTTP/2 %d
+ HTTP/%1d.%1d%c%3d
+Conn: %ld (%p) Receive pipe weight: (%I64d/%zu), penalized: %s
+Site %s:%d is pipeline blacklisted
+Server %s is blacklisted
+Failed to receive SOCKS4 connect request ack.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), Unknown.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected or failed.
+SOCKS4%s request granted.
+SOCKS4 reply has wrong version, version should be 4.
+Failed to send SOCKS4 connect request.
+Too long SOCKS proxy name, can't use!
+Failed to resolve "%s" for SOCKS4 connect.
+SOCKS4 connection to %s not supported
+SOCKS4 connect to IPv4 %s (locally resolved)
+SOCKS4 communication to %s:%d
+SOCKS4%s: connecting to HTTP proxy %s port %d
+Unable to send initial SOCKS5 request.
+Unable to receive initial SOCKS5 response.
+Undocumented SOCKS5 mode attempted to be used by server.
+No authentication method was acceptable. (It is quite likely that the SOCKS5 server wanted a username/password, since none was supplied to the server on this connection.)
+No authentication method was acceptable.
+SOCKS5 GSSAPI per-message authentication is not supported.
+Failed to send SOCKS5 sub-negotiation request.
+Unable to receive SOCKS5 sub-negotiation response.
+Failed to send SOCKS5 connect request.
+SOCKS5 request granted.
+Can't complete SOCKS5 connection to %02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%d. (%d)
+Can't complete SOCKS5 connection to %s:%d. (%d)
+Can't complete SOCKS5 connection to %d.%d.%d.%d:%d. (%d)
+SOCKS5 reply has wrong version, version should be 5.
+Failed to receive SOCKS5 connect request ack.
+Failed to resolve "%s" for SOCKS5 connect.
+SOCKS5 connection to %s not supported
+SOCKS5 connect to IPv6 %s (locally resolved)
+SOCKS5 connect to IPv4 %s (locally resolved)
+SOCKS5 GSS-API protection not yet implemented.
+User was rejected by the SOCKS5 server (%d %d).
+Unable to negotiate SOCKS5 GSS-API context.
+Received invalid version in initial SOCKS5 response.
+SOCKS5 read error occurred
+SOCKS5 read timeout
+SOCKS5 nothing to read
+SOCKS5 communication to %s:%d
+warning: unsupported value passed to CURLOPT_SOCKS5_AUTH: %lu
+SOCKS5: error occurred during connection
+SOCKS5: connection timeout
+SOCKS5: no connection here
+SOCKS5: server resolving disabled for hostnames of length > 255 [actual len=%zu]
+SOCKS5: connecting to HTTP proxy %s port %d
+allocate connect buffer!
+CONNECT phase completed!
+Proxy replied OK to CONNECT request
+Received HTTP code %d from proxy after CONNECT
+Connect me again please
+CONNECT response too large!
+Proxy CONNECT aborted due to timeout
+Proxy CONNECT aborted
+Proxy CONNECT connection closed
+Ignore chunked response-body
+Ignore %I64d bytes of response-body
+HTTP/1.%d %d
+CONNECT responded chunked
+Ignoring Transfer-Encoding in CONNECT %03d response
+Ignoring Content-Length in CONNECT %03d response
+chunk reading DONE
+Failed sending CONNECT to proxy
+CONNECT %s HTTP/%s
+%s%s%s%s
+Host: %s
+%s%s%s:%hu
+CONNECT
+%s:%hu
+Establish HTTP proxy tunnel to %s:%hu
+machine
+password
+_netrc
+Operation too slow. Less than %ld bytes/sec transferred the last %ld seconds
+%sAuthorization: Digest %s
+%sAuthorization: NTLM %s
+NTLM handshake failure (internal error)
+NTLM handshake rejected
+NTLM auth restarted
+read function returned funny value
+Read callback asked for PAUSE when not supported!
+operation aborted by callback
+necessary data rewind wasn't possible
+ioctl callback returned error %d
+the ioctl callback returned %d
+seek callback returned error %d
+we are done reading and this is set to close, stop send
+%s in chunked-encoding
+Failed writing data
+Simulate a HTTP 304 response!
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+The entire document is already downloaded
+Excess found in a non pipelined read: excess = %zd url = %s (zero-length body)
+Excess found in a non pipelined read: excess = %zu, size = %I64d, maxdownload = %I64d, bytecount = %I64d
+Rewinding stream by : %zu bytes on url %s (size = %I64d, maxdownload = %I64d, bytecount = %I64d, nread = %zd)
+Rewinding %zu bytes
+Leftovers after chunking: %zu bytes
+Ignoring the response-body
+Rewinding stream by : %zd bytes on url %s (zero-length body)
+We are completely uploaded and fine
+transfer closed with outstanding read data remaining
+transfer closed with %I64d bytes remaining to read
+Done waiting for 100-continue
+select/poll returned error
+No URL set!
+%%%02x
+%15[^?&/:]://%c
+Switch from POST to GET
+Disables POST, goes with %s
+Issue another request to this URL: '%s'
+Maximum (%ld) redirects followed
+Connection died, retrying a fresh connect
+Sunday
+Saturday
+Friday
+Thursday
+Wednesday
+Tuesday
+Monday
+%02d:%02d%n
+%02d:%02d:%02d%n
+%31[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]
+sha512
+2.16.840.1.101.3.4.2.3
+sha384
+2.16.840.1.101.3.4.2.2
+sha256
+2.16.840.1.101.3.4.2.1
+sha224
+2.16.840.1.101.3.4.2.4
+basicConstraints
+2.5.29.19
+issuerAltName
+2.5.29.18
+subjectAltName
+2.5.4.72
+emailAddress
+1.2.840.113549.1.9.1
+pseudonym
+2.5.4.65
+dnQualifier
+2.5.4.46
+X500UniqueIdentifier
+2.5.4.45
+generationQualifier
+2.5.4.44
+initials
+2.5.4.43
+givenName
+2.5.4.42
+2.5.4.41
+postalCode
+2.5.4.17
+description
+2.5.4.13
+2.5.4.12
+2.5.4.11
+2.5.4.10
+streetAddress
+2.5.4.9
+2.5.4.8
+2.5.4.7
+2.5.4.6
+serialNumber
+2.5.4.5
+2.5.4.4
+1.3.14.3.2.26
+1.2.840.113549.2.5
+1.2.840.113549.2.2
+sha512WithRSAEncryption
+1.2.840.113549.1.1.13
+sha384WithRSAEncryption
+1.2.840.113549.1.1.12
+sha256WithRSAEncryption
+1.2.840.113549.1.1.11
+sha224WithRSAEncryption
+1.2.840.113549.1.1.14
+RSASSA-PSS
+1.2.840.113549.1.1.10
+sha1WithRSAEncryption
+1.2.840.113549.1.1.5
+md5WithRSAEncryption
+1.2.840.113549.1.1.4
+md2WithRSAEncryption
+1.2.840.113549.1.1.2
+rsaEncryption
+1.2.840.113549.1.1.1
+dhpublicnumber
+1.2.840.10046.2.1
+ecdsa-with-SHA1
+1.2.840.10045.4.1
+c2pnb163v1
+1.2.840.10045.3.0.1
+ecPublicKey
+1.2.840.10045.2.1
+dsa-with-sha1
+1.2.840.10040.4.3
+1.2.840.10040.4.1
+2.5.4.3
+2.5.29.17
+%.4s-%.2s-%.2s %.2s:%.2s:%c%c%s%.*s%s%.*s
+%u%.2s-%.2s-%.2s %.2s:%.2s:%.2s %.*s
+   %s: %s
+dh(pub_key)
+dsa(pub_key)
+dsa(g)
+dsa(q)
+dsa(p)
+rsa(e)
+rsa(n)
+RSA Public Key
+   RSA Public Key (%lu bits)
+-----END CERTIFICATE-----
+-----BEGIN CERTIFICATE-----
+   Signature: %s
+Signature
+   Public Key Algorithm: %s
+Public Key Algorithm
+   Expire Date: %s
+Expire Date
+   Start Date: %s
+Start Date
+   Signature Algorithm: %s
+Signature Algorithm
+   Serial Number: %s
+Serial Number
+   Version: %lu (0x%lx)
+Version
+   Issuer: %s
+Issuer
+%2d Subject: %s
+Subject
+Excessive server response line length received, %zd bytes. Stripping
+response reading failed
+select/poll error
+server response timeout
+OAUTHBEARER
+XOAUTH2
+EXTERNAL
+GSSAPI
+DIGEST-MD5
+CRAM-MD5
+Unsupported SASL authentication mechanism
+KGS!@#$% -> 
+rwx-tTsS
+total 
+APM0123456789:
+0123456789-
+%sAuthorization: Negotiate %s
+WDigest
+DIGEST-MD5 handshake failure (empty challenge message)
+digest_sspi: MakeSignature failed, error 0x%08lx
+NTLM handshake failure (empty type-2 message)
+NTLM handshake failure (type-3 message): Status=%x
+InitializeSecurityContext failed: %s
+SPNEGO handshake failure (empty challenge message)
+application/xml
+text/html
+text/plain
+image/jpeg
+image/gif
+; filename="%s"
+--%s--
+--%s--
+couldn't open file "%s"
+Content-Type: %s
+Content-Disposition: attachment
+Content-Type: multipart/mixed; boundary=%s
+Content-Disposition: form-data; name="
+%s; boundary=%s
+Content-Type: multipart/form-data
+Bad content-encoding found
+Write error
+Malformed encoding found
+Illegal or missing hexadecimal sequence
+Too long hexadecimal number
+SSPI error: %s failed: %s
+Failed to receive SSPI authentication response.
+Failed to receive SSPI authentication token.
+Invalid SSPI authentication response type (%u %u).
+Failed to send SSPI encryption request.
+Failed to receive SSPI encryption response.
+Failed to receive SSPI encryption type.
+SOCKS5 access with%s protection granted.
+ GSS-API confidentiality
+ GSS-API integrity
+out GSS-API data
+Invalid SSPI encryption response length (%lu).
+DecryptMessage
+Invalid SSPI encryption response type (%u %u).
+User was rejected by the SOCKS5 server (%u %u).
+Failed to send SSPI encryption type.
+EncryptMessage
+Failed to query security context attributes.
+QueryContextAttributes
+SOCKS5 server supports GSS-API %s data protection.
+confidentiality
+integrity
+SOCKS5 server authencticated user %s with GSS-API.
+Failed to determine user name.
+QueryCredentialAttributes
+Failed to send SSPI authentication request.
+Failed to send SSPI authentication token.
+Failed to initialise security context.
+InitializeSecurityContext
+Failed to acquire credentials.
+AcquireCredentialsHandle
+Kerberos
+GSSAPI handshake failure (empty challenge message)
+GSSAPI handshake failure (invalid security layer)
+GSSAPI handshake failure (invalid security data)
+GSSAPI handshake failure (empty security message)
+user=%s
+host=%s
+auth=Bearer %s
+user=%s
+host=%s
+port=%ld
+auth=Bearer %s
+user=%s
+auth=Bearer %s
+%s %02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+xdigit
+WARNING: Using weak random seed
+0123456789abcdef
+address not available
+already connected
+argument list too long
+argument out of domain
+bad address
+bad file descriptor
+bad message
+broken pipe
+connection aborted
+connection already in progress
+connection refused
+connection reset
+destination address required
+executable format error
+file too large
+host unreachable
+identifier removed
+illegal byte sequence
+inappropriate io control operation
+invalid seek
+is a directory
+message size
+network down
+network reset
+network unreachable
+no buffer space
+no child process
+no link
+no message available
+no message
+no protocol option
+no stream resources
+no such device or address
+no such process
+not a directory
+not a socket
+not a stream
+not connected
+not supported
+operation in progress
+operation not permitted
+operation not supported
+operation would block
+owner dead
+protocol error
+protocol not supported
+read only file system
+resource deadlock would occur
+result out of range
+state not recoverable
+stream timeout
+text file busy
+timed out
+too many files open in system
+too many links
+too many symbolic link levels
+value too large
+wrong protocol type
+permission denied
+file exists
+no such device
+filename too long
+device or resource busy
+io error
+directory not empty
+invalid argument
+no space on device
+no such file or directory
+function not supported
+no lock available
+not enough memory
+resource unavailable try again
+cross device link
+operation canceled
+too many files open
+permission_denied
+address_in_use
+address_not_available
+address_family_not_supported
+connection_already_in_progress
+bad_file_descriptor
+connection_aborted
+connection_refused
+connection_reset
+destination_address_required
+bad_address
+host_unreachable
+operation_in_progress
+interrupted
+invalid_argument
+already_connected
+too_many_files_open
+message_size
+filename_too_long
+network_down
+network_reset
+network_unreachable
+no_buffer_space
+no_protocol_option
+not_connected
+not_a_socket
+operation_not_supported
+protocol_not_supported
+wrong_protocol_type
+timed_out
+operation_would_block
+address family not supported
+address in use
+bad allocation
+CorExitProcess
+RoInitialize
+RoUninitialize
+Visual C++ CRT: Not enough memory to complete call to strerror.
+Operation not permitted
+No such file or directory
+No such process
+Interrupted function call
+Input/output error
+No such device or address
+Arg list too long
+Exec format error
+Bad file descriptor
+No child processes
+Resource temporarily unavailable
+Not enough space
+Permission denied
+Bad address
+Resource device
+File exists
+Improper link
+No such device
+Not a directory
+Is a directory
+Invalid argument
+Too many open files in system
+Too many open files
+Inappropriate I/O control operation
+File too large
+No space left on device
+Invalid seek
+Read-only file system
+Too many links
+Broken pipe
+Domain error
+Result too large
+Resource deadlock avoided
+Filename too long
+No locks available
+Function not implemented
+Directory not empty
+Illegal byte sequence
+Unknown exception
+(null)
+`h````
+xpxxxx
+FlsAlloc
+FlsFree
+FlsGetValue
+FlsSetValue
+InitializeCriticalSectionEx
+CreateEventExW
+CreateSemaphoreExW
+SetThreadStackGuarantee
+CreateThreadpoolTimer
+SetThreadpoolTimer
+WaitForThreadpoolTimerCallbacks
+CloseThreadpoolTimer
+CreateThreadpoolWait
+SetThreadpoolWait
+CloseThreadpoolWait
+FlushProcessWriteBuffers
+FreeLibraryWhenCallbackReturns
+GetCurrentProcessorNumber
+GetLogicalProcessorInformation
+CreateSymbolicLinkW
+SetDefaultDllDirectories
+EnumSystemLocalesEx
+CompareStringEx
+GetDateFormatEx
+GetLocaleInfoEx
+GetTimeFormatEx
+GetUserDefaultLocaleName
+IsValidLocaleName
+LCMapStringEx
+GetCurrentPackageId
+GetTickCount64
+GetFileInformationByHandleExW
+SetFileInformationByHandleW
+_hypot
+_nextafter
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+UTF-16LE
+UNICODE
+bad exception
+`h`hhh
+xppwpp
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+ !"#$%&'()*+,-./0123456789:;<=>?@abcdefghijklmnopqrstuvwxyz[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`ABCDEFGHIJKLMNOPQRSTUVWXYZ{|}~
+CreateFile2
+MessageBoxW
+GetActiveWindow
+GetLastActivePopup
+GetUserObjectInformationW
+GetProcessWindowStation
+SunMonTueWedThuFriSat
+JanFebMarAprMayJunJulAugSepOctNovDec
+1#SNAN
+1#QNAN
+generic
+unknown error
+iostream
+iostream stream error
+system
+string too long
+invalid string position
+documents.rar
+docs.rar
+wallet.rar
+tickets.rar
+photos.rar
+keys.rar
+telephone.rar
+passport.rar
+report.rar
+send.rar
+order.rar
+press.rar
+conference.rar
+android.rar
+price.rar
+work.rar
+complete.rar
+news.rar
+salary.rar
+sales.rar
+old.rar
+home.rar
+job.rar
+4boss.rar
+code.rar
+license.rar
+licensekey.rar
+hotels.rar
+cards.rar
+bank.rar
+operations.rar
+account.rar
+credit.rar
+paypal.rar
+maps.rar
+roadmap.rar
+passwords.rar
+calls.rar
+2dropbox.rar
+mastercard.rar
+reply.rar
+whitepaper.rar
+mail.rar
+buy.rar
+visa.rar
+numbers.rar
+read.rar
+project.rar
+emails.rar
+8vnhYs6XqfAAAAAAAAAAPF7FRK_XOi_5K6GVnFd82cWcBXzEKrfGoyRP8kPC25OR
+hotspot.accesscam.org
+https://raw.githubusercontent.com/ksRD18pro/ksRD18/master/ntk.tmp
+%temp%\mswin0001.js
+vector<T> too long
+%TEMP%
+%USERNAME%
+_dllmain
+wscript 
+list<T> too long
+https://content.dropboxapi.com/2/files/upload
+https://content.dropboxapi.com/2/files/download
+Expect:
+https://api.dropboxapi.com/2/files/list_folder
+https://api.dropboxapi.com/2/files/delete_v2
+"name": "
+"client_modified": "
+%d-%d-%dT%d:%d:%d
+C:\Users\user\build_system\Project_Crutch\Release-Dropbox\Crutch3.pdb
+DnsFree
+DnsQuery_W
+DNSAPI.dll
+GetAdaptersInfo
+IPHLPAPI.DLL
+RegQueryValueExA
+RegOpenKeyExA
+RegCloseKey
+ADVAPI32.dll
+WS2_32.dll
+WinHttpGetIEProxyConfigForCurrentUser
+WinHttpGetDefaultProxyConfiguration
+WINHTTP.dll
+WSAIoctl
+freeaddrinfo
+getaddrinfo
+CertFreeCertificateContext
+CryptReleaseContext
+CryptGenRandom
+CryptAcquireContextA
+CryptCreateHash
+CryptHashData
+CryptDestroyHash
+CryptGetHashParam
+CRYPT32.dll
+CryptDestroyKey
+CryptEncrypt
+CryptImportKey
+WLDAP32.dll
+InternetOpenUrlA
+InternetReadFile
+InternetOpenA
+InternetCloseHandle
+WININET.dll
+GetNativeSystemInfo
+FreeLibrary
+HeapAlloc
+HeapFree
+VirtualFree
+GetProcessHeap
+IsBadReadPtr
+SetLastError
+GetProcAddress
+VirtualAlloc
+LoadLibraryA
+VirtualProtect
+CreateProcessW
+SetHandleInformation
+WaitForSingleObject
+WriteFile
+ReadFile
+CreateFileW
+MultiByteToWideChar
+GetLastError
+CreatePipe
+CloseHandle
+DeleteFileW
+CreateThread
+CreateFileA
+GetFileSize
+CreateMutexW
+GetSystemTimeAsFileTime
+DeleteFileA
+GetTickCount
+SetErrorMode
+ExpandEnvironmentStringsA
+GetFileAttributesW
+CreateProcessA
+TerminateProcess
+LocalAlloc
+LocalFree
+GetVolumeInformationW
+ExpandEnvironmentStringsW
+SystemTimeToFileTime
+DeleteCriticalSection
+InitializeCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+SleepEx
+VerifyVersionInfoA
+VerSetConditionMask
+GetSystemDirectoryA
+GetModuleHandleA
+FormatMessageA
+PeekNamedPipe
+WaitForMultipleObjects
+GetFileType
+GetStdHandle
+KERNEL32.dll
+OemToCharA
+USER32.dll
+EncodePointer
+DecodePointer
+IsDebuggerPresent
+IsProcessorFeaturePresent
+HeapReAlloc
+GetCommandLineA
+GetCurrentThreadId
+WideCharToMultiByte
+ExitProcess
+GetModuleHandleExW
+AreFileApisANSI
+ExitThread
+LoadLibraryExW
+GetCurrentProcessId
+FileTimeToLocalFileTime
+GetFileInformationByHandle
+FileTimeToSystemTime
+SetFilePointerEx
+RaiseException
+RtlUnwind
+HeapSize
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+InitializeCriticalSectionAndSpinCount
+GetCurrentProcess
+TlsAlloc
+TlsGetValue
+TlsSetValue
+TlsFree
+GetStartupInfoW
+GetModuleHandleW
+IsValidCodePage
+GetACP
+GetOEMCP
+GetCPInfo
+GetStringTypeW
+GetConsoleMode
+ReadConsoleW
+GetModuleFileNameW
+GetConsoleCP
+GetModuleFileNameA
+QueryPerformanceCounter
+GetEnvironmentStringsW
+FreeEnvironmentStringsW
+FlushFileBuffers
+SetStdHandle
+FindClose
+FindFirstFileExW
+GetDriveTypeW
+SystemTimeToTzSpecificLocalTime
+CompareStringW
+LCMapStringW
+OutputDebugStringW
+WriteConsoleW
+SetEnvironmentVariableA
+GetTimeZoneInformation
+GetFullPathNameW
+GetCurrentDirectoryW
+SetEndOfFile
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+                          
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+MyFiles
+MyFiles
+Dropbox-API-Arg: {"path": "
+","recursive": false,"include_media_info": false,"include_deleted": false,"include_has_explicit_shared_members": false,"include_mounted_folders": true}
+","mode": "add","autorename": true,"mute": false}
+Content-Type: application/json
+Authorization: Bearer 
+Content-Type: 
+Content-Type: application/octet-stream
+{"path": "
+.?AVexception@std@@
+.?AVlogic_error@std@@
+.?AVlength_error@std@@
+.?AVout_of_range@std@@
+.?AVtype_info@@
+.?AVbad_exception@std@@
+.?AV_Iostream_error_category@std@@
+.?AV_System_error_category@std@@
+.?AVerror_category@std@@
+.?AV_Generic_error_category@std@@
+.?AV_Ref_count_base@std@@
+.?AV?$_Ref_count@D@std@@
+.?AV?$_Ref_count@_W@std@@
+.?AVbad_alloc@std@@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
+11191M1Q1W1[1a1e1k1o1u1y1
+2%202C2L2V2Z2`2d2j2n2t2x2~2
+7/7B7N7T7Z7_7d7j7p7v7}7
+8)82898C8L8
+=(=??P?Z?
+3K4W4k4
+7%868M9n9
+9<:K:X:e:r:
+5!6'6,696B6G6P6j6w6
+7 7+767
+808M8b8j8x8
+0D0K0P0U0\0n0}0
+1,1V1u1
+1.252*3`3t3
+4P4|4#565I5\5o5
+6-6@6V6i6|6
+;8<X<\<`<d<
+101f1s1z1
+7:7P7u7
+818T8q8
+:3;@;b;o;
+;(<.<@<F<\<t<
+=%>9>Q>j>
+0D0[0Z1
+2*2h2{2
+424E4X4k4~4
+4&585W7^7l8p8t8x8|8
+8:9@9X9o9
+:-:F:Y:r:
+4L4Q6X6
+=/>A?H?
+@0D0H0L0P0T0X0\0`0d0h0l0p0t0x0|0
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1\2`2d2h2l2p2t2x2|2
+2,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+5 5$5(5,5054585<5
+:#:E:o:
+333X3m3
+5*606=6
+7*7Q7a7t7
+:+;;;F;Q;t;
+=8=O=|=
+?0?I?a?z?
+5)5@5H5M5W5\5f5
+7^<h<u<~<
+;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+5(5N5j6
+8D8[9n9
+9<:@:D:H:L:P:T:X:\:`:
+< <$<(<,<0<4<8<<<@<
+<4=8=<=@=D=H=L=P=T=X=r=y=
+=%>L>\>`>d>h>l>p>t>x>|>
+>L?t?x?|?
+243>3H3R3\3f3p3z3
+6=6g6}6
+:8:E:R:p:
+;,;];i;
+='=0=V=
+?2?N?j?
+H0R0\0f0p0z0
+0/1>1_1h1p1
+304U4e4y4
+9#9*9g:
+=W=a={=
+=;>S>y>
+>I?h?r?
+1'1Z1d1t1
+001p1t1x1|1
+2"2E2V2
+2V3`3j3
+3	4;4a4
+5/6d6s6z6
+;#;O<V<p>@?D?H?L?P?T?X?\?`?d?h?l?p?t?
+0H0L0P0T0X0\0`0d0h0l0
+; ;$;(;E;
+=%=+=1=7===C=I=O=U=[=a=g=m=s=y=
+>!>'>->3>9>?>E>K>Q>W>]>c>i>o>u>{>
+? ?$?(?,?0?4?8?<?@?D?H?L?P?T?X?\?`?d?h?l?p?t?x?|?
+0 0$0(0,0004080<0@0D0H0L0P0T0X0\0`0d0|0
+1)131=1G1Q1[1e1o1y1
+2 2'2.252<2C2J2Q2X2_2f2
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+5 5c5h5r5|5
+6&606:6D6N6X6b6l6v6
+7 7*747>7H7R7\7f7p7z7
+8$8+8[8
+9 9'9.959<9C9J9Q9o9
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:h:l:p:t:x:|:
+; ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+=$=,=x?
+1/1]1v1
+2	3-3v3
+4;4Q4_4
+5+5D5W5q5
+959B9d9
+:3:D:V:
+;3<=<s<v>
+14383<3@3D3H3L3P3T3X3G7
+0r1w1~1
+1	252:2m2
+3%3C3S3
+404B4Y4k4
+5K5X5e5t5
+757K7j7
+:!<<<n<
+0L0R0b0i0
+1;1Q1h1z1
+?$?e?t?{?
+70N0i0
+0004080<0@0D0H0L0P0
+073>3C3p3
+525l5v5
+5<6@6D6H6L6P6p6
+: :L:Y:f:s:
+<.=5=D=H=
+1Q2\2c2s2z2
+334J4e4
+6/7o718a8
+< <$<(<,<0<4<8<<<@<D<H<L<s<
+2%2*2O2n2s2
+6$6<6@6D6H6L6i6
+7&758?8O8
+9,:0:4:8:<:@:D:H:L:P:
+,0W0~0
+1)191M1
+2 2$2(2,2024282S2|2
+6G8	9{9
+1&2?2\2
+5$5I5\5g5
+556?6o6v6
+;.;=;Z;k;
+=D=\=t=
+>C?Q?_?m?
+0&070a0
+0(1/1A1Z1i1x1
+1'21272K2
+5!555;5C5Q5{5
+70747H7L7P7T7g7
+8.9U9t9
+N0W0g0
+2#3-32373F3N3S3X3
+4&4+404
+5T6X6\6`6d6h6l6p6t6x6|6
+7!7;7@7Q7W7g7y7
+7 8&8:8d8v8
+:F;g;m;
+<2<F<V<w<
+748:8[8
+9(9A9P9W9
+=2>O>Z>
+273J3z3
+3'4@4F4
+=A=U=s=
+6;6d7h7l7p7t7
+13282U253}3
+5p6w6}6
+::?T?v?
+4.4E4O4
+5O5d5i5
+0!0&090E0i0
+<"=T=`=
+[0p0w0<1N1S1o1
+5#5*51565T5
+5!6=6_6q6
+6,7c7p7u7
+7 808_829
+<%<:<m<9=e=
+?^?s?x?
+2<2e2o2
+?A?V?o?
+070<0V0t0y0
+1<2[2~2
+6R6p6z6
+8&979R9l9
+9F:W:r:
+=!>/>e>
+0*060F0^0e0l0s0z0
+262T2c2
+3*3?3D3t3
+8.838I8s8x8
+<	>7>i>y>
+222K2d2
+768W879v9
+;G<T<[<f<x<
+?$?@?[?
+142;2D293h3{3
+:#;?;l;
+4*5c6_7
+0 0)020
+5&606n6
+0(0,00040
+2H2R2{2
+3%3-363`3
+5#6V6]6{6
+7 7S7~7
+8H8L8P8T8X8\8`8d8h8l8
+?8?Q?y?
+1>1R1b1
+3.3^3r3
+5!5M5T5z5
+777`7g7
+809F9c9}9
+:4:8:<:@:D:H:L:P:T:X:|:
+<!>'>`>~>
+3&3:3'5P5H6
+081<1@1D1H1L1P1T1X1\1`1d1h1l1
+4!494M4a4
+505D5K5V5
+646;6F6Z6
+7H8X8{8
+::;O;t;
+=D=_=i=
+>;>R>b>r>
+1@1P1p1
+647V7t7
+;Z;j;q;
+7 7$7(7,707i7
+8/949C9P9V9
+< <,<<<[<h<y<
+=+=N=]=
+= >?>P>y>
+?I?^?n?z?
+061[1t1
+1-2G2[2e2t2
+2	3(3:3C3J3P3k3w3
+4+4J4W4h4u4{4
+9 9$9(9,979E<L<
+L0a0m0y0
+1!1/1=1C1K1Q1_1m1s1{1
+2-232;2A2O2]2c2k2q2
+3#3+313?3M3S3[3a3o3|3
+4 4.4<4B4J4P4^4l4r4z4
+5-555;5I5W5]5e5k5y5
+6%6+696H6O6U6[6i6w6}6
+7)777=7E7K7Y7g7m7s7y7
+8"8'858:8H8M8[8`8n8
+9&909B9L9Z9f9s9x9}9
+:(:.:6:<:J:Y:`:f:l:z:
+;&;,;:;H;N;V;\;j;x;~;
+<*<7<=<E<K<Y<g<m<u<{<
+='=-=5=;=I=W=]=e=k=y=
+> >&>4>B>H>P>V>d>r>x>
+?$?2?8?@?F?T?b?h?p?v?
+0"0(0.040:0E0J0X0]0k0p0~0
+1)1;1I1S1a1o1y1
+2+20252B2P2V2^2d2r2
+3$323@3F3N3T3b3p3v3~3
+4"40464>4D4R4`4f4n4t4
+5%5-535A5O5U5]5c5q5
+6#616?6E6M6S6a6o6u6}6
+7*70787>7L7Z7`7h7n7|7
+8 8(8.8<8J8P8X8^8l8z8
+9#9(969;9I9N9\9a9o9t9
+:':1:?:M:W:e:s:}:
+;*;8;>;F;L;Z;h;n;v;|;
+<(<.<6<<<J<X<^<f<l<z<
+=&=,=:=H=N=V=\=j=x=~=
+>)>7>=>E>K>Y>g>m>u>{>
+?'?-?5?;?I?X?`?f?t?
+0 0&040B0H0P0V0d0s0z0
+1$12181@1F1T1b1h1p1v1
+2'2,2:2?2M2R2`2e2s2x2
+3+353C3Q3[3j3t3
+4 4&4.444B4P4V4^4d4r4
+5$525@5F5N5T5b5p5v5~5
+6"60666>6D6R6_6e6m6s6
+7%7-737A7O7U7]7c7q7
+8,8:8@8H8N8\8j8p8x8~8
+9+92989>9L9Z9`9h9n9|9
+: :(:.:<:J:P:V:\:b:m:r:
+;+;0;>;C;Q;c;q;{;
+=(=H=a=
+0+0<0J0m0
+0*1B1\1c1v1
+93:P:f:
+<)<a<s<
+=!=2=@=\=
+>=>I>r>
+;#;J;Y;b;|;
+:0N0y2
+4B5Y5!6G6
+252f2n2
+3E3i3s3
+2N2_2r2
+2#4^4c4
+:=:[:g:{:
+;	<!<+<
+=/=R=q=
+0,0>0M0p0~0
+181=1a1l1f2u2
+3V4u4z4
+:/:5:d:
+:";0;:;^;h;
+<E>c>|>
+? ?$?(?r?x?|?
+0 0$0E0o0
+4B4H4N4T4Z4`4g4n4u4|4
+5I5O5U5[5a5g5n5u5|5
+6a7H8N8`8v8X:^:j:
+1<2z2u3d4
+575N5]5
+=`>k>q>
+>(?-?7?k?
+4)6C6P6|6
+7+737O7[7a7l7z7
+7-858H8S8X8h8t8y8
+:/:4:@:E:d:
+50S0l0s0{0
+1b1h1l1p1t1
+8%868D8O8W8d8n8
+8,9];p;
+?6?A?c?n?
+=$=*=1===B=H=T=Z=
+>&>,>i>
+2$2;3Y3{3
+3T4c4E5
+5J5P5u5
+9"9,929A9K9Q9c9m9s9
+:!:':/:4:::B:G:M:U:Z:`:h:m:s:{:
+;&;+;1;9;>;D;L;Q;W;_;d;j;r;w;};
+<"<(<0<5<:<C<H<N<V<\<j<x<
+<2===O=
+3-4?4Q4
+6k6%7X7
+9-9W9^9e9l9
+;#<8<F<O<z<
+=*=D=L=W=n=
+3,3=3K3U3[3o3{3
+445D5o5
+:*;a;{;
+>%>9>\>e>o>
+>f?o?y?
+0R0l0|0
+898_8k8
+9(:Q:d:t:
+;';8;D;K;R;m;w;
+0i162e2n2
+=$=S=[=l=
+;3A3M3
+4V5[5m5
+5F6L6R6b6h6t6y6~6
+6#7(71767?7D7Q7
+=%>+>3>m>
+-060C0
+Y1g1q1
+6C8W8~8
+;6;D;J;
+=k>l?|?
+0*0<0N0`0r0
+=!=%=)=-=1=5=9===A=E=I=M=Q=U=Y=]=a=e=i=m=q=
+7%8?8e8
+:-:P:a:g:s:
+;6;<;E;K;U;`;
+3	4=4K4Z4h4
+5~5:6t6
+=^>f>r>
+1%161;1A1S1Y1d1m1z1
+3)444r4~4
+: ;B<J<
+?&?2?A?
+:o:/;a;5=<=
+?+?L?|?
+5$5.585B5L5V5`5j5t5~5
+6(626<6F6P6Z6d6n6x6
+9&909:9D9N9X9b9l9v9
+: :*:4:>:H:R:\:f:p:z:
+;@;J;T;^;h;r;|;
+<&<0<:<D<N<X<b<l<v<
+= =*=E=
+>'>1>;>E>O>Y>c>m>w>
+?!?+?5???I?S?]?g?q?{?
+2"2,262@2J2T2^2h2r2|2
+3&303:3D3N3X3b3l3v3
+8"8+8:8I8X8g8v8
+9%949?9H9W9f9u9
+:=:G:Q:
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3h3l3p3t3x3|3
+5 5$5(5,5054585<5@5D5H5L5P5T5X5
+6 6$6(6,6064686<6@6D6H6L6P6T6X6
+8 8$8(8,8084888<8@8D8H8L8P8T8X8\8`8h8
+7`8d8h8l8t8
+8(=,=0=4=<=@=D=H=L=X=p=t=x=|=
+0$0(0,00040@0X0\0d0l0p0t0x0|0
+1 181<1@1D1L1P1T1X1\1h1
+1`2d2h2l2t2x2|2
+3H6L6P6T6\6`6d6h6l6x6
+1 1$1(1,1014181<1@1D1H1L1P1T1X1\1`1d1h1l1p1t1x1|1
+1P6T6X6\6`6d6h6l6p6t6x6
+ 4$4(4,444D4h4l4p4t4|4
+3 3$3(3,3034383<3@3D3H3L3P3T3X3\3`3d3p<t<x<|<
+= =$=(=,=0=4=8=<=@=D=H=L=P=T=X=\=`=d=h=l=p=t=x=|=
+`1l1x1
+1044484<4@4D4H4L4P4T4X4\4
+$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2t2|2
+3$3,343<3D3L3T3\3d3l3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+: :$:(:,:0:4:8:<:@:D:H:L:P:T:X:\:`:d:x:|:
+:X;\;`;d;h;l;p;t;x;|;
+<D?H?L?
+3L7T7\7d7l7t7|7
+3$3,343<3D3L3T3\3d3l3t3|3
+4$4,444<4D4L4T4\4d4l4t4|4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6D6L6T6\6d6l6t6|6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8d8l8t8|8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:(:0:8:@:H:P:X:`:h:p:x:
+; ;(;0;8;@;H;P;X;`;h;p;x;
+< <(<0<8<@<H<P<X<`<h<p<x<
+= =(=0=8=@=H=P=X=`=h=p=x=
+> >(>0>8>@>H>P>X>`>h>p>x>
+? ?(?0?8?@?H?P?X?`?h?p?x?
+0 0(00080@0H0P0X0`0h0p0x0
+1 1(10181@1
+4 4$4(4,4044484<4@4D4H4L4P4T4X4\4`4d4h4l4p4t4x4|4
+5 5$5(5,5054585<5@5D5H5L5P5T5X5\5`5d5h5l5p5t5x5|5
+;$;(;<;@;P;T;X;`;x;
+<$<(<8<<<@<D<L<d<t<x<
+= =8=H=L=P=T=h=l=p=
+>0>4>8><>P>T>X>\>d>|>
+000<0D0
+1$1,141<1D1L1T1\1d1l1t1|1
+2$2,242<2D2L2T2\2d2l2x2
+3 3(303<3\3h3
+3,4@4P4`4l4
+5$5,545<5D5L5T5\5d5l5t5|5
+6$6,646<6H6h6p6x6
+7$7,747<7D7L7T7\7d7l7t7|7
+8$8,848<8D8L8T8\8h8
+9$9,949<9D9L9T9\9d9l9t9|9
+:$:,:4:<:D:L:T:\:d:p:
+;(;H;P;\;|;
+< <(<0<8<D<L<
+<0=@=L=T=
+>$>,>4><>D>L>T>\>d>l>t>|>
+?$?,?4?<?D?L?X?x?
+0<0D0L0X0|0
+1$1D1L1T1`1
+2 2,2L2T2\2h2p2
+3,343<3D3H3L3T3h3p3x3
+4 4@4`4
+5 5<5@5`5|5
+6 6<6@6`6
+7(7H7h7
+888X8x8
+989X9d9
+: :D:P:X:
+; ;@;`;
+0 040P0T0\0`0
+5$5,545<5D5L5T5\5d5l5t5|5
+: ;$;(;,;0;4;8;<;@;D;H;L;P;T;X;\;`;d;h;l;p;t;x;|;
+< <$<(<,<0<4<8<<<@<D<H<L<P<T<X<\<`<d<h<l<p<t<x<|<
+= =$=@=D=L=
+X0`0d0h0l0p0t0x0|0
+p0t0x0|0
+mscoree.dll
+combase.dll
+(null)
+kernel32.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+UTF-16LE
+UNICODE
+- floating point support not loaded
+- not enough space for arguments
+- not enough space for environment
+- abort() has been called
+- not enough space for thread data
+- unexpected multithread lock error
+- unexpected heap error
+- unable to open console device
+- not enough space for _onexit/atexit table
+- pure virtual function call
+- not enough space for stdio initialization
+- not enough space for lowio initialization
+- unable to initialize heap
+- CRT not initialized
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- not enough space for locale information
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- inconsistent onexit begin-end variables
+DOMAIN error
+SING error
+TLOSS error
+runtime error 
+Runtime Error!
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+         (((((                  H
+         (((((                  H
+                                 
+2USER32.DLL
+CONOUT$
+cmd.exe /c 
+mscoree.dll
+combase.dll
+(null)
+kernel32.dll
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+January
+February
+August
+September
+October
+November
+December
+MM/dd/yy
+dddd, MMMM dd, yyyy
+HH:mm:ss
+UTF-16LE
+UNICODE
+- floating point support not loaded
+- not enough space for arguments
+- not enough space for environment
+- abort() has been called
+- not enough space for thread data
+- unexpected multithread lock error
+- unexpected heap error
+- unable to open console device
+- not enough space for _onexit/atexit table
+- pure virtual function call
+- not enough space for stdio initialization
+- not enough space for lowio initialization
+- unable to initialize heap
+- CRT not initialized
+- Attempt to initialize the CRT more than once.
+This indicates a bug in your application.
+- not enough space for locale information
+- Attempt to use MSIL code from this assembly during native code initialization
+This indicates a bug in your application. It is most likely the result of calling an MSIL-compiled (/clr) function from a native constructor or from DllMain.
+- inconsistent onexit begin-end variables
+DOMAIN error
+SING error
+TLOSS error
+runtime error 
+Runtime Error!
+Program: 
+<program name unknown>
+Microsoft Visual C++ Runtime Library
+zh-CHS
+az-AZ-Latn
+uz-UZ-Latn
+kok-IN
+syr-SY
+div-MV
+quz-BO
+sr-SP-Latn
+az-AZ-Cyrl
+uz-UZ-Cyrl
+quz-EC
+sr-SP-Cyrl
+quz-PE
+smj-NO
+bs-BA-Latn
+smj-SE
+sr-BA-Latn
+sma-NO
+sr-BA-Cyrl
+sma-SE
+sms-FI
+smn-FI
+zh-CHT
+az-az-cyrl
+az-az-latn
+bs-ba-latn
+div-mv
+kok-in
+quz-bo
+quz-ec
+quz-pe
+sma-no
+sma-se
+smj-no
+smj-se
+smn-fi
+sms-fi
+sr-ba-cyrl
+sr-ba-latn
+sr-sp-cyrl
+sr-sp-latn
+syr-sy
+uz-uz-cyrl
+uz-uz-latn
+zh-chs
+zh-cht
+         (((((                  H
+         (((((                  H
+                                 
+USER32.DLL
+CONOUT$
+cmd.exe /c 

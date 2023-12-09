@@ -1,0 +1,1183 @@
+pe
+	number_of_signatures = 0
+	is_signed = YR_UNDEFINED
+	signatures
+	pdb_path = "C:\Users\ja\Documents\Visual Studio 2015\Projects\mklg -binder\Release\mklg-binder.pdb"
+	number_of_resources = 8
+	resources
+		[0]
+			rva = 2217232
+			offset = 2198288
+			length = 58296
+			type = 3
+			id = 1
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[1]
+			rva = 2275528
+			offset = 2256584
+			length = 9640
+			type = 3
+			id = 2
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[2]
+			rva = 2285168
+			offset = 2266224
+			length = 4264
+			type = 3
+			id = 3
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[3]
+			rva = 2289432
+			offset = 2270488
+			length = 2440
+			type = 3
+			id = 4
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[4]
+			rva = 2291872
+			offset = 2272928
+			length = 1128
+			type = 3
+			id = 5
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[5]
+			rva = 2293000
+			offset = 2274056
+			length = 76
+			type = 14
+			id = 117
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[6]
+			rva = 2216432
+			offset = 2197488
+			length = 796
+			type = 16
+			id = 1
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[7]
+			rva = 2293080
+			offset = 2274136
+			length = 381
+			type = 24
+			id = 1
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+	resource_version
+		minor = 0
+		major = 0
+	resource_timestamp = 0
+	delayed_import_details
+	import_details
+		[0]
+			library_name = "KERNEL32.dll"
+			number_of_functions = 131
+			functions
+				[0]
+					rva = 368676
+					ordinal = YR_UNDEFINED
+					name = "WaitForSingleObject"
+				[1]
+					rva = 368680
+					ordinal = YR_UNDEFINED
+					name = "CloseHandle"
+				[2]
+					rva = 368684
+					ordinal = YR_UNDEFINED
+					name = "CreateProcessA"
+				[3]
+					rva = 368688
+					ordinal = YR_UNDEFINED
+					name = "GetExitCodeProcess"
+				[4]
+					rva = 368692
+					ordinal = YR_UNDEFINED
+					name = "GetModuleFileNameA"
+				[5]
+					rva = 368696
+					ordinal = YR_UNDEFINED
+					name = "GetEnvironmentVariableW"
+				[6]
+					rva = 368700
+					ordinal = YR_UNDEFINED
+					name = "CreateToolhelp32Snapshot"
+				[7]
+					rva = 368704
+					ordinal = YR_UNDEFINED
+					name = "CopyFileA"
+				[8]
+					rva = 368708
+					ordinal = YR_UNDEFINED
+					name = "Process32NextW"
+				[9]
+					rva = 368712
+					ordinal = YR_UNDEFINED
+					name = "Process32FirstW"
+				[10]
+					rva = 368716
+					ordinal = YR_UNDEFINED
+					name = "WideCharToMultiByte"
+				[11]
+					rva = 368720
+					ordinal = YR_UNDEFINED
+					name = "CreateDirectoryA"
+				[12]
+					rva = 368724
+					ordinal = YR_UNDEFINED
+					name = "FindNextFileW"
+				[13]
+					rva = 368728
+					ordinal = YR_UNDEFINED
+					name = "SetEndOfFile"
+				[14]
+					rva = 368732
+					ordinal = YR_UNDEFINED
+					name = "HeapSize"
+				[15]
+					rva = 368736
+					ordinal = YR_UNDEFINED
+					name = "CreateFileW"
+				[16]
+					rva = 368740
+					ordinal = YR_UNDEFINED
+					name = "WriteConsoleW"
+				[17]
+					rva = 368744
+					ordinal = YR_UNDEFINED
+					name = "SetStdHandle"
+				[18]
+					rva = 368748
+					ordinal = YR_UNDEFINED
+					name = "FindNextFileA"
+				[19]
+					rva = 368752
+					ordinal = YR_UNDEFINED
+					name = "FindFirstFileExA"
+				[20]
+					rva = 368756
+					ordinal = YR_UNDEFINED
+					name = "GetLastError"
+				[21]
+					rva = 368760
+					ordinal = YR_UNDEFINED
+					name = "Sleep"
+				[22]
+					rva = 368764
+					ordinal = YR_UNDEFINED
+					name = "MultiByteToWideChar"
+				[23]
+					rva = 368768
+					ordinal = YR_UNDEFINED
+					name = "FindClose"
+				[24]
+					rva = 368772
+					ordinal = YR_UNDEFINED
+					name = "OutputDebugStringA"
+				[25]
+					rva = 368776
+					ordinal = YR_UNDEFINED
+					name = "GetEnvironmentVariableA"
+				[26]
+					rva = 368780
+					ordinal = YR_UNDEFINED
+					name = "GetComputerNameW"
+				[27]
+					rva = 368784
+					ordinal = YR_UNDEFINED
+					name = "FindFirstFileW"
+				[28]
+					rva = 368788
+					ordinal = YR_UNDEFINED
+					name = "GetCommandLineW"
+				[29]
+					rva = 368792
+					ordinal = YR_UNDEFINED
+					name = "GetCommandLineA"
+				[30]
+					rva = 368796
+					ordinal = YR_UNDEFINED
+					name = "SetEnvironmentVariableA"
+				[31]
+					rva = 368800
+					ordinal = YR_UNDEFINED
+					name = "FreeEnvironmentStringsW"
+				[32]
+					rva = 368804
+					ordinal = YR_UNDEFINED
+					name = "GetEnvironmentStringsW"
+				[33]
+					rva = 368808
+					ordinal = YR_UNDEFINED
+					name = "GetOEMCP"
+				[34]
+					rva = 368812
+					ordinal = YR_UNDEFINED
+					name = "IsValidCodePage"
+				[35]
+					rva = 368816
+					ordinal = YR_UNDEFINED
+					name = "GetTimeZoneInformation"
+				[36]
+					rva = 368820
+					ordinal = YR_UNDEFINED
+					name = "GetProcessHeap"
+				[37]
+					rva = 368824
+					ordinal = YR_UNDEFINED
+					name = "MoveFileExW"
+				[38]
+					rva = 368828
+					ordinal = YR_UNDEFINED
+					name = "DeleteFileW"
+				[39]
+					rva = 368832
+					ordinal = YR_UNDEFINED
+					name = "GetConsoleCP"
+				[40]
+					rva = 368836
+					ordinal = YR_UNDEFINED
+					name = "FlushFileBuffers"
+				[41]
+					rva = 368840
+					ordinal = YR_UNDEFINED
+					name = "EnumSystemLocalesW"
+				[42]
+					rva = 368844
+					ordinal = YR_UNDEFINED
+					name = "GetUserDefaultLCID"
+				[43]
+					rva = 368848
+					ordinal = YR_UNDEFINED
+					name = "IsValidLocale"
+				[44]
+					rva = 368852
+					ordinal = YR_UNDEFINED
+					name = "GetFileType"
+				[45]
+					rva = 368856
+					ordinal = YR_UNDEFINED
+					name = "ReadConsoleW"
+				[46]
+					rva = 368860
+					ordinal = YR_UNDEFINED
+					name = "GetConsoleMode"
+				[47]
+					rva = 368864
+					ordinal = YR_UNDEFINED
+					name = "SetFilePointerEx"
+				[48]
+					rva = 368868
+					ordinal = YR_UNDEFINED
+					name = "GetACP"
+				[49]
+					rva = 368872
+					ordinal = YR_UNDEFINED
+					name = "GetStringTypeW"
+				[50]
+					rva = 368876
+					ordinal = YR_UNDEFINED
+					name = "EnterCriticalSection"
+				[51]
+					rva = 368880
+					ordinal = YR_UNDEFINED
+					name = "LeaveCriticalSection"
+				[52]
+					rva = 368884
+					ordinal = YR_UNDEFINED
+					name = "TryEnterCriticalSection"
+				[53]
+					rva = 368888
+					ordinal = YR_UNDEFINED
+					name = "DeleteCriticalSection"
+				[54]
+					rva = 368892
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentThreadId"
+				[55]
+					rva = 368896
+					ordinal = YR_UNDEFINED
+					name = "DuplicateHandle"
+				[56]
+					rva = 368900
+					ordinal = YR_UNDEFINED
+					name = "WaitForSingleObjectEx"
+				[57]
+					rva = 368904
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentProcess"
+				[58]
+					rva = 368908
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentThread"
+				[59]
+					rva = 368912
+					ordinal = YR_UNDEFINED
+					name = "GetExitCodeThread"
+				[60]
+					rva = 368916
+					ordinal = YR_UNDEFINED
+					name = "QueryPerformanceCounter"
+				[61]
+					rva = 368920
+					ordinal = YR_UNDEFINED
+					name = "EncodePointer"
+				[62]
+					rva = 368924
+					ordinal = YR_UNDEFINED
+					name = "DecodePointer"
+				[63]
+					rva = 368928
+					ordinal = YR_UNDEFINED
+					name = "SetLastError"
+				[64]
+					rva = 368932
+					ordinal = YR_UNDEFINED
+					name = "InitializeCriticalSectionAndSpinCount"
+				[65]
+					rva = 368936
+					ordinal = YR_UNDEFINED
+					name = "CreateEventW"
+				[66]
+					rva = 368940
+					ordinal = YR_UNDEFINED
+					name = "TlsAlloc"
+				[67]
+					rva = 368944
+					ordinal = YR_UNDEFINED
+					name = "TlsGetValue"
+				[68]
+					rva = 368948
+					ordinal = YR_UNDEFINED
+					name = "TlsSetValue"
+				[69]
+					rva = 368952
+					ordinal = YR_UNDEFINED
+					name = "TlsFree"
+				[70]
+					rva = 368956
+					ordinal = YR_UNDEFINED
+					name = "GetSystemTimeAsFileTime"
+				[71]
+					rva = 368960
+					ordinal = YR_UNDEFINED
+					name = "GetTickCount"
+				[72]
+					rva = 368964
+					ordinal = YR_UNDEFINED
+					name = "GetModuleHandleW"
+				[73]
+					rva = 368968
+					ordinal = YR_UNDEFINED
+					name = "GetProcAddress"
+				[74]
+					rva = 368972
+					ordinal = YR_UNDEFINED
+					name = "CompareStringW"
+				[75]
+					rva = 368976
+					ordinal = YR_UNDEFINED
+					name = "LCMapStringW"
+				[76]
+					rva = 368980
+					ordinal = YR_UNDEFINED
+					name = "GetLocaleInfoW"
+				[77]
+					rva = 368984
+					ordinal = YR_UNDEFINED
+					name = "GetCPInfo"
+				[78]
+					rva = 368988
+					ordinal = YR_UNDEFINED
+					name = "SetEvent"
+				[79]
+					rva = 368992
+					ordinal = YR_UNDEFINED
+					name = "ResetEvent"
+				[80]
+					rva = 368996
+					ordinal = YR_UNDEFINED
+					name = "UnhandledExceptionFilter"
+				[81]
+					rva = 369000
+					ordinal = YR_UNDEFINED
+					name = "SetUnhandledExceptionFilter"
+				[82]
+					rva = 369004
+					ordinal = YR_UNDEFINED
+					name = "TerminateProcess"
+				[83]
+					rva = 369008
+					ordinal = YR_UNDEFINED
+					name = "IsProcessorFeaturePresent"
+				[84]
+					rva = 369012
+					ordinal = YR_UNDEFINED
+					name = "IsDebuggerPresent"
+				[85]
+					rva = 369016
+					ordinal = YR_UNDEFINED
+					name = "GetStartupInfoW"
+				[86]
+					rva = 369020
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentProcessId"
+				[87]
+					rva = 369024
+					ordinal = YR_UNDEFINED
+					name = "InitializeSListHead"
+				[88]
+					rva = 369028
+					ordinal = YR_UNDEFINED
+					name = "CreateTimerQueue"
+				[89]
+					rva = 369032
+					ordinal = YR_UNDEFINED
+					name = "SignalObjectAndWait"
+				[90]
+					rva = 369036
+					ordinal = YR_UNDEFINED
+					name = "SwitchToThread"
+				[91]
+					rva = 369040
+					ordinal = YR_UNDEFINED
+					name = "CreateThread"
+				[92]
+					rva = 369044
+					ordinal = YR_UNDEFINED
+					name = "SetThreadPriority"
+				[93]
+					rva = 369048
+					ordinal = YR_UNDEFINED
+					name = "GetThreadPriority"
+				[94]
+					rva = 369052
+					ordinal = YR_UNDEFINED
+					name = "GetLogicalProcessorInformation"
+				[95]
+					rva = 369056
+					ordinal = YR_UNDEFINED
+					name = "CreateTimerQueueTimer"
+				[96]
+					rva = 369060
+					ordinal = YR_UNDEFINED
+					name = "ChangeTimerQueueTimer"
+				[97]
+					rva = 369064
+					ordinal = YR_UNDEFINED
+					name = "DeleteTimerQueueTimer"
+				[98]
+					rva = 369068
+					ordinal = YR_UNDEFINED
+					name = "GetNumaHighestNodeNumber"
+				[99]
+					rva = 369072
+					ordinal = YR_UNDEFINED
+					name = "GetProcessAffinityMask"
+				[100]
+					rva = 369076
+					ordinal = YR_UNDEFINED
+					name = "SetThreadAffinityMask"
+				[101]
+					rva = 369080
+					ordinal = YR_UNDEFINED
+					name = "RegisterWaitForSingleObject"
+				[102]
+					rva = 369084
+					ordinal = YR_UNDEFINED
+					name = "UnregisterWait"
+				[103]
+					rva = 369088
+					ordinal = YR_UNDEFINED
+					name = "GetThreadTimes"
+				[104]
+					rva = 369092
+					ordinal = YR_UNDEFINED
+					name = "FreeLibrary"
+				[105]
+					rva = 369096
+					ordinal = YR_UNDEFINED
+					name = "FreeLibraryAndExitThread"
+				[106]
+					rva = 369100
+					ordinal = YR_UNDEFINED
+					name = "GetModuleFileNameW"
+				[107]
+					rva = 369104
+					ordinal = YR_UNDEFINED
+					name = "GetModuleHandleA"
+				[108]
+					rva = 369108
+					ordinal = YR_UNDEFINED
+					name = "LoadLibraryExW"
+				[109]
+					rva = 369112
+					ordinal = YR_UNDEFINED
+					name = "GetVersionExW"
+				[110]
+					rva = 369116
+					ordinal = YR_UNDEFINED
+					name = "VirtualAlloc"
+				[111]
+					rva = 369120
+					ordinal = YR_UNDEFINED
+					name = "VirtualFree"
+				[112]
+					rva = 369124
+					ordinal = YR_UNDEFINED
+					name = "VirtualProtect"
+				[113]
+					rva = 369128
+					ordinal = YR_UNDEFINED
+					name = "ReleaseSemaphore"
+				[114]
+					rva = 369132
+					ordinal = YR_UNDEFINED
+					name = "InterlockedPopEntrySList"
+				[115]
+					rva = 369136
+					ordinal = YR_UNDEFINED
+					name = "InterlockedPushEntrySList"
+				[116]
+					rva = 369140
+					ordinal = YR_UNDEFINED
+					name = "InterlockedFlushSList"
+				[117]
+					rva = 369144
+					ordinal = YR_UNDEFINED
+					name = "QueryDepthSList"
+				[118]
+					rva = 369148
+					ordinal = YR_UNDEFINED
+					name = "UnregisterWaitEx"
+				[119]
+					rva = 369152
+					ordinal = YR_UNDEFINED
+					name = "LoadLibraryW"
+				[120]
+					rva = 369156
+					ordinal = YR_UNDEFINED
+					name = "RtlUnwind"
+				[121]
+					rva = 369160
+					ordinal = YR_UNDEFINED
+					name = "RaiseException"
+				[122]
+					rva = 369164
+					ordinal = YR_UNDEFINED
+					name = "ReadFile"
+				[123]
+					rva = 369168
+					ordinal = YR_UNDEFINED
+					name = "HeapAlloc"
+				[124]
+					rva = 369172
+					ordinal = YR_UNDEFINED
+					name = "HeapFree"
+				[125]
+					rva = 369176
+					ordinal = YR_UNDEFINED
+					name = "ExitThread"
+				[126]
+					rva = 369180
+					ordinal = YR_UNDEFINED
+					name = "GetModuleHandleExW"
+				[127]
+					rva = 369184
+					ordinal = YR_UNDEFINED
+					name = "HeapReAlloc"
+				[128]
+					rva = 369188
+					ordinal = YR_UNDEFINED
+					name = "ExitProcess"
+				[129]
+					rva = 369192
+					ordinal = YR_UNDEFINED
+					name = "GetStdHandle"
+				[130]
+					rva = 369196
+					ordinal = YR_UNDEFINED
+					name = "WriteFile"
+		[1]
+			library_name = "USER32.dll"
+			number_of_functions = 8
+			functions
+				[0]
+					rva = 369212
+					ordinal = YR_UNDEFINED
+					name = "GetWindowTextW"
+				[1]
+					rva = 369216
+					ordinal = YR_UNDEFINED
+					name = "GetForegroundWindow"
+				[2]
+					rva = 369220
+					ordinal = YR_UNDEFINED
+					name = "MessageBoxA"
+				[3]
+					rva = 369224
+					ordinal = YR_UNDEFINED
+					name = "GetKeyboardLayout"
+				[4]
+					rva = 369228
+					ordinal = YR_UNDEFINED
+					name = "GetAsyncKeyState"
+				[5]
+					rva = 369232
+					ordinal = YR_UNDEFINED
+					name = "GetWindowThreadProcessId"
+				[6]
+					rva = 369236
+					ordinal = YR_UNDEFINED
+					name = "GetDC"
+				[7]
+					rva = 369240
+					ordinal = YR_UNDEFINED
+					name = "GetSystemMetrics"
+		[2]
+			library_name = "GDI32.dll"
+			number_of_functions = 5
+			functions
+				[0]
+					rva = 368652
+					ordinal = YR_UNDEFINED
+					name = "CreateCompatibleBitmap"
+				[1]
+					rva = 368656
+					ordinal = YR_UNDEFINED
+					name = "SelectObject"
+				[2]
+					rva = 368660
+					ordinal = YR_UNDEFINED
+					name = "CreateCompatibleDC"
+				[3]
+					rva = 368664
+					ordinal = YR_UNDEFINED
+					name = "DeleteObject"
+				[4]
+					rva = 368668
+					ordinal = YR_UNDEFINED
+					name = "BitBlt"
+		[3]
+			library_name = "ADVAPI32.dll"
+			number_of_functions = 2
+			functions
+				[0]
+					rva = 368640
+					ordinal = YR_UNDEFINED
+					name = "SystemFunction036"
+				[1]
+					rva = 368644
+					ordinal = YR_UNDEFINED
+					name = "GetUserNameW"
+		[4]
+			library_name = "SHELL32.dll"
+			number_of_functions = 1
+			functions
+				[0]
+					rva = 369204
+					ordinal = YR_UNDEFINED
+					name = "ShellExecuteW"
+		[5]
+			library_name = "WINHTTP.dll"
+			number_of_functions = 11
+			functions
+				[0]
+					rva = 369248
+					ordinal = YR_UNDEFINED
+					name = "WinHttpOpen"
+				[1]
+					rva = 369252
+					ordinal = YR_UNDEFINED
+					name = "WinHttpAddRequestHeaders"
+				[2]
+					rva = 369256
+					ordinal = YR_UNDEFINED
+					name = "WinHttpQueryHeaders"
+				[3]
+					rva = 369260
+					ordinal = YR_UNDEFINED
+					name = "WinHttpReadData"
+				[4]
+					rva = 369264
+					ordinal = YR_UNDEFINED
+					name = "WinHttpOpenRequest"
+				[5]
+					rva = 369268
+					ordinal = YR_UNDEFINED
+					name = "WinHttpSetOption"
+				[6]
+					rva = 369272
+					ordinal = YR_UNDEFINED
+					name = "WinHttpCloseHandle"
+				[7]
+					rva = 369276
+					ordinal = YR_UNDEFINED
+					name = "WinHttpWriteData"
+				[8]
+					rva = 369280
+					ordinal = YR_UNDEFINED
+					name = "WinHttpSendRequest"
+				[9]
+					rva = 369284
+					ordinal = YR_UNDEFINED
+					name = "WinHttpConnect"
+				[10]
+					rva = 369288
+					ordinal = YR_UNDEFINED
+					name = "WinHttpReceiveResponse"
+		[6]
+			library_name = "gdiplus.dll"
+			number_of_functions = 10
+			functions
+				[0]
+					rva = 369296
+					ordinal = YR_UNDEFINED
+					name = "GdipSaveImageToFile"
+				[1]
+					rva = 369300
+					ordinal = YR_UNDEFINED
+					name = "GdipGetImageEncodersSize"
+				[2]
+					rva = 369304
+					ordinal = YR_UNDEFINED
+					name = "GdipFree"
+				[3]
+					rva = 369308
+					ordinal = YR_UNDEFINED
+					name = "GdipDisposeImage"
+				[4]
+					rva = 369312
+					ordinal = YR_UNDEFINED
+					name = "GdipCreateBitmapFromHBITMAP"
+				[5]
+					rva = 369316
+					ordinal = YR_UNDEFINED
+					name = "GdipAlloc"
+				[6]
+					rva = 369320
+					ordinal = YR_UNDEFINED
+					name = "GdipCloneImage"
+				[7]
+					rva = 369324
+					ordinal = YR_UNDEFINED
+					name = "GdipGetImageEncoders"
+				[8]
+					rva = 369328
+					ordinal = YR_UNDEFINED
+					name = "GdiplusShutdown"
+				[9]
+					rva = 369332
+					ordinal = YR_UNDEFINED
+					name = "GdiplusStartup"
+	export_details
+	export_timestamp = YR_UNDEFINED
+	dll_name = YR_UNDEFINED
+	number_of_exports = 0
+	number_of_delayed_imported_functions = 0
+	number_of_delayed_imports = 0
+	number_of_imported_functions = 168
+	number_of_imports = 7
+	rich_signature
+		version_data = "\xb4\x9c\xf1\x00\xb4\x9c\xf3\x00\xb4\x9c\xf2\x00\xe5Y\x03\x01\xe5Y\x05\x01\xe5Y\x04\x01\xdd\xff\xcb\x00\x00\x00\x01\x00\xf2Y\x09\x01\xf2Y\xff\x00\x00\x00\x97\x00\xf2Y\x02\x01"
+		clear_data = "DanS\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\xb4\x9c\xf1\x00\x10\x00\x00\x00\xb4\x9c\xf3\x00\xa5\x00\x00\x00\xb4\x9c\xf2\x00\x1d\x00\x00\x00\xe5Y\x03\x01\x1a\x00\x00\x00\xe5Y\x05\x01w\x00\x00\x00\xe5Y\x04\x01C\x00\x00\x00\xdd\xff\xcb\x00\x0f\x00\x00\x00\x00\x00\x01\x00\xb5\x00\x00\x00\xf2Y\x09\x01\x05\x00\x00\x00\xf2Y\xff\x00\x01\x00\x00\x00\x00\x00\x97\x00\x01\x00\x00\x00\xf2Y\x02\x01\x01\x00\x00\x00"
+		raw_data = "\xb4\xc5\xe9+\xf0\xa4\x87x\xf0\xa4\x87x\xf0\xa4\x87xD8vx\xe0\xa4\x87xD8txU\xa4\x87xD8ux\xed\xa4\x87x\x15\xfd\x84y\xea\xa4\x87x\x15\xfd\x82y\x87\xa4\x87x\x15\xfd\x83y\xb3\xa4\x87x-[Lx\xff\xa4\x87x\xf0\xa4\x86xE\xa4\x87x\x02\xfd\x8ey\xf5\xa4\x87x\x02\xfdxx\xf1\xa4\x87x\xf0\xa4\x10x\xf1\xa4\x87x\x02\xfd\x85y\xf1\xa4\x87x"
+		key = 2022155504
+		length = 112
+		offset = 128
+	overlay
+		size = 0
+		offset = 0
+	sections
+		[0]
+			name = ".text"
+			full_name = ".text"
+			characteristics = 1610612768
+			virtual_address = 4096
+			virtual_size = 360678
+			raw_data_offset = 1024
+			raw_data_size = 360960
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[1]
+			name = ".rdata"
+			full_name = ".rdata"
+			characteristics = 1073741888
+			virtual_address = 368640
+			virtual_size = 1824184
+			raw_data_offset = 361984
+			raw_data_size = 1824256
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[2]
+			name = ".data"
+			full_name = ".data"
+			characteristics = 3221225536
+			virtual_address = 2195456
+			virtual_size = 16104
+			raw_data_offset = 2186240
+			raw_data_size = 10240
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[3]
+			name = ".tls"
+			full_name = ".tls"
+			characteristics = 3221225536
+			virtual_address = 2211840
+			virtual_size = 9
+			raw_data_offset = 2196480
+			raw_data_size = 512
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[4]
+			name = ".rsrc"
+			full_name = ".rsrc"
+			characteristics = 1073741888
+			virtual_address = 2215936
+			virtual_size = 77528
+			raw_data_offset = 2196992
+			raw_data_size = 77824
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[5]
+			name = ".reloc"
+			full_name = ".reloc"
+			characteristics = 1107296320
+			virtual_address = 2293760
+			virtual_size = 19528
+			raw_data_offset = 2274816
+			raw_data_size = 19968
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+	data_directories
+		[0]
+			virtual_address = 0
+			size = 0
+		[1]
+			virtual_address = 2188628
+			size = 160
+		[2]
+			virtual_address = 2215936
+			size = 77528
+		[3]
+			virtual_address = 0
+			size = 0
+		[4]
+			virtual_address = 0
+			size = 0
+		[5]
+			virtual_address = 2293760
+			size = 19528
+		[6]
+			virtual_address = 2159344
+			size = 112
+		[7]
+			virtual_address = 0
+			size = 0
+		[8]
+			virtual_address = 0
+			size = 0
+		[9]
+			virtual_address = 2159548
+			size = 24
+		[10]
+			virtual_address = 2159456
+			size = 64
+		[11]
+			virtual_address = 0
+			size = 0
+		[12]
+			virtual_address = 368640
+			size = 700
+		[13]
+			virtual_address = 0
+			size = 0
+		[14]
+			virtual_address = 0
+			size = 0
+		[15]
+			virtual_address = 0
+			size = 0
+	loader_flags = 0
+	size_of_heap_commit = 4096
+	size_of_heap_reserve = 1048576
+	size_of_stack_commit = 4096
+	size_of_stack_reserve = 1048576
+	dll_characteristics = 33088
+	subsystem = 2
+	checksum = 0
+	size_of_headers = 1024
+	size_of_image = 2314240
+	win32_version_value = 0
+	subsystem_version
+		minor = 0
+		major = 6
+	image_version
+		minor = 0
+		major = 0
+	os_version
+		minor = 0
+		major = 6
+	linker_version
+		minor = 0
+		major = 14
+	file_alignment = 512
+	section_alignment = 4096
+	base_of_data = 368640
+	base_of_code = 4096
+	size_of_uninitialized_data = 0
+	size_of_initialized_data = 1938944
+	size_of_code = 360960
+	opthdr_magic = 267
+	version_info_list
+		[0]
+			key = "CompanyName"
+			value = "Microsoft Corporation"
+		[1]
+			key = "FileDescription"
+			value = "Host Process for Windows Services"
+		[2]
+			key = "FileVersion"
+			value = "1.0.0.1"
+		[3]
+			key = "InternalName"
+			value = "svchost.exe"
+		[4]
+			key = "LegalCopyright"
+			value = "Copyright (C)"
+		[5]
+			key = "OriginalFilename"
+			value = "svchost.exe"
+		[6]
+			key = "ProductName"
+			value = "Microsoft\xae Windows\xae Operating System"
+		[7]
+			key = "ProductVersion"
+			value = "1.0.0.1"
+	version_info
+		CompanyName = "Microsoft Corporation"
+		FileDescription = "Host Process for Windows Services"
+		FileVersion = "1.0.0.1"
+		InternalName = "svchost.exe"
+		LegalCopyright = "Copyright (C)"
+		OriginalFilename = "svchost.exe"
+		ProductName = "Microsoft\xae Windows\xae Operating System"
+		ProductVersion = "1.0.0.1"
+	number_of_version_infos = 8
+	number_of_rva_and_sizes = 16
+	image_base = 4194304
+	entry_point_raw = 110015
+	entry_point = 106943
+	characteristics = 258
+	size_of_optional_header = 224
+	number_of_symbols = 0
+	pointer_to_symbol_table = 0
+	timestamp = 1472118203
+	number_of_sections = 6
+	machine = 332
+	is_pe = 1
+	IMPORT_ANY = -1
+	IMPORT_STANDARD = 1
+	IMPORT_DELAYED = 2
+	IMAGE_DEBUG_TYPE_REPRO = 16
+	IMAGE_DEBUG_TYPE_MPX = 15
+	IMAGE_DEBUG_TYPE_ILTCG = 14
+	IMAGE_DEBUG_TYPE_POGO = 13
+	IMAGE_DEBUG_TYPE_VC_FEATURE = 12
+	IMAGE_DEBUG_TYPE_CLSID = 11
+	IMAGE_DEBUG_TYPE_RESERVED10 = 10
+	IMAGE_DEBUG_TYPE_BORLAND = 9
+	IMAGE_DEBUG_TYPE_OMAP_FROM_SRC = 8
+	IMAGE_DEBUG_TYPE_OMAP_TO_SRC = 7
+	IMAGE_DEBUG_TYPE_FIXUP = 6
+	IMAGE_DEBUG_TYPE_EXCEPTION = 5
+	IMAGE_DEBUG_TYPE_MISC = 4
+	IMAGE_DEBUG_TYPE_FPO = 3
+	IMAGE_DEBUG_TYPE_CODEVIEW = 2
+	IMAGE_DEBUG_TYPE_COFF = 1
+	IMAGE_DEBUG_TYPE_UNKNOWN = 0
+	RESOURCE_TYPE_MANIFEST = 24
+	RESOURCE_TYPE_HTML = 23
+	RESOURCE_TYPE_ANIICON = 22
+	RESOURCE_TYPE_ANICURSOR = 21
+	RESOURCE_TYPE_VXD = 20
+	RESOURCE_TYPE_PLUGPLAY = 19
+	RESOURCE_TYPE_DLGINCLUDE = 17
+	RESOURCE_TYPE_VERSION = 16
+	RESOURCE_TYPE_GROUP_ICON = 14
+	RESOURCE_TYPE_GROUP_CURSOR = 12
+	RESOURCE_TYPE_MESSAGETABLE = 11
+	RESOURCE_TYPE_RCDATA = 10
+	RESOURCE_TYPE_ACCELERATOR = 9
+	RESOURCE_TYPE_FONT = 8
+	RESOURCE_TYPE_FONTDIR = 7
+	RESOURCE_TYPE_STRING = 6
+	RESOURCE_TYPE_DIALOG = 5
+	RESOURCE_TYPE_MENU = 4
+	RESOURCE_TYPE_ICON = 3
+	RESOURCE_TYPE_BITMAP = 2
+	RESOURCE_TYPE_CURSOR = 1
+	SECTION_SCALE_INDEX = 1
+	SECTION_MEM_WRITE = 2147483648
+	SECTION_MEM_READ = 1073741824
+	SECTION_MEM_EXECUTE = 536870912
+	SECTION_MEM_SHARED = 268435456
+	SECTION_MEM_NOT_PAGED = 134217728
+	SECTION_MEM_NOT_CACHED = 67108864
+	SECTION_MEM_DISCARDABLE = 33554432
+	SECTION_LNK_NRELOC_OVFL = 16777216
+	SECTION_ALIGN_MASK = 15728640
+	SECTION_ALIGN_8192BYTES = 14680064
+	SECTION_ALIGN_4096BYTES = 13631488
+	SECTION_ALIGN_2048BYTES = 12582912
+	SECTION_ALIGN_1024BYTES = 11534336
+	SECTION_ALIGN_512BYTES = 10485760
+	SECTION_ALIGN_256BYTES = 9437184
+	SECTION_ALIGN_128BYTES = 8388608
+	SECTION_ALIGN_64BYTES = 7340032
+	SECTION_ALIGN_32BYTES = 6291456
+	SECTION_ALIGN_16BYTES = 5242880
+	SECTION_ALIGN_8BYTES = 4194304
+	SECTION_ALIGN_4BYTES = 3145728
+	SECTION_ALIGN_2BYTES = 2097152
+	SECTION_ALIGN_1BYTES = 1048576
+	SECTION_MEM_PRELOAD = 524288
+	SECTION_MEM_LOCKED = 262144
+	SECTION_MEM_16BIT = 131072
+	SECTION_MEM_PURGEABLE = 131072
+	SECTION_MEM_FARDATA = 32768
+	SECTION_GPREL = 32768
+	SECTION_NO_DEFER_SPEC_EXC = 16384
+	SECTION_LNK_COMDAT = 4096
+	SECTION_LNK_REMOVE = 2048
+	SECTION_LNK_INFO = 512
+	SECTION_LNK_OTHER = 256
+	SECTION_CNT_UNINITIALIZED_DATA = 128
+	SECTION_CNT_INITIALIZED_DATA = 64
+	SECTION_CNT_CODE = 32
+	SECTION_NO_PAD = 8
+	IMAGE_ROM_OPTIONAL_HDR_MAGIC = 263
+	IMAGE_NT_OPTIONAL_HDR64_MAGIC = 523
+	IMAGE_NT_OPTIONAL_HDR32_MAGIC = 267
+	IMAGE_DIRECTORY_ENTRY_COM_DESCRIPTOR = 14
+	IMAGE_DIRECTORY_ENTRY_DELAY_IMPORT = 13
+	IMAGE_DIRECTORY_ENTRY_IAT = 12
+	IMAGE_DIRECTORY_ENTRY_BOUND_IMPORT = 11
+	IMAGE_DIRECTORY_ENTRY_LOAD_CONFIG = 10
+	IMAGE_DIRECTORY_ENTRY_TLS = 9
+	IMAGE_DIRECTORY_ENTRY_GLOBALPTR = 8
+	IMAGE_DIRECTORY_ENTRY_COPYRIGHT = 7
+	IMAGE_DIRECTORY_ENTRY_ARCHITECTURE = 7
+	IMAGE_DIRECTORY_ENTRY_DEBUG = 6
+	IMAGE_DIRECTORY_ENTRY_BASERELOC = 5
+	IMAGE_DIRECTORY_ENTRY_SECURITY = 4
+	IMAGE_DIRECTORY_ENTRY_EXCEPTION = 3
+	IMAGE_DIRECTORY_ENTRY_RESOURCE = 2
+	IMAGE_DIRECTORY_ENTRY_IMPORT = 1
+	IMAGE_DIRECTORY_ENTRY_EXPORT = 0
+	BYTES_REVERSED_HI = 32768
+	UP_SYSTEM_ONLY = 16384
+	DLL = 8192
+	SYSTEM = 4096
+	NET_RUN_FROM_SWAP = 2048
+	REMOVABLE_RUN_FROM_SWAP = 1024
+	DEBUG_STRIPPED = 512
+	MACHINE_32BIT = 256
+	BYTES_REVERSED_LO = 128
+	LARGE_ADDRESS_AWARE = 32
+	AGGRESIVE_WS_TRIM = 16
+	LOCAL_SYMS_STRIPPED = 8
+	LINE_NUMS_STRIPPED = 4
+	EXECUTABLE_IMAGE = 2
+	RELOCS_STRIPPED = 1
+	TERMINAL_SERVER_AWARE = 32768
+	GUARD_CF = 16384
+	WDM_DRIVER = 8192
+	APPCONTAINER = 4096
+	NO_BIND = 2048
+	NO_SEH = 1024
+	NO_ISOLATION = 512
+	NX_COMPAT = 256
+	FORCE_INTEGRITY = 128
+	DYNAMIC_BASE = 64
+	HIGH_ENTROPY_VA = 32
+	SUBSYSTEM_WINDOWS_BOOT_APPLICATION = 16
+	SUBSYSTEM_XBOX = 14
+	SUBSYSTEM_EFI_ROM_IMAGE = 13
+	SUBSYSTEM_EFI_RUNTIME_DRIVER = 12
+	SUBSYSTEM_EFI_BOOT_SERVICE_DRIVER = 11
+	SUBSYSTEM_EFI_APPLICATION = 10
+	SUBSYSTEM_WINDOWS_CE_GUI = 9
+	SUBSYSTEM_NATIVE_WINDOWS = 8
+	SUBSYSTEM_POSIX_CUI = 7
+	SUBSYSTEM_OS2_CUI = 5
+	SUBSYSTEM_WINDOWS_CUI = 3
+	SUBSYSTEM_WINDOWS_GUI = 2
+	SUBSYSTEM_NATIVE = 1
+	SUBSYSTEM_UNKNOWN = 0
+	MACHINE_CEE = 49390
+	MACHINE_CEF = 3311
+	MACHINE_TRICORE = 1312
+	MACHINE_AXP64 = 644
+	MACHINE_ALPHA64 = 644
+	MACHINE_SH3E = 420
+	MACHINE_ALPHA = 388
+	MACHINE_R10000 = 360
+	MACHINE_R3000 = 354
+	MACHINE_TARGET_HOST = 1
+	MACHINE_WCEMIPSV2 = 361
+	MACHINE_THUMB = 450
+	MACHINE_SH5 = 424
+	MACHINE_SH4 = 422
+	MACHINE_SH3DSP = 419
+	MACHINE_SH3 = 418
+	MACHINE_R4000 = 358
+	MACHINE_POWERPCFP = 497
+	MACHINE_POWERPC = 496
+	MACHINE_MIPSFPU16 = 1126
+	MACHINE_MIPSFPU = 870
+	MACHINE_MIPS16 = 614
+	MACHINE_M32R = 36929
+	MACHINE_IA64 = 512
+	MACHINE_I386 = 332
+	MACHINE_EBC = 3772
+	MACHINE_ARM64 = 43620
+	MACHINE_ARMNT = 452
+	MACHINE_ARM = 448
+	MACHINE_AMD64 = 34404
+	MACHINE_AM33 = 467
+	MACHINE_UNKNOWN = 0
+ttp_masquerading_svchost /home/sans/Desktop/MALWARE-Samples/Lab-MalwareMasquerade/1-mal-masq-d723b7c150427a83d8a08dc613f68675690fa0f5b10287b078f7e8d50d1a363f

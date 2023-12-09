@@ -1,0 +1,3209 @@
+!This program cannot be run in DOS mode.
+]VRichh
+`.rdata
+@.data
+.pdata
+@.rsrc
+@.reloc
+UVWATAUAVAWH
+I9^(uVI
+pA_A^A]A\_^]
+x AUAVAWH
+0A_A^A]H
+p WATAUAVAWH
+ A_A^A]A\_
+SUVWAVH
+A^_^][
+H9|$0t H
+H9L$0u	
+WATAUAVAWH
+ A_A^A]A\_
+x ATAVAWH
+0A_A^A\
+UVWATAUAVAWH
+0A_A^A]A\_^]
+l$ VWATAVAWH
+A_A^A\_^
+H SVWH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATAUAVAWH
+l$8A:E
+l$8A:E
+A_A^A]A\_^[]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+H SVWH
+WAVAWH
+ A_A^_
+@SUVWATAVAWH
+A_A^A\_^][
+UVWATAUAVAWH
+l$0A8}
+@8~It!H
+NhH9~htIH
+uKHc|$`L
+\$@I9~
+8^At3H
+8^Bt+D
+u+8\$HH
+E9~<upA8^
+8^Jt+H
+8^Kt+H
+8^Lt+D
+A_A^A]A\_^]
+WAVAWH
+D$XH!\$X
+H9_@t.H
+I9)t!H9
+ A_A^_
+l$ VWAVH
+WAVAWH
+ A_A^_
+)H9\$8t
+H9D$8u
+H9|$Ht-H
+H9D$Hu
+x AUAVAWH
+ A_A^A]
+'H9\$8t
+H9D$8u
+UVWATAUAVAWH
+A_A^A]A\_^]
+UVWATAUAVAWH
+8\$1t	H
+A_A^A]A\_^]
+WAVAWH
+ A_A^_
+l$ VWAVH
+WATAVH
+ A^A\_
+SUVWATAUAVAWH
+D$ L9p@tf@
+A_A^A]A\_^][
+UVWATAUAVAWH
+ A_A^A]A\_^]
+UVWATAUAVAWH
+D9(u[H
+@A_A^A]A\_^]
+UVWATAUAVAWH
+PA_A^A]A\_^]
+@SUVWAVAWH
+A_A^_^][
+WAVAWH
+0A_A^_
+\$ UVWATAUAVAWH
+pA_A^A]A\_^]
+UVWATAUAVAWH
+<nt*<rt
+0A_A^A]A\_^]
+H SVWH
+USVWATAUAVAWH
+8A_A^A]A\_^[]
+@USVWATAUAVAWH
+D86u,I
+l$(u_I
+A_A^A]A\_^[]
+H;L$(u
+UWATAVAWH
+A_A^A\_]
+x ATAVAWH
+ A_A^A\
+VWATAVAWH
+ A_A^A\_^
+WATAWH
+ A_A\_
+UVWATAUAVAWH
+H!l$pH
+O<@H9_`
+H9_0tX
+O<0H9_@
+H9_PucH
+_ 8_8t
+_88_Xt
+tHH9^0uB
+F<ku7H
+^ 8^8t
+^88^Xt
+A_A^A]A\_^]
+UVWATAUAVAWH
+pA_A^A]A\_^]
+L$ SVWH
+x ATAVAWH
+ A_A^A\
+@USVWATAUAVAWH
+GPQt)H
+A_A^A]A\_^[]
+--------H
+UVWATAUAVAWH
+A_A^A]A\_^]
+uDH!D$0E3
+l$ VWAVH
+WATAUAVAWH
+H9H0v,H
+ A_A^A]A\_
+UVWATAUAVAWH
+A_A^A]A\_^]
+?8D$0tC3
+\$ UVWATAUAVAWH
+H9x0t2@
+H9x8t+@
+I9?t4I
+A_A^A]A\_^]
+UVWATAUAVAWH
+H97u7H
+A_A^A]A\_^]
+WAVAWH
+0A_A^_
+H9H |H
+H+D$ Hi
+x ATAVAWH
+ A_A^A\
+H SUVATAUAVAWH
+H9\$0t+H+\$0L
+@A_A^A]A\^][
+x ATAVAWH
+ A_A^A\
+x ATAVAWH
+ A_A^A\
+x ATAVAWH
+ A_A^A\
+WATAUAVAWH
+ A_A^A]A\_
+p WATAUAVAWH
+0A_A^A]A\_
+WAVAWH
+0A_A^_
+@SUVWH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+x ATAVAWH
+ A_A^A\
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+D$P9D$H
+\$ UVWATAUAVAWH
+uy9L$dusD
+A_A^A]A\_^]
+s WAUAVH
+@A^A]_
+t"H9APt
+@SUVWAVH
+A^_^][
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+\$ UVWH
+D$ t1H
+L$(H+N
+WAVAWH
+ A_A^_
+UVWATAUAVAWH
+u'9D$`ttH
+ A_A^A]A\_^]
+UWATAVAWH
+A_A^A\_]
+x ATAVAWH
+9H9i0u$L;
+0A_A^A\
+H!|$@H
+us8A`unH
+SUVWATAUAVAWH
+t$PD9.u	H
+A;D$|u
+d$0H;t$Ps
+D8d$0t#D8
+xA_A^A]A\_^][
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+x ATAVAWH
+ A_A^A\
+UATAUAVAWH
+A_A^A]A\]
+WATAUAVAWH
+t-D8.t
+ A_A^A]A\_
+|$ UATAUAVAWH
+A_A^A]A\]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+l$ VWAVH
+P\8T$Pu2H
+WAVAWH
+ A_A^_
+WAVAWH
+ A_A^_
+VWATAVAWH
+ A_A^A\_^
+UVWATAUAVAWH
+t.D8>t)L
+@A_A^A]A\_^]
+t%H9\$Hu#L
+USVWATAUAVAWH
+A_A^A]A\_^[]
+H9H0r-H
+WAVAWH
+ A_A^_
+UVWATAUAVAWH
+L9~(u,L
+A_A^A]A\_^]
+	L9~ t
+\$pE8}
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+ A_A^A]A\_^]
+tJH9{(t
+WAVAWH
+ A_A^_
+x ATAVAWH
+0A_A^A\
+UVWATAUAVAWH
+u-D;o,u'H
+ A_A^A]A\_^]
+UVWATAUAVAWH
+M|$`E;
+ A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+l$ VWAVH
+@SUVWATAVAWH
+PA_A^A\_^][
+L$ UVWATAUAVAWH
+H+F I;
+H9~ u3H9~(u-
+@8}Pt^H
+t$ 9~\t0L
+9~\ti@8
+t L9Np~
+@|0u3A8
+u\@8}@t
+pA_A^A]A\_^]
+t$ WAVAWH
+@A_A^_
+p WATAUAVAWH
+D9d$pt)H
+A_A^A]A\_
+x ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+@A_A^A]A\_^]
+D9T$hu
+HcD$hH
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+SUVWATAUAVAWH
+xA_A^A]A\_^][
+)D$ fH
+)L$0H+
+D$(+D$8Hc
+)D$0L+
+D$(+D$8Hc
+x UATAUAVAWH
+A_A^A]A\]
+H WATAUAVAWH
+ A_A^A]A\_
+WATAUAVAWH
+ A_A^A]A\_
+x ATAVAWH
+ A_A^A\
+UVWATAUAVAWH
+l$`9i ~gE3
+l$`;o |
+ A_A^A]A\_^]
+A;Q }?M
+UVWATAWH
+0A_A\_^]
+WAVAWH
+0A_A^_
+WAVAWH
+0A_A^_
+SUVWATAUAVAWH
+xA_A^A]A\_^][
+UVWATAUAVAWH
+0A_A^A]A\_^]
+K SVWH
+WAVAWH
+ A_A^_
+x ATAVAWH
+0A_A^A\
+UVWATAUAVAWH
+[<[u#I
+@8(u$H
+A_A^A]A\_^]
+x ATAVAWH
+ A_A^A\
+t$ WATAUAVAWH
+wXuQD8
+wXM94$t
+u-D9w`u%H
+A_A^A]A\_
+UVWAUAWH
+A_A]_^]
+x AUAVAWH
+ A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+ A_A^A]A\_^]
+WAVAWH
+ A_A^_
+t <-u<A
+WAVAWH
+tK@8*t
+0A_A^_
+t$ WATAUAVAWH
+L9|$Pu
+ A_A^A]A\_
+SUVWATAVAWH
+@A_A^A\_^][
+t$ WAVAWH
+A8w u)H9
+H9\$`t
+_8H+\$`H
+@A_A^_
+UVWATAUAVAWH
+L!d$pL
+ A_A^A]A\_^]
+x ATAVAWH
+ A_A^A\
+@USVWATAUAVAWH
+L$ft%D
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+x ATAVAWH
+;/tXH;
+ A_A^A\
+UVWATAUAVAWH
+0A_A^A]A\_^]
+UVWATAUAVAWH
+G ;G(~
+A_A^A]A\_^]
+C(9C ~
+C(9C ~
+C ;C(~
+fD9CHv
+x AUAVAWH
+ A_A^A]
+|$ AVH
+u LcD$0H
+p WATAVH
+L$`H;K8~
+&HcC$H
+@A^A\_
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+t$ WAVAWH
+L9t$@u
+ A_A^_
+90usH!t$0I
+H!t$ 3
+\$ UVWH
+WATAUAVAWH
+ A_A^A]A\_
+A8)t.A
+A8)t&M
+x ATAVAWH
+ A_A^A\
+H+D$ Hi
+UVWAVAWH
+ A_A^_^]
+\$ UVWATAUAVAWH
+!l$`E3
+\$`H!)9+
+ A_A^A]A\_^]
+UVWATAUAVAWH
+f9\$Pt
+D$<f9D$8
+D$<fD;
+D$<fD;
+f9L$PH
+A_A^A]A\_^]
+tf@89ta
+x AUAVAWH
+@A_A^A]
+UVWATAUAVAWH
+A_A^A]A\_^]
+UWAUAVAWH
+A_A^A]_]
+t$ WAVAWH
+t$ WATAUAVAWH
+u-8\$Xu
+ A_A^A]A\_
+UVWATAUAVAWH
+l$hL9m0t
+upD8l$`u
+ A_A^A]A\_^]
+UVWATAUAVAWH
+@A_A^A]A\_^]
+H9L$0H
+UVATAVAWH
+D8e@u%
+D8e0t)H
+@A_A^A\^]
+WATAUAVAWH
+ A_A^A]A\_
+UVWATAUAVAWH
+D8&uJD
+0A_A^A]A\_^]
+x AUAVAWH
+<'t.H;
+ A_A^A]
+UWATAVAWH
+A_A^A\_]
+UWAUAVAWH
+A_A^A]_]
+t$ WAVAWH
+ A_A^_
+t$ WATAUAVAWH
+ A_A^A]A\_
+@SUVWAUAVAWH
+PA_A^A]_^][
+UVWATAUAVAWH
+A_A^A]A\_^]
+@SUVWATAUAVAWH
+A_A^A]A\_^][
+H9L$0H
+UVWAVAWH
+0A_A^_^]
+t$ WAVAWH
+UVWATAUAVAWH
+H!t$XH
+A_A^A]A\_^]
+x AUAVAWH
+ A_A^A]
+L9t$@u
+VWATAVAWH
+A_A^A\_^
+X UVWAVAWH
+@A_A^_^]
+WAVAWH
+ A_A^_
+utH9n8unH9n
+u5@8.t0H
+K SVWH
+s WATAVH
+(){ %*]
+0A^A\_
+@USVWATAVAWH
+t%I9v u
+0A_A^A\_^[]
+UVWATAUAVAWH
+0A_A^A]A\_^]
+WATAUAVAWH
+s:@82u
+A_A^A]A\_
+UVWATAUAVAWH
+http/1.1
+A_A^A]A\_^]
+UVWATAUAVAWH
+A_A^A]A\_^]
+t$ UWATAVAWH
+H;D$9u
+A_A^A\_]
+WATAUAVAWH
+ A_A^A]A\_
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+WATAUAVAWH
+ A_A^A]A\_
+VWATAVAWH
+A_A^A\_^
+L$ SUVWATAVAWH
+I)_@L+
+vVE9W4
+}EIcG4H
+ A_A^A\_^][
+@USVWATAUAVAWH
+tgE8/tbH
+A_A^A]A\_^[]
+t$ UWAVH
+\$ UVWATAUAVAWH
+A_A^A]A\_^]
+UATAUAVAWH
+H9~Pu&L
+t%A8?t H
+tB<=tmL
+A_A^A]A\]
+` UAVAWH
+WATAUAVAWH
+ A_A^A]A\_
+H9t$@u
+USVWATAUAVAWH
+A_A^A]A\_^[]
+L$ UVWATAUAVAWH
+pA_A^A]A\_^]
+x ATAVAWH
+@A_A^A\
+SUVWATAUAVAWH
+D$8L+O
+XA_A^A]A\_^][
+G0H9D$Pt
+H+D$PH
+UVWATAUAVAWH
+D$hH;D$x
+L9d$xt`H
+D$hH;D$x
+A_A^A]A\_^]
+WAVAWH
+ A_A^_
+SUVWATAUAVAWH
+I9Exr4H
+(A_A^A]A\_^][
+@89u#H
+WAVAWH
+TUUUUUUUL
+ A_A^_
+WATAUAVAWH
+ A_A^A]A\_
+WAVAWH
+ A_A^_
+WAVAWH
+UATAUAVAWH
+8]1u\H
+A_A^A]A\]
+UWATAVAWH
+A_A^A\_]
+@USVWATAUAVAWH
+\$`I9^
+L!d$0I
+FHL!d$(H
+tK<=tyL
+A_A^A]A\_^[]
+@USVWATAUAVAWH
+A_A^A]A\_^[]
+UVWATAUAVAWH
+A_A^A]A\_^]
+H WATAUAVAWH
+0A_A^A]A\_
+UVWATAUAVAWH
+@A_A^A]A\_^]
+WATAUAVAWH
+ A_A^A]A\_
+ H3E H3E
+A:8uiI
+t'A88t
+WATAUAVAWH
+A_A^A]A\_
+ffffff
+t<ffff
+WATAUAVAWH
+ A_A^A]A\_
+LcA<E3
+ffffff
+FlsAlloc
+FlsFree
+FlsSetValue
+InitializeCriticalSectionEx
+__based(
+__cdecl
+__pascal
+__stdcall
+__thiscall
+__fastcall
+__vectorcall
+__clrcall
+__eabi
+__ptr64
+__restrict
+__unaligned
+restrict(
+ delete
+operator
+`vftable'
+`vbtable'
+`vcall'
+`typeof'
+`local static guard'
+`string'
+`vbase destructor'
+`vector deleting destructor'
+`default constructor closure'
+`scalar deleting destructor'
+`vector constructor iterator'
+`vector destructor iterator'
+`vector vbase constructor iterator'
+`virtual displacement map'
+`eh vector constructor iterator'
+`eh vector destructor iterator'
+`eh vector vbase constructor iterator'
+`copy constructor closure'
+`udt returning'
+`local vftable'
+`local vftable constructor closure'
+ new[]
+ delete[]
+`omni callsig'
+`placement delete closure'
+`placement delete[] closure'
+`managed vector constructor iterator'
+`managed vector destructor iterator'
+`eh vector copy constructor iterator'
+`eh vector vbase copy constructor iterator'
+`dynamic initializer for '
+`dynamic atexit destructor for '
+`vector copy constructor iterator'
+`vector vbase copy constructor iterator'
+`managed vector copy constructor iterator'
+`local static thread guard'
+operator "" 
+operator co_await
+ Type Descriptor'
+ Base Class Descriptor at (
+ Base Class Array'
+ Class Hierarchy Descriptor'
+ Complete Object Locator'
+%02d:%02d:%02d.%06ld 
+Failed to create/open output
+[%zd bytes data]
+%s== Info: %s
+=> Send header
+=> Send data
+<= Recv header
+<= Recv data
+<= Recv SSL data
+=> Send SSL data
+%s%s, %zd bytes (0x%zx)
+%04zx: 
+Content-disposition:
+http://
+https://
+filename=
+%%-%ds %%5.1f%%%%
+COLUMNS
+Remote filename has no length!
+Refusing to overwrite %s: %s
+Failed to create the file %s: %s
+Binary output can mess up your terminal. Use "--output -" to tell curl to output it to your terminal anyway, or consider "--output <FILE>" to save to a file.
+You don't have permission to create %s.
+The directory name %s is too long.
+%s resides on a read-only file system.
+No space left on the file system that will contain the directory %s.
+Cannot create directory %s because you exceeded your quota.
+Error creating directory %s.
+|<>"?*
+CLOCK$
+/********* Sample code generated by the curl command line tool **********
+ * All curl_easy_setopt() options are documented at:
+ * https://curl.haxx.se/libcurl/c/curl_easy_setopt.html
+ ************************************************************************/
+#include <curl/curl.h>
+int main(int argc, char *argv[])
+  CURLcode ret;
+  CURL *hnd;
+/* Here is a list of options the curl code used that cannot get generated
+   as source easily. You may select to either not use them or implement
+   them yourself.
+  return (int)ret;
+/**** End of sample code ****/
+hnd = curl_easy_init();
+ret = curl_easy_perform(hnd);
+curl_easy_cleanup(hnd);
+hnd = NULL;
+Failed to open %s to write libcurl code!
+%255[^=]=
+out of memory
+%127[^/]/%127[^;,
+Illegally formatted content-type field!
+;filename=
+skip unknown form field: %s
+Error building form post!
+curl_formadd failed!
+;type=
+curl_formadd failed, possibly the file %s is bad!
+Illegally formatted input field!
+dns-ipv4-addr
+dns-ipv6-addr
+random-file
+egd-file
+oauth2-bearer
+connect-timeout
+ciphers
+dns-interface
+disable-epsv
+dns-servers
+trace-ascii
+limit-rate
+compressed
+tr-encoding
+digest
+negotiate
+ntlm-wb
+anyauth
+ftp-create-dirs
+create-dirs
+max-redirs
+proxy-ntlm
+stderr
+interface
+max-filesize
+disable-eprt
+ftp-ssl
+ftp-pasv
+socks5
+tcp-nodelay
+proxy-digest
+proxy-basic
+retry-connrefused
+retry-delay
+retry-max-time
+proxy-negotiate
+ftp-account
+proxy-anyauth
+trace-time
+ignore-content-length
+ftp-skip-pasv-ip
+ftp-method
+local-port
+socks4
+socks4a
+ftp-alternative-to-user
+ftp-ssl-reqd
+ssl-reqd
+sessionid
+ftp-ssl-control
+ftp-ssl-ccc
+ftp-ssl-ccc-mode
+libcurl
+post301
+keepalive
+socks5-hostname
+keepalive-time
+post302
+noproxy
+socks5-gssapi-nec
+proxy1.0
+tftp-blksize
+mail-from
+mail-rcpt
+ftp-pret
+proto-redir
+resolve
+delegation
+mail-auth
+post303
+metalink
+sasl-ir
+test-event
+unix-socket
+path-as-is
+socks5-gssapi-service
+proxy-service-name
+service-name
+proto-default
+expect100-timeout
+tftp-no-options
+connect-to
+abstract-unix-socket
+tls-max
+suppress-connect-headers
+http1.0
+http1.1
+http2-prior-knowledge
+tlsv1.0
+tlsv1.1
+tlsv1.2
+tlsv1.3
+append
+user-agent
+cookie
+use-ascii
+cookie-jar
+continue-at
+data-raw
+data-ascii
+data-binary
+data-urlencode
+dump-header
+referer
+cacert
+cert-type
+key-type
+engine
+capath
+pubkey
+hostpubmd5
+crlfile
+tlsuser
+tlspassword
+tlsauthtype
+ssl-allow-beast
+login-options
+pinnedpubkey
+cert-status
+false-start
+ssl-no-revoke
+tcp-fastopen
+proxy-tlsuser
+proxy-tlspassword
+proxy-tlsauthtype
+proxy-cert
+proxy-cert-type
+proxy-key
+proxy-key-type
+proxy-pass
+proxy-ciphers
+proxy-crlfile
+proxy-ssl-allow-beast
+proxy-cacert
+proxy-capath
+proxy-insecure
+proxy-tlsv1
+socks5-basic
+socks5-gssapi
+fail-early
+form-string
+globoff
+request-target
+header
+proxy-header
+include
+junk-session-cookies
+remote-header-name
+insecure
+config
+list-only
+location
+location-trusted
+max-time
+manual
+netrc-optional
+netrc-file
+buffer
+output
+remote-name
+remote-name-all
+proxytunnel
+ftp-port
+disable
+remote-time
+silent
+show-error
+telnet-option
+upload-file
+proxy-user
+verbose
+version
+write-out
+preproxy
+request
+speed-limit
+speed-time
+time-cond
+progress-bar
+pkcs11:
+--trace overrides an earlier trace/verbose option
+--trace-ascii overrides an earlier trace/verbose option
+unsupported rate unit. Use G, M, K or B!
+Failed to open %s!
+%d - %d
+bad range input
+--metalink option is ignored because the binary is built without the Metalink support.
+--test-event is ignored unless a debug build!
+Couldn't read data from file "%s", this makes an empty POST.
+%.*s=%s
+--include and --remote-header-name cannot be combined.
+error trying read config from the '%s' file
+built-in manual was disabled at build-time!
+A specified range MUST include at least one dash (-). Appending one for you!
+%I64d-
+Invalid character is found in given range. A specified range MUST have only digits in 'start'-'stop'. The server's response to this request is uncertain.
+-v, --verbose overrides an earlier trace/verbose option
+<stdin>
+Failed to read %s
+Illegal date format for -z, --time-cond (and not a file name). Disabling time condition. See curl_getdate(3) for valid date syntax.
+option %s: %s
+    --abstract-unix-socket <path>
+Connect via abstract Unix domain socket
+    --anyauth
+Pick any authentication method
+-a, --append
+Append to target file when uploading
+    --basic
+Use HTTP Basic Authentication
+    --cacert <CA certificate>
+CA certificate to verify peer against
+    --capath <dir>
+CA directory to verify peer against
+-E, --cert <certificate[:password]>
+Client certificate file and password
+    --cert-status
+Verify the status of the server certificate
+    --cert-type <type>
+Certificate file type (DER/PEM/ENG)
+    --ciphers <list of ciphers>
+SSL ciphers to use
+    --compressed
+Request compressed response
+-K, --config <file>
+Read config from a file
+    --connect-timeout <seconds>
+Maximum time allowed for connection
+    --connect-to <HOST1:PORT1:HOST2:PORT2>
+Connect to host
+-C, --continue-at <offset>
+Resumed transfer offset
+-b, --cookie <data>
+Send cookies from string/file
+-c, --cookie-jar <filename>
+Write cookies to <filename> after operation
+    --create-dirs
+Create necessary local directory hierarchy
+    --crlf
+Convert LF to CRLF in upload
+    --crlfile <file>
+Get a CRL list in PEM format from the given file
+-d, --data <data>
+HTTP POST data
+    --data-ascii <data>
+HTTP POST ASCII data
+    --data-binary <data>
+HTTP POST binary data
+    --data-raw <data>
+HTTP POST data, '@' allowed
+    --data-urlencode <data>
+HTTP POST data url encoded
+    --delegation <LEVEL>
+GSS-API delegation permission
+    --digest
+Use HTTP Digest Authentication
+-q, --disable
+Disable .curlrc
+    --disable-eprt
+Inhibit using EPRT or LPRT
+    --disable-epsv
+Inhibit using EPSV
+    --dns-interface <interface>
+Interface to use for DNS requests
+    --dns-ipv4-addr <address>
+IPv4 address to use for DNS requests
+    --dns-ipv6-addr <address>
+IPv6 address to use for DNS requests
+    --dns-servers <addresses>
+DNS server addrs to use
+-D, --dump-header <filename>
+Write the received headers to <filename>
+    --egd-file <file>
+EGD socket path for random data
+    --engine <name>
+Crypto engine to use
+    --expect100-timeout <seconds>
+How long to wait for 100-continue
+-f, --fail
+Fail silently (no output at all) on HTTP errors
+    --fail-early
+Fail on first transfer error, do not continue
+    --false-start
+Enable TLS False Start
+-F, --form <name=content>
+Specify HTTP multipart POST data
+    --form-string <name=string>
+    --ftp-account <data>
+Account data string
+    --ftp-alternative-to-user <command>
+String to replace USER [name]
+    --ftp-create-dirs
+Create the remote dirs if not present
+    --ftp-method <method>
+Control CWD usage
+    --ftp-pasv
+Use PASV/EPSV instead of PORT
+-P, --ftp-port <address>
+Use PORT instead of PASV
+    --ftp-pret
+Send PRET before PASV
+    --ftp-skip-pasv-ip
+Skip the IP address for PASV
+    --ftp-ssl-ccc
+Send CCC after authenticating
+    --ftp-ssl-ccc-mode <active/passive>
+Set CCC mode
+    --ftp-ssl-control
+Require SSL/TLS for FTP login, clear for transfer
+-G, --get
+Put the post data in the URL and use GET
+-g, --globoff
+Disable URL sequences and ranges using {} and []
+-I, --head
+Show document info only
+-H, --header <header/@file>
+Pass custom header(s) to server
+-h, --help
+This help text
+    --hostpubmd5 <md5>
+Acceptable MD5 hash of the host public key
+-0, --http1.0
+Use HTTP 1.0
+    --http1.1
+Use HTTP 1.1
+    --http2
+Use HTTP 2
+    --http2-prior-knowledge
+Use HTTP 2 without HTTP/1.1 Upgrade
+    --ignore-content-length
+Ignore the size of the remote resource
+-i, --include
+Include protocol response headers in the output
+-k, --insecure
+Allow insecure server connections when using SSL
+    --interface <name>
+Use network INTERFACE (or address)
+-4, --ipv4
+Resolve names to IPv4 addresses
+-6, --ipv6
+Resolve names to IPv6 addresses
+-j, --junk-session-cookies
+Ignore session cookies read from file
+    --keepalive-time <seconds>
+Interval time for keepalive probes
+    --key <key>
+Private key file name
+    --key-type <type>
+Private key file type (DER/PEM/ENG)
+    --krb <level>
+Enable Kerberos with security <level>
+    --libcurl <file>
+Dump libcurl equivalent code of this command line
+    --limit-rate <speed>
+Limit transfer speed to RATE
+-l, --list-only
+List only mode
+    --local-port <num/range>
+Force use of RANGE for local port numbers
+-L, --location
+Follow redirects
+    --location-trusted
+Like --location, and send auth to other hosts
+    --login-options <options>
+Server login options
+    --mail-auth <address>
+Originator address of the original email
+    --mail-from <address>
+Mail from this address
+    --mail-rcpt <address>
+-M, --manual
+Display the full manual
+    --max-filesize <bytes>
+Maximum file size to download
+    --max-redirs <num>
+Maximum number of redirects allowed
+-m, --max-time <time>
+Maximum time allowed for the transfer
+    --metalink
+Process given URLs as metalink XML file
+    --negotiate
+Use HTTP Negotiate (SPNEGO) authentication
+-n, --netrc
+Must read .netrc for user name and password
+    --netrc-file <filename>
+Specify FILE for netrc
+    --netrc-optional
+Use either .netrc or URL
+-:, --next
+Make next URL use its separate set of options
+    --no-alpn
+Disable the ALPN TLS extension
+-N, --no-buffer
+Disable buffering of the output stream
+    --no-keepalive
+Disable TCP keepalive on the connection
+    --no-npn
+Disable the NPN TLS extension
+    --no-sessionid
+Disable SSL session-ID reusing
+    --noproxy <no-proxy-list>
+List of hosts which do not use proxy
+    --ntlm
+Use HTTP NTLM authentication
+    --ntlm-wb
+Use HTTP NTLM authentication with winbind
+    --oauth2-bearer <token>
+OAuth 2 Bearer Token
+-o, --output <file>
+Write to file instead of stdout
+    --pass <phrase>
+Pass phrase for the private key
+    --path-as-is
+Do not squash .. sequences in URL path
+    --pinnedpubkey <hashes>
+FILE/HASHES Public key to verify peer against
+    --post301
+Do not switch to GET after following a 301
+    --post302
+Do not switch to GET after following a 302
+    --post303
+Do not switch to GET after following a 303
+    --preproxy [protocol://]host[:port]
+Use this proxy first
+-#, --progress-bar
+Display transfer progress as a bar
+    --proto <protocols>
+Enable/disable PROTOCOLS
+    --proto-default <protocol>
+Use PROTOCOL for any URL missing a scheme
+    --proto-redir <protocols>
+Enable/disable PROTOCOLS on redirect
+-x, --proxy [protocol://]host[:port]
+Use this proxy
+    --proxy-anyauth
+Pick any proxy authentication method
+    --proxy-basic
+Use Basic authentication on the proxy
+    --proxy-cacert <file>
+CA certificate to verify peer against for proxy
+    --proxy-capath <dir>
+CA directory to verify peer against for proxy
+    --proxy-cert <cert[:passwd]>
+Set client certificate for proxy
+    --proxy-cert-type <type>
+Client certificate type for HTTS proxy
+    --proxy-ciphers <list>
+SSL ciphers to use for proxy
+    --proxy-crlfile <file>
+Set a CRL list for proxy
+    --proxy-digest
+Use Digest authentication on the proxy
+    --proxy-header <header/@file>
+Pass custom header(s) to proxy
+    --proxy-insecure
+Do HTTPS proxy connections without verifying the proxy
+    --proxy-key <key>
+Private key for HTTPS proxy
+    --proxy-key-type <type>
+Private key file type for proxy
+    --proxy-negotiate
+Use HTTP Negotiate (SPNEGO) authentication on the proxy
+    --proxy-ntlm
+Use NTLM authentication on the proxy
+    --proxy-pass <phrase>
+Pass phrase for the private key for HTTPS proxy
+    --proxy-service-name <name>
+SPNEGO proxy service name
+    --proxy-ssl-allow-beast
+Allow security flaw for interop for HTTPS proxy
+    --proxy-tlsauthtype <type>
+TLS authentication type for HTTPS proxy
+    --proxy-tlspassword <string>
+TLS password for HTTPS proxy
+    --proxy-tlsuser <name>
+TLS username for HTTPS proxy
+    --proxy-tlsv1
+Use TLSv1 for HTTPS proxy
+-U, --proxy-user <user:password>
+Proxy user and password
+    --proxy1.0 <host[:port]>
+Use HTTP/1.0 proxy on given port
+-p, --proxytunnel
+Operate through a HTTP proxy tunnel (using CONNECT)
+    --pubkey <key>
+SSH Public key file name
+-Q, --quote
+Send command(s) to server before transfer
+    --random-file <file>
+File for reading random data from
+-r, --range <range>
+Retrieve only the bytes within RANGE
+    --raw
+Do HTTP "raw"; no transfer decoding
+-e, --referer <URL>
+Referrer URL
+-J, --remote-header-name
+Use the header-provided filename
+-O, --remote-name
+Write output to a file named as the remote file
+    --remote-name-all
+Use the remote file name for all URLs
+-R, --remote-time
+Set the remote file's time on the local output
+-X, --request <command>
+Specify request command to use
+    --request-target
+Specify the target for this request
+    --resolve <host:port:address>
+Resolve the host+port to this address
+    --retry <num>
+Retry request if transient problems occur
+    --retry-connrefused
+Retry on connection refused (use with --retry)
+    --retry-delay <seconds>
+Wait time between retries
+    --retry-max-time <seconds>
+Retry only within this period
+    --sasl-ir
+Enable initial response in SASL authentication
+    --service-name <name>
+SPNEGO service name
+-S, --show-error
+Show error even when -s is used
+-s, --silent
+Silent mode
+    --socks4 <host[:port]>
+SOCKS4 proxy on given host + port
+    --socks4a <host[:port]>
+SOCKS4a proxy on given host + port
+    --socks5 <host[:port]>
+SOCKS5 proxy on given host + port
+    --socks5-basic
+Enable username/password auth for SOCKS5 proxies
+    --socks5-gssapi
+Enable GSS-API auth for SOCKS5 proxies
+    --socks5-gssapi-nec
+Compatibility with NEC SOCKS5 server
+    --socks5-gssapi-service <name>
+SOCKS5 proxy service name for GSS-API
+    --socks5-hostname <host[:port]>
+SOCKS5 proxy, pass host name to proxy
+-Y, --speed-limit <speed>
+Stop transfers slower than this
+-y, --speed-time <seconds>
+Trigger 'speed-limit' abort after this time
+    --ssl
+Try SSL/TLS
+    --ssl-allow-beast
+Allow security flaw to improve interop
+    --ssl-no-revoke
+Disable cert revocation checks (WinSSL)
+    --ssl-reqd
+Require SSL/TLS
+-2, --sslv2
+Use SSLv2
+-3, --sslv3
+Use SSLv3
+    --stderr
+Where to redirect stderr
+    --suppress-connect-headers
+Suppress proxy CONNECT response headers
+    --tcp-fastopen
+Use TCP Fast Open
+    --tcp-nodelay
+Use the TCP_NODELAY option
+-t, --telnet-option <opt=val>
+Set telnet option
+    --tftp-blksize <value>
+Set TFTP BLKSIZE option
+    --tftp-no-options
+Do not send any TFTP options
+-z, --time-cond <time>
+Transfer based on a time condition
+    --tls-max <VERSION>
+Use TLSv1.0 or greater
+    --tlsauthtype <type>
+TLS authentication type
+    --tlspassword
+TLS password
+    --tlsuser <name>
+TLS user name
+-1, --tlsv1
+    --tlsv1.0
+Use TLSv1.0
+    --tlsv1.1
+Use TLSv1.1
+    --tlsv1.2
+Use TLSv1.2
+    --tlsv1.3
+Use TLSv1.3
+    --tr-encoding
+Request compressed transfer encoding
+    --trace <file>
+Write a debug trace to FILE
+    --trace-ascii <file>
+Like --trace, but without hex output
+    --trace-time
+Add time stamps to trace/verbose output
+    --unix-socket <path>
+Connect through this Unix domain socket
+-T, --upload-file <file>
+Transfer local FILE to destination
+    --url <url>
+URL to work with
+-B, --use-ascii
+Use ASCII/text transfer
+-u, --user <user:password>
+Server user and password
+-A, --user-agent <name>
+Send User-Agent <name> to server
+-v, --verbose
+Make the operation more talkative
+-V, --version
+Show version number and quit
+-w, --write-out <format>
+Use output FORMAT after completion
+    --xattr
+Store metadata in extended file attributes
+AsynchDNS
+TrackMemory
+Largefile
+GSS-API
+Kerberos
+SPNEGO
+NTLM_WB
+CharConv
+TLS-SRP
+UnixSockets
+HTTPS-proxy
+Usage: curl [options...] <url>
+ %-19s %s
+curl 7.55.1 (Windows) %s
+[unreleased]
+Release-Date: %s
+Protocols: 
+Features: 
+Build-time engines:
+  <none>
+had unsupported trailing garbage
+is unknown
+is ambiguous
+requires parameter
+is badly used here
+expected a proper numerical parameter
+expected a positive numerical parameter
+the installed libcurl version doesn't support this
+a specified protocol is unsupported by libcurl
+out of memory
+the given option can't be reversed with a --no- prefix
+too large number
+unknown error
+GET (-G, --get)
+HEAD (-I, --head)
+multipart formpost (-F, --form)
+POST (-d, --data)
+You can only select one HTTP request method! You asked for both %s and %s.
+Unnecessary use of -X or --request, %s is already inferred.
+Setting custom HTTP method to HEAD with -X/--request may not work the way you want. Consider using -I/--head instead.
+CURL_HOME
+APPDATA
+%USERPROFILE%\Application Data
+gopher
+telnet
+error initializing curl easy handle
+error retrieving curl library information
+error initializing curl library
+error initializing curl
+Note: 
+Warning: 
+curl: 
+curl: try 'curl --help' for more information
+Failed to set filetime %ld on outfile: SetFileTime failed: GetLastError %u
+Failed to set filetime %ld on outfile: CreateFile failed: GetLastError %u
+no URL specified!
+CURL_CA_BUNDLE
+SSL_CERT_DIR
+SSL_CERT_FILE
+curl-ca-bundle.crt
+Failed to open %s
+Remote file name has no length!
+bad output glob!
+Can't open '%s'!
+Using --anyauth or --proxy-anyauth with upload from stdin involves a big risk of it not working. Use a temporary file or a fixed auth type instead!
+fcntl failed on fd=%d: %s
+<stdout>
+[%lu/%lu]: %s --> %s
+--_curl_--
+%s%c%s
+%s/?%s
+CURLOPT_TCP_NODELAY
+CURLOPT_TCP_FASTOPEN
+CURLOPT_WRITEDATA
+CURLOPT_INTERLEAVEDATA
+CURLOPT_WRITEFUNCTION
+CURLOPT_READDATA
+CURLOPT_READFUNCTION
+CURLOPT_SEEKDATA
+CURLOPT_SEEKFUNCTION
+CURLOPT_BUFFERSIZE
+CURLOPT_INFILESIZE_LARGE
+CURLOPT_URL
+CURLOPT_NOPROGRESS
+CURLOPT_NOBODY
+CURLOPT_HEADER
+CURLOPT_XOAUTH2_BEARER
+CURLOPT_PROXY
+CURLOPT_PROXYTYPE
+CURLOPT_PROXYUSERPWD
+CURLOPT_HTTPPROXYTUNNEL
+CURLOPT_PRE_PROXY
+CURLOPT_PROXYAUTH
+CURLOPT_NOPROXY
+CURLOPT_SUPPRESS_CONNECT_HEADERS
+CURLOPT_FAILONERROR
+CURLOPT_REQUEST_TARGET
+CURLOPT_UPLOAD
+CURLOPT_DIRLISTONLY
+CURLOPT_APPEND
+CURLOPT_NETRC
+CURLOPT_NETRC_FILE
+CURLOPT_TRANSFERTEXT
+CURLOPT_LOGIN_OPTIONS
+CURLOPT_USERPWD
+CURLOPT_RANGE
+CURLOPT_ERRORBUFFER
+CURLOPT_TIMEOUT_MS
+CURLOPT_FOLLOWLOCATION
+CURLOPT_UNRESTRICTED_AUTH
+CURLOPT_POSTFIELDS
+CURLOPT_POSTFIELDSIZE_LARGE
+CURLOPT_HTTPPOST
+CURLOPT_REFERER
+CURLOPT_AUTOREFERER
+CURLOPT_USERAGENT
+CURLOPT_HTTPHEADER
+CURLOPT_PROXYHEADER
+CURLOPT_HEADEROPT
+CURLOPT_MAXREDIRS
+CURLOPT_HTTP_VERSION
+CURLOPT_HTTPAUTH
+CURLOPT_POSTREDIR
+CURLOPT_ACCEPT_ENCODING
+CURLOPT_TRANSFER_ENCODING
+CURLOPT_FTPPORT
+CURLOPT_LOW_SPEED_LIMIT
+CURLOPT_LOW_SPEED_TIME
+CURLOPT_MAX_SEND_SPEED_LARGE
+CURLOPT_MAX_RECV_SPEED_LARGE
+CURLOPT_RESUME_FROM_LARGE
+CURLOPT_KEYPASSWD
+CURLOPT_PROXY_KEYPASSWD
+CURLOPT_SSH_PRIVATE_KEYFILE
+CURLOPT_SSH_PUBLIC_KEYFILE
+CURLOPT_SSH_HOST_PUBLIC_KEY_MD5
+CURLOPT_CAINFO
+CURLOPT_PROXY_CAINFO
+CURLOPT_CAPATH
+SSL_CERT_DIR environment variable
+--capath
+ignoring %s, not supported by libcurl
+CURLOPT_PROXY_CAPATH
+ignoring --proxy-capath, not supported by libcurl
+CURLOPT_CRLFILE
+CURLOPT_PROXY_CRLFILE
+CURLOPT_PINNEDPUBLICKEY
+CURLOPT_SSLCERT
+CURLOPT_PROXY_SSLCERT
+CURLOPT_SSLCERTTYPE
+CURLOPT_PROXY_SSLCERTTYPE
+CURLOPT_SSLKEY
+CURLOPT_PROXY_SSLKEY
+CURLOPT_SSLKEYTYPE
+CURLOPT_PROXY_SSLKEYTYPE
+CURLOPT_SSL_VERIFYPEER
+CURLOPT_SSL_VERIFYHOST
+CURLOPT_PROXY_SSL_VERIFYPEER
+CURLOPT_PROXY_SSL_VERIFYHOST
+CURLOPT_SSL_VERIFYSTATUS
+CURLOPT_SSL_FALSESTART
+CURLOPT_SSLVERSION
+CURLOPT_PROXY_SSLVERSION
+CURLOPT_PATH_AS_IS
+%s/%sssh/known_hosts
+CURLOPT_SSH_KNOWNHOSTS
+CURLOPT_FILETIME
+CURLOPT_CRLF
+CURLOPT_QUOTE
+CURLOPT_POSTQUOTE
+CURLOPT_PREQUOTE
+CURLOPT_COOKIE
+CURLOPT_COOKIEFILE
+CURLOPT_COOKIEJAR
+CURLOPT_COOKIESESSION
+CURLOPT_TIMECONDITION
+CURLOPT_TIMEVALUE
+CURLOPT_CUSTOMREQUEST
+CURLOPT_STDERR
+CURLOPT_INTERFACE
+CURLOPT_KRBLEVEL
+CURLOPT_XFERINFOFUNCTION
+CURLOPT_XFERINFODATA
+CURLOPT_DNS_SERVERS
+CURLOPT_DNS_INTERFACE
+CURLOPT_DNS_LOCAL_IP4
+CURLOPT_DNS_LOCAL_IP6
+CURLOPT_TELNETOPTIONS
+CURLOPT_RANDOM_FILE
+CURLOPT_EGDSOCKET
+CURLOPT_CONNECTTIMEOUT_MS
+CURLOPT_SSL_CIPHER_LIST
+CURLOPT_PROXY_SSL_CIPHER_LIST
+CURLOPT_FTP_USE_EPSV
+CURLOPT_FTP_USE_EPRT
+CURLOPT_DEBUGFUNCTION
+CURLOPT_DEBUGDATA
+CURLOPT_VERBOSE
+CURLOPT_SSLENGINE
+CURLOPT_FTP_CREATE_MISSING_DIRS
+CURLOPT_MAXFILESIZE_LARGE
+CURLOPT_IPRESOLVE
+CURLOPT_USE_SSL
+CURLOPT_FTP_SSL_CCC
+CURLOPT_SOCKS5_GSSAPI_NEC
+CURLOPT_SOCKS5_AUTH
+CURLOPT_PROXY_SERVICE_NAME
+CURLOPT_SERVICE_NAME
+CURLOPT_FTP_ACCOUNT
+CURLOPT_IGNORE_CONTENT_LENGTH
+CURLOPT_FTP_SKIP_PASV_IP
+CURLOPT_FTP_FILEMETHOD
+CURLOPT_LOCALPORT
+CURLOPT_LOCALPORTRANGE
+CURLOPT_FTP_ALTERNATIVE_TO_USER
+CURLOPT_SSL_SESSIONID_CACHE
+CURLOPT_HTTP_CONTENT_DECODING
+CURLOPT_HTTP_TRANSFER_DECODING
+CURLOPT_TCP_KEEPALIVE
+CURLOPT_TCP_KEEPIDLE
+CURLOPT_TCP_KEEPINTVL
+CURLOPT_TFTP_BLKSIZE
+CURLOPT_MAIL_FROM
+CURLOPT_MAIL_RCPT
+CURLOPT_FTP_USE_PRET
+CURLOPT_PROTOCOLS
+CURLOPT_REDIR_PROTOCOLS
+CURLOPT_HEADERFUNCTION
+CURLOPT_HEADERDATA
+CURLOPT_RESOLVE
+CURLOPT_CONNECT_TO
+CURLOPT_TLSAUTH_USERNAME
+CURLOPT_TLSAUTH_PASSWORD
+CURLOPT_TLSAUTH_TYPE
+CURLOPT_PROXY_TLSAUTH_USERNAME
+CURLOPT_PROXY_TLSAUTH_PASSWORD
+CURLOPT_PROXY_TLSAUTH_TYPE
+CURLOPT_GSSAPI_DELEGATION
+CURLOPT_SSL_OPTIONS
+CURLOPT_PROXY_SSL_OPTIONS
+CURLOPT_MAIL_AUTH
+CURLOPT_SASL_IR
+CURLOPT_SSL_ENABLE_NPN
+CURLOPT_SSL_ENABLE_ALPN
+CURLOPT_ABSTRACT_UNIX_SOCKET
+CURLOPT_UNIX_SOCKET_PATH
+CURLOPT_DEFAULT_PROTOCOL
+CURLOPT_EXPECT_100_TIMEOUT_MS
+CURLOPT_TFTP_NO_OPTIONS
+curl: Saved to filename '%s'
+timeout
+connection refused
+HTTP error
+FTP error
+Transient problem: %s Will retry in %ld seconds. %ld retries left.
+Throwing away %I64d bytes
+failed to truncate, exiting
+Metalink: fetching (%s) from (%s) FAILED (HTTP status code %ld)
+Metalink: fetching (%s) from (%s) FAILED (%s)
+Metalink: fetching (%s) from (%s) OK
+curl: (%d) %s
+HTTPS-proxy has similar options --proxy-cacert and --proxy-insecure.
+If this HTTPS server uses a certificate signed by a CA represented in
+ the bundle, the certificate verification probably failed due to a
+ problem with the certificate (it might be expired, or the name might
+ not match the domain name in the URL).
+If you'd like to turn off curl's verification of the certificate, use
+ the -k (or --insecure) option.
+More details here: https://curl.haxx.se/docs/sslcerts.html
+curl performs SSL certificate verification by default, using a "bundle"
+ of Certificate Authority (CA) public keys (CA certs). If the default
+ bundle file isn't adequate, you can specify an alternate file
+ using the --cacert option.
+%s%s%s
+(%d) Failed writing body
+--disable
+unrecognized protocol '%s'
+Enter %s password for user '%s':
+Enter %s password for user '%s' on URL #%I64u:
+singlecwd
+multicwd
+unrecognized ftp file method '%s', using default
+passive
+active
+unrecognized ftp CCC method '%s', using default
+policy
+always
+unrecognized delegation method '%s', using none
+curl/7.55.1
+default
+_curlrc
+%s:%d: warning: '%s' uses unquoted white space in the line that may cause side-effects!
+%s:%d: warning: '%s' %s
+CURLPROXY_HTTP
+CURLPROXY_HTTP_1_0
+CURLPROXY_HTTPS
+CURLPROXY_SOCKS4
+CURLPROXY_SOCKS5
+CURLPROXY_SOCKS4A
+CURLPROXY_SOCKS5_HOSTNAME
+CURLAUTH_ANY
+CURLAUTH_ANYSAFE
+CURLAUTH_BASIC
+CURLAUTH_DIGEST
+CURLAUTH_GSSNEGOTIATE
+CURLAUTH_NTLM
+CURLAUTH_DIGEST_IE
+CURLAUTH_NTLM_WB
+CURLAUTH_ONLY
+CURLAUTH_NONE
+CURL_HTTP_VERSION_NONE
+CURL_HTTP_VERSION_1_0
+CURL_HTTP_VERSION_1_1
+CURL_HTTP_VERSION_2_0
+CURL_HTTP_VERSION_2TLS
+CURL_SSLVERSION_DEFAULT
+CURL_SSLVERSION_TLSv1
+CURL_SSLVERSION_SSLv2
+CURL_SSLVERSION_SSLv3
+CURL_SSLVERSION_TLSv1_0
+CURL_SSLVERSION_TLSv1_1
+CURL_SSLVERSION_TLSv1_2
+CURL_SSLVERSION_TLSv1_3
+CURL_TIMECOND_IFMODSINCE
+CURL_TIMECOND_IFUNMODSINCE
+CURL_TIMECOND_LASTMOD
+CURL_TIMECOND_NONE
+CURLFTPSSL_CCC_NONE
+CURLFTPSSL_CCC_PASSIVE
+CURLFTPSSL_CCC_ACTIVE
+CURLUSESSL_NONE
+CURLUSESSL_TRY
+CURLUSESSL_CONTROL
+CURLUSESSL_ALL
+CURLSSLOPT_ALLOW_BEAST
+CURLSSLOPT_NO_REVOKE
+CURL_NETRC_IGNORED
+CURL_NETRC_OPTIONAL
+CURL_NETRC_REQUIRED
+CURLPROTO_ALL
+CURLPROTO_DICT
+CURLPROTO_FILE
+CURLPROTO_FTP
+CURLPROTO_FTPS
+CURLPROTO_GOPHER
+CURLPROTO_HTTP
+CURLPROTO_HTTPS
+CURLPROTO_IMAP
+CURLPROTO_IMAPS
+CURLPROTO_LDAP
+CURLPROTO_LDAPS
+CURLPROTO_POP3
+CURLPROTO_POP3S
+CURLPROTO_RTSP
+CURLPROTO_SCP
+CURLPROTO_SFTP
+CURLPROTO_SMB
+CURLPROTO_SMBS
+CURLPROTO_SMTP
+CURLPROTO_SMTPS
+CURLPROTO_TELNET
+CURLPROTO_TFTP
+curl_easy_setopt(hnd, %s, %ldL);
+curl_easy_setopt(hnd, %s, (long)%s);
+curl_easy_setopt(hnd, %s, 
+%s(long)%s%s
+%s%ldL);
+%s%luUL);
+struct curl_httppost *post%d;
+post%d = NULL;
+curl_formfree(post%d);
+struct curl_httppost *postend;
+postend = NULL;
+curl_formadd(&post%d, &postend,
+             CURLFORM_COPYNAME, "%s",
+             CURLFORM_FILE, "%s",
+             CURLFORM_FILECONTENT, "%s",
+             CURLFORM_COPYCONTENTS, "%s",
+             CURLFORM_FILENAME, "%s",
+             CURLFORM_CONTENTTYPE, "%s",
+             CURLFORM_END);
+curl_easy_setopt(hnd, %s, post%d);
+struct curl_slist *slist%d;
+slist%d = NULL;
+curl_slist_free_all(slist%d);
+slist%d = curl_slist_append(slist%d, "%s");
+curl_easy_setopt(hnd, %s, slist%d);
+functionpointer
+objectpointer
+(curl_off_t)%I64d
+%s set to a %s
+curl_easy_setopt(hnd, %s, "%s");
+curl_easy_setopt(hnd, %s, %s);
+unmatched brace
+nested brace
+empty string within braces
+range overflow
+unexpected close bracket
+%c-%c%c
+bad range
+bad range specification
+unmatched close brace/bracket
+too many globs
+%s in column %zu
+curl: (%d) [globbing] %s
+internal error: invalid pattern type (%d)
+url_effective
+http_code
+response_code
+http_connect
+time_total
+time_namelookup
+time_connect
+time_appconnect
+time_pretransfer
+time_starttransfer
+size_header
+size_request
+size_download
+size_upload
+speed_download
+speed_upload
+content_type
+num_connects
+time_redirect
+num_redirects
+ftp_entry_path
+redirect_url
+ssl_verify_result
+proxy_ssl_verify_result
+filename_effective
+remote_ip
+remote_port
+local_ip
+local_port
+http_version
+scheme
+curl: unknown --write-out variable: '%s'
+0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ
+0123456789abcdefghijklmnopqrstuvwxyz
+easy handle already used in multi handle
+%%%02X
+image/gif
+image/jpeg
+text/plain
+text/html
+application/xml
+application/octet-stream
+; filename="%s"
+Content-Type: multipart/form-data
+%s; boundary=%s
+Content-Disposition: form-data; name="
+Content-Type: multipart/mixed; boundary=%s
+Content-Disposition: attachment
+Content-Type: %s
+couldn't open file "%s"
+--%s--
+--%s--
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+Sunday
+%31[ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz]
+%02d:%02d:%02d%n
+%02d:%02d%n
+libcurl/7.55.1
+7.55.1
+Windows
+No error
+Unsupported protocol
+Failed initialization
+URL using bad/illegal format or missing URL
+A requested feature, protocol or option was not found built-in in this libcurl due to a build-time decision.
+Couldn't resolve proxy name
+Couldn't resolve host name
+Couldn't connect to server
+Weird server reply
+Access denied to remote resource
+FTP: The server failed to connect to data port
+FTP: Accepting server connect has timed out
+FTP: The server did not accept the PRET command.
+FTP: unknown PASS reply
+FTP: unknown PASV reply
+FTP: unknown 227 response format
+FTP: can't figure out the host in the PASV response
+Error in the HTTP2 framing layer
+FTP: couldn't set file type
+Transferred a partial file
+FTP: couldn't retrieve (RETR failed) the specified file
+Quote command returned error
+HTTP response code said error
+Failed writing received data to disk/application
+Upload failed (at start/before it took off)
+Failed to open/read local data from file/application
+Out of memory
+Timeout was reached
+FTP: command PORT failed
+FTP: command REST failed
+Requested range was not delivered by the server
+Internal problem setting up the POST
+SSL connect error
+Couldn't resume download
+Couldn't read a file:// file
+LDAP: cannot bind
+LDAP: search failed
+A required function in the library was not found
+Operation was aborted by an application callback
+A libcurl function was given a bad argument
+Failed binding local connection end
+Number of redirects hit maximum amount
+An unknown option was passed in to libcurl
+Malformed telnet option
+SSL peer certificate or SSH remote key was not OK
+Server returned nothing (no headers, no data)
+SSL crypto engine not found
+Can not set SSL crypto engine as default
+Failed to initialise SSL crypto engine
+Failed sending data to the peer
+Failure when receiving data from the peer
+Problem with the local SSL certificate
+Couldn't use specified SSL cipher
+Peer certificate cannot be authenticated with given CA certificates
+Problem with the SSL CA cert (path? access rights?)
+Unrecognized or bad HTTP Content or Transfer-Encoding
+Invalid LDAP URL
+Maximum file size exceeded
+Requested SSL level failed
+Failed to shut down the SSL connection
+Failed to load CRL file (path? access rights?, format?)
+Issuer check against peer certificate failed
+Send failed since rewinding of the data stream failed
+Login denied
+TFTP: File Not Found
+TFTP: Access Violation
+Disk full or allocation exceeded
+TFTP: Illegal operation
+TFTP: Unknown transfer ID
+Remote file already exists
+TFTP: No such user
+Conversion failed
+Caller must register CURLOPT_CONV_ callback options
+Remote file not found
+Error in the SSH layer
+Socket not ready for send/recv
+RTSP CSeq mismatch or invalid CSeq
+RTSP session error
+Unable to parse FTP file list
+Chunk callback failed
+The max connection limit is reached
+SSL public key does not match pinned public key
+SSL server certificate status verification FAILED
+Stream error in the HTTP/2 framing layer
+Unknown error
+Call interrupted
+Bad file
+Bad access
+Bad argument
+Invalid arguments
+Out of file descriptors
+Call would block
+Blocking call in progress
+Descriptor is not a socket
+Need destination address
+Bad message size
+Bad protocol
+Protocol option is unsupported
+Protocol is unsupported
+Socket is unsupported
+Operation not supported
+Address family not supported
+Protocol family not supported
+Address already in use
+Address not available
+Network down
+Network unreachable
+Network has been reset
+Connection was aborted
+Connection was reset
+No buffer space
+Socket is already connected
+Socket is not connected
+Socket has been shut down
+Too many references
+Timed out
+Connection refused
+Loop??
+Name too long
+Host down
+Host unreachable
+Not empty
+Process limit reached
+Too many users
+Bad quota
+Something is stale
+Remote error
+Disconnected
+Winsock library is not ready
+Winsock library not initialised
+Winsock version not supported
+Host not found
+Host not found, try again
+Unrecoverable error in call to nameserver
+No data record of requested type
+Unknown error %d (%#x)
+CRYPT_E_REVOKED
+SEC_E_ALGORITHM_MISMATCH
+SEC_E_BAD_BINDINGS
+SEC_E_BAD_PKGID
+SEC_E_BUFFER_TOO_SMALL
+SEC_E_CANNOT_INSTALL
+SEC_E_CANNOT_PACK
+SEC_E_CERT_EXPIRED
+SEC_E_CERT_UNKNOWN
+SEC_E_CERT_WRONG_USAGE
+SEC_E_CONTEXT_EXPIRED
+SEC_E_CROSSREALM_DELEGATION_FAILURE
+SEC_E_CRYPTO_SYSTEM_INVALID
+SEC_E_DECRYPT_FAILURE
+SEC_E_DELEGATION_POLICY
+SEC_E_DELEGATION_REQUIRED
+SEC_E_DOWNGRADE_DETECTED
+SEC_E_ENCRYPT_FAILURE
+SEC_E_ILLEGAL_MESSAGE
+SEC_E_INCOMPLETE_CREDENTIALS
+SEC_E_INCOMPLETE_MESSAGE
+SEC_E_INSUFFICIENT_MEMORY
+SEC_E_INTERNAL_ERROR
+SEC_E_INVALID_HANDLE
+SEC_E_INVALID_PARAMETER
+SEC_E_INVALID_TOKEN
+SEC_E_ISSUING_CA_UNTRUSTED
+SEC_E_ISSUING_CA_UNTRUSTED_KDC
+SEC_E_KDC_CERT_EXPIRED
+SEC_E_KDC_CERT_REVOKED
+SEC_E_KDC_INVALID_REQUEST
+SEC_E_KDC_UNABLE_TO_REFER
+SEC_E_KDC_UNKNOWN_ETYPE
+SEC_E_LOGON_DENIED
+SEC_E_MAX_REFERRALS_EXCEEDED
+SEC_E_MESSAGE_ALTERED
+SEC_E_MULTIPLE_ACCOUNTS
+SEC_E_MUST_BE_KDC
+SEC_E_NOT_OWNER
+SEC_E_NO_AUTHENTICATING_AUTHORITY
+SEC_E_NO_CREDENTIALS
+SEC_E_NO_IMPERSONATION
+SEC_E_NO_IP_ADDRESSES
+SEC_E_NO_KERB_KEY
+SEC_E_NO_PA_DATA
+SEC_E_NO_S4U_PROT_SUPPORT
+SEC_E_NO_TGT_REPLY
+SEC_E_OUT_OF_SEQUENCE
+SEC_E_PKINIT_CLIENT_FAILURE
+SEC_E_PKINIT_NAME_MISMATCH
+SEC_E_POLICY_NLTM_ONLY
+SEC_E_QOP_NOT_SUPPORTED
+SEC_E_REVOCATION_OFFLINE_C
+SEC_E_REVOCATION_OFFLINE_KDC
+SEC_E_SECPKG_NOT_FOUND
+SEC_E_SECURITY_QOS_FAILED
+SEC_E_SHUTDOWN_IN_PROGRESS
+SEC_E_SMARTCARD_CERT_EXPIRED
+SEC_E_SMARTCARD_CERT_REVOKED
+SEC_E_SMARTCARD_LOGON_REQUIRED
+SEC_E_STRONG_CRYPTO_NOT_SUPPORTED
+SEC_E_TARGET_UNKNOWN
+SEC_E_TIME_SKEW
+SEC_E_TOO_MANY_PRINCIPALS
+SEC_E_UNFINISHED_CONTEXT_DELETED
+SEC_E_UNKNOWN_CREDENTIALS
+SEC_E_UNSUPPORTED_FUNCTION
+SEC_E_UNSUPPORTED_PREAUTH
+SEC_E_UNTRUSTED_ROOT
+SEC_E_WRONG_CREDENTIAL_HANDLE
+SEC_E_WRONG_PRINCIPAL
+SEC_I_COMPLETE_AND_CONTINUE
+SEC_I_COMPLETE_NEEDED
+SEC_I_CONTEXT_EXPIRED
+SEC_I_CONTINUE_NEEDED
+SEC_I_INCOMPLETE_CREDENTIALS
+SEC_I_LOCAL_LOGON
+SEC_I_NO_LSA_CONTEXT
+SEC_I_RENEGOTIATE
+SEC_I_SIGNATURE_NEEDED
+SEC_E_ILLEGAL_MESSAGE (0x%08X) - This error usually occurs when a fatal SSL/TLS alert is received (e.g. handshake failed). More detail may be available in the Windows System event log.
+%s (0x%08X)
+%s - %s
+Connection cache is full, closing the oldest one.
+Connection #%ld to host %s left intact
+Re-used connection seems dead, get a new one
+Pipe broke: handle %p, url = %s
+In state %d with no easy_conn, bail out!
+Resolving timed out after %ld milliseconds
+Connection timed out after %ld milliseconds
+Operation timed out after %ld milliseconds with %I64d out of %I64d bytes received
+Operation timed out after %ld milliseconds with %I64d bytes received
+Hostname '%s' was found in DNS cache
+Internal error removing splay node = %d
+Internal error clearing splay node = %d
+security.dll
+secur32.dll
+InitSecurityInterfaceA
+Send failure: %s
+Recv failure: %s
+Write callback asked for PAUSE when not supported!
+Failed writing body (%zu != %zu)
+Failed writing header
+Header
+[%s %s %s]
+Failed to set SO_KEEPALIVE on fd %d
+Failed to set SIO_KEEPALIVE_VALS on fd %d: %d
+Couldn't bind to interface '%s'
+Name '%s' family %i resolved to '%s' family %i
+Couldn't bind to '%s'
+getsockname() failed with errno %d: %s
+Local port: %hu
+Bind to local port %hu failed, trying next
+bind failed with errno %d: %s
+getpeername() failed with errno %d: %s
+ssrem inet_ntop() failed with errno %d: %s
+ssloc inet_ntop() failed with errno %d: %s
+Connection time-out
+After %ldms connect time, move on!
+Connection failed
+connect to %s port %ld failed: %s
+Failed to connect to %s port %ld: %s
+Could not set TCP_NODELAY: %s
+TCP_NODELAY set
+sa_addr inet_ntop() failed with errno %d: %s
+  Trying %s...
+Immediate connect fail for %s: %s
+Hostname in DNS cache was stale, zapped
+Hostname %s was found in DNS cache
+%255[^:]:%d
+Couldn't parse CURLOPT_RESOLVE removal entry '%s'!
+%255[^:]:%d:%255s
+Couldn't parse CURLOPT_RESOLVE entry '%s'!
+Address in '%s' found illegal!
+Added %s:%d:%s to DNS cache
+<no protocol>
+identity
+RELOAD
+Set-Cookie:
+CURLOPT_SSL_VERIFYHOST no longer supports 1 as value!
+Closing connection %ld
+Connection %ld seems to be dead!
+can pipeline
+can multiplex
+serially
+Found bundle for host %s: %p [%s]
+Server doesn't support multi-use yet, wait
+Server doesn't support multi-use (yet)
+Could pipeline, but not asked to!
+Could multiplex, but not asked to!
+Connection #%ld is still name resolving, can't reuse
+Connection #%ld isn't open enough, can't reuse
+Pipe is full, skip (%zu)
+Penalized, skip
+Multiplexed connection found!
+Found pending candidate for reuse and CURLOPT_PIPEWAIT is set
+unknown proxytype option given
+Connected to %s (%s) port %ld (#%ld)
+IDN support not present, can't parse Unicode domains
+Protocol "%s" not supported or disabled in libcurl
+Illegal characters found in URL
+Bad URL, colon is first character
+%*15[^
+/:]:%[^
+Bad URL
+localhost/
+127.0.0.1/
+Invalid file://hostname/, expected localhost or 127.0.0.1 or none
+/:]:%3[/]%[^
+/?#]%[^
+/?#]%[^
+<url> malformed
+Unwillingly accepted illegal URL using %d slash%s!
+%s://%s%s
+Rebuilt URL to: %s
+Please URL encode %% as %%25, see RFC 6874.
+Invalid IPv6 address format
+%I64u-
+_proxy
+http_proxy
+all_proxy
+ALL_PROXY
+socks5h
+Unsupported proxy scheme for '%s'
+Unsupported proxy '%s', libcurl is built without the HTTPS-proxy support.
+No valid port number in proxy string (%s)
+memory shortage
+no_proxy
+NO_PROXY
+[%*45[0123456789abcdefABCDEF:.]%c
+IPv6 numerical address used in URL without brackets
+;type=%c
+%s://%s%s%s:%hu%s%s%s
+Port number out of range
+Port number ended with '%c'
+Couldn't find host %s in the _netrc file; using defaults
+anonymous
+ftp@example.com
+No valid port number in connect to host string (%s)
+Connecting to hostname: %s
+Connecting to port: %d
+Couldn't resolve host '%s'
+Couldn't resolve proxy '%s'
+%s://%s
+Found connection %ld, with requests in the pipe (%zu)
+We can reuse, but we want a new connection anyway
+Re-using existing connection! (#%ld) with %s %s
+No more connections allowed to host: %d
+No connections available in cache
+No connections available.
+NTLM picked AND auth done set, clear picked!
+NTLM-proxy picked AND auth done set, clear picked!
+User-Agent: %s
+ignoring failed cookie_init for %s
+%1023[^;
+=] =%4999[^;
+secure
+httponly
+domain
+localhost
+skipped cookie with bad tailmatch domain: %s
+max-age
+expires
+#HttpOnly_
+Replaced
+%s cookie %s="%s" for domain %s, path %s, expire %I64d
+unknown
+%s%s%s	%s	%s	%s	%I64d	%s	%s
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/docs/http-cookies.html
+# This file was generated by libcurl! Edit at your own risk.
+# Fatal libcurl error
+WARNING: failed to save cookies in %s
+Could not resolve %s: %s
+init_resolve_thread() failed for %s; %s
+getaddrinfo() failed for %s:%d; %s
+Unrecognized parameter value passed via CURLOPT_SSLVERSION
+CURL_SSLVERSION_MAX incompatible with CURL_SSLVERSION
+0123456789abcdef
+operation aborted by callback
+Read callback asked for PAUSE when not supported!
+read function returned funny value
+seek callback returned error %d
+the ioctl callback returned %d
+ioctl callback returned error %d
+necessary data rewind wasn't possible
+The requested document is not new enough
+The requested document is not old enough
+Rewinding stream by : %zd bytes on url %s (zero-length body)
+Excess found in a non pipelined read: excess = %zd url = %s (zero-length body)
+Ignoring the response-body
+The entire document is already downloaded
+HTTP server doesn't seem to support byte ranges. Cannot resume.
+Simulate a HTTP 304 response!
+Failed writing data
+%s in chunked-encoding
+Leftovers after chunking: %zu bytes
+Rewinding %zu bytes
+Rewinding stream by : %zu bytes on url %s (size = %I64d, maxdownload = %I64d, bytecount = %I64d, nread = %zd)
+Excess found in a non pipelined read: excess = %zu, size = %I64d, maxdownload = %I64d, bytecount = %I64d
+we are done reading and this is set to close, stop send
+Failed to alloc scratch buffer!
+We are completely uploaded and fine
+select/poll returned error
+Done waiting for 100-continue
+transfer closed with %I64d bytes remaining to read
+transfer closed with outstanding read data remaining
+No URL set!
+%%%02x
+%15[^?&/:]://%c
+Maximum (%ld) redirects followed
+Issue another request to this URL: '%s'
+Switch from POST to GET
+Disables POST, goes with %s
+Connection died, retrying a fresh connect
+allocate connect buffer!
+CONNECT phase completed!
+Establish HTTP proxy tunnel to %s:%hu
+%s:%hu
+CONNECT
+%s%s%s:%hu
+Host: %s
+Proxy-Connection:
+Proxy-Connection: Keep-Alive
+User-Agent:
+CONNECT %s HTTP/%s
+%s%s%s%s
+Failed sending CONNECT to proxy
+Proxy CONNECT aborted due to timeout
+CONNECT response too large!
+Proxy CONNECT connection closed
+Proxy CONNECT aborted
+chunk reading DONE
+Ignore %I64d bytes of response-body
+Ignore chunked response-body
+WWW-Authenticate:
+Proxy-authenticate:
+Content-Length:
+Ignoring Content-Length in CONNECT %03d response
+Connection:
+Transfer-Encoding:
+Ignoring Transfer-Encoding in CONNECT %03d response
+chunked
+CONNECT responded chunked
+HTTP/1.%d %d
+Connect me again please
+Received HTTP code %d from proxy after CONNECT
+Proxy replied OK to CONNECT request
+Conn: %ld (%p) Receive pipe weight: (%I64d/%zu), penalized: %s
+Site %s:%d is pipeline blacklisted
+Server %s is blacklisted
+--:--:--
+%2I64d:%02I64d:%02I64d
+%3I64dd %02I64dh
+%7I64dd
+%5I64d
+%4I64dk
+%2I64d.%0I64dM
+%4I64dM
+%2I64d.%0I64dG
+%4I64dG
+%4I64dT
+%4I64dP
+Callback aborted
+** Resuming transfer from byte position %I64d
+  %% Total    %% Received %% Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+%3I64d %s  %3I64d %s  %3I64d %s  %s  %s %s %s %s %s
+Proxy-
+%sAuthorization: Basic %s
+Rewind stream after send
+NTLM send, close instead of sending %I64d bytes
+The requested URL returned error: %d
+Negotiate
+Digest
+Proxy-authorization:
+Authorization:
+Server
+%s auth using %s with user '%s'
+Authentication problem. Ignoring this.
+Ignoring duplicate digest auth header.
+Empty reply from server
+Expect:
+100-continue
+Expect: 100-continue
+Content-Type:
+Content-Length
+Connection
+Invalid TIMEVALUE
+If-Modified-Since
+If-Unmodified-Since
+Last-Modified
+%s: %s, %02d %s %4d %02d:%02d:%02d GMT
+OPTIONS
+Referer:
+Referer: %s
+Cookie:
+Accept-Encoding:
+Accept-Encoding: %s
+Chunky upload is not supported by HTTP 1.0
+Transfer-Encoding: chunked
+Host: %s%s%s
+Host: %s%s%s:%hu
+ftp://
+Accept:
+Accept: */*
+Could not seek stream
+Could only read %I64d bytes from the input
+File already completely uploaded
+Range:
+Range: bytes=%s
+Content-Range:
+Content-Range: bytes 0-%I64d/%I64d
+Content-Range: bytes %s%I64d/%I64d
+Content-Range: bytes %s/%I64d
+ftp://%s:%s@%s
+%s HTTP/%s
+%s%s%s%s%s%s%s%s%s%s%s
+Cookie: 
+%s%s=%s
+Content-Length: 0
+Failed sending POST request
+Content-Length: %I64d
+Could not get Content-Type header line!
+Failed sending PUT request
+Content-Type: application/x-www-form-urlencoded
+Failed sending HTTP POST request
+Failed sending HTTP request
+upload completely sent off: %I64d out of %I64d bytes
+Avoided giant realloc for header (max is %d)!
+Failed to alloc memory for big header!
+The requested URL returned error: %s
+Received 101
+no chunk, no close, no size. Assume close to signal end
+Connection closure while negotiating auth (HTTP 1.0?)
+HTTP error before end of send, keep sending
+HTTP error before end of send, stop sending
+Keep sending data to get tossed away!
+ HTTP/%1d.%1d%c%3d
+ HTTP/2 %d
+Lying server, not serving HTTP/2
+ HTTP %3d
+Unsupported HTTP version in response
+ RTSP/%d.%d %3d
+HTTP 1.0, assume close after body
+Negative content-length: %I64d, closing after transfer
+Server:
+keep-alive
+HTTP/1.0 proxy connection set to keep alive!
+HTTP/1.1 proxy connection set close!
+HTTP/1.0 connection set to keep alive!
+deflate
+x-gzip
+Content-Encoding:
+Last-Modified:
+Location:
+Operation too slow. Less than %ld bytes/sec transferred the last %ld seconds
+kernel32
+LoadLibraryExA
+AddDllDirectory
+%d.%d.%d.%d
+EHLO %s
+HELO %s
+STARTTLS
+AUTH %s %s
+AUTH %s
+No known authentication mechanisms supported!
+MAIL FROM:%s
+MAIL FROM:%s AUTH=%s
+MAIL FROM:%s AUTH=%s SIZE=%s
+MAIL FROM:%s SIZE=%s
+RCPT TO:%s
+RCPT TO:<%s>
+Got unexpected smtp-server response: %d
+STARTTLS denied, code %d
+Remote access denied: %d
+STARTTLS not supported.
+Authentication cancelled
+Command failed: %d
+MAIL failed: %d
+RCPT failed: %d
+DATA failed: %d
+SOCKS4%s: connecting to HTTP proxy %s port %d
+SOCKS4 communication to %s:%d
+SOCKS4 connect to IPv4 %s (locally resolved)
+SOCKS4 connection to %s not supported
+Failed to resolve "%s" for SOCKS4 connect.
+Too long SOCKS proxy name, can't use!
+Failed to send SOCKS4 connect request.
+Failed to receive SOCKS4 connect request ack.
+SOCKS4 reply has wrong version, version should be 4.
+SOCKS4%s request granted.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected or failed.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because SOCKS server cannot connect to identd on the client.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), request rejected because the client program and identd report different user-ids.
+Can't complete SOCKS4 connection to %d.%d.%d.%d:%d. (%d), Unknown.
+SOCKS5: connecting to HTTP proxy %s port %d
+SOCKS5: server resolving disabled for hostnames of length > 255 [actual len=%zu]
+SOCKS5: no connection here
+SOCKS5: connection timeout
+SOCKS5: error occurred during connection
+warning: unsupported value passed to CURLOPT_SOCKS5_AUTH: %lu
+SOCKS5 communication to %s:%d
+Unable to send initial SOCKS5 request.
+SOCKS5 nothing to read
+SOCKS5 read timeout
+SOCKS5 read error occurred
+Unable to receive initial SOCKS5 response.
+Received invalid version in initial SOCKS5 response.
+Unable to negotiate SOCKS5 GSS-API context.
+Failed to send SOCKS5 sub-negotiation request.
+Unable to receive SOCKS5 sub-negotiation response.
+User was rejected by the SOCKS5 server (%d %d).
+SOCKS5 GSSAPI per-message authentication is not supported.
+No authentication method was acceptable. (It is quite likely that the SOCKS5 server wanted a username/password, since none was supplied to the server on this connection.)
+No authentication method was acceptable.
+Undocumented SOCKS5 mode attempted to be used by server.
+SOCKS5 connect to IPv4 %s (locally resolved)
+SOCKS5 connect to IPv6 %s (locally resolved)
+SOCKS5 connection to %s not supported
+Failed to resolve "%s" for SOCKS5 connect.
+SOCKS5 GSS-API protection not yet implemented.
+Failed to send SOCKS5 connect request.
+Failed to receive SOCKS5 connect request ack.
+SOCKS5 reply has wrong version, version should be 5.
+Can't complete SOCKS5 connection to %d.%d.%d.%d:%d. (%d)
+Can't complete SOCKS5 connection to %s:%d. (%d)
+Can't complete SOCKS5 connection to %02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%02x%02x:%d. (%d)
+SOCKS5 request granted.
+set timeouts for state %d; Total %ld, retry %d maxtry %d
+Malformed ACK packet, rejecting
+got option=(%s) value=(%s)
+blksize
+invalid blocksize value in OACK packet
+blksize is larger than max supported
+%s (%d)
+blksize is smaller than min supported
+server requested blksize larger than allocated
+%s (%ld)
+requested
+blksize parsed from OACK
+%s (%d) %s (%d)
+tsize parsed from OACK
+%s (%ld)
+invalid tsize -:%s:- value in OACK packet
+Connected for transmit
+Connected for receive
+netascii
+TFTP file name too long
+%s%c%s%c
+tftp_send_first: internal error
+Received last DATA packet block %d again.
+Received unexpected DATA packet block %d, expecting block %d
+Timeout waiting for block %d ACK.  Retries = %d
+tftp_rx: internal error
+Received ACK for block %d, expecting %d
+tftp_tx: giving up waiting for block %d ack
+tftp_tx: internal error, event: %i
+TFTP finished
+Internal state machine error
+bind() failed; %s
+Received too short packet
+Internal error: Unexpected packet
+TFTP response timeout
+;mode=
+_netrc
+machine
+password
+USER %s
+APOP %s %s
+Got unexpected pop3-server response
+STLS not supported.
+STARTTLS denied
+Authentication failed: %d
+Access denied. %c
+PASS %s
+Error accept()ing server connect
+Connection accepted from server
+Checking for server connect
+Accept timeout occurred while waiting server connect
+There is negative response in cache while serv connect
+Error while waiting for server connect
+Ready to accept data connection from server
+Ctrl conn has data while waiting for data conn
+Doing the SSL/TLS handshake on the data stream
+Preparing for accepting server on data port
+We got a 421 - timeout!
+FTP response timeout
+FTP response aborted due to select/poll error: %d
+CWD %s
+getsockname() failed: %s
+failed to resolve the address provided to PORT: %s
+socket failure: %s
+bind(port=%hu) on non-local address failed: %s
+bind(port=%hu) failed: %s
+bind() failed, we ran out of ports!
+%s |%d|%s|%hu|
+Failure sending EPRT command: %s
+,%d,%d
+Failure sending PORT command: %s
+Connect data stream passively
+PRET %s
+PRET STOR %s
+PRET RETR %s
+REST %d
+SIZE %s
+MDTM %s
+Failed to read data
+File already completely uploaded
+APPE %s
+STOR %s
+RETR %s
+Failed EPSV attempt, exiting
+Failed EPSV attempt. Disabling EPSV
+%c%c%c%u%c
+Illegal port number in EPSV reply
+Weirdly formatted EPSV reply
+%d,%d,%d,%d,%d,%d
+Couldn't interpret the 227-response
+Skip %d.%d.%d.%d for data connection, re-use %s instead
+Bad PASV/EPSV response: %03d
+Can't resolve proxy host %s:%hu
+Can't resolve new host %s:%hu
+disabling EPRT usage
+Failed to do PORT
+Connect data stream actively
+%04d%02d%02d%02d%02d%02d
+%04d%02d%02d %02d:%02d:%02d GMT
+Last-Modified: %s, %02d %s %4d %02d:%02d:%02d GMT
+unsupported MDTM reply format
+Given file does not exist
+Skipping time comparison
+Couldn't set desired mode
+Got a %03d response code instead of the assumed 200
+ftp server doesn't support SIZE
+Offset (%I64d) was beyond file size (%I64d)
+File already completely downloaded
+Instructs server to resume from offset %I64d
+REST %I64d
+Accept-ranges: bytes
+Couldn't use REST
+Failed FTP upload: %0d
+Data conn was not available immediately
+ bytes
+Maxdownload = %I64d
+Getting file with size: %I64d
+RETR response: %03d
+PBSZ %d
+ACCT %s
+ACCT requested but none available
+Access denied: %03d
+ACCT rejected by server: %03d
+Got a %03d ftp-server response when 220 was expected
+unsupported parameter to CURLOPT_FTPSSLAUTH: %d
+PROT %c
+Failed to clear the command channel (CCC)
+Entry path is '%s'
+Failed to figure out path
+OS/400
+SITE NAMEFMT 1
+QUOT command failed with %03d
+MKD %s
+Server denied you to change to the given directory
+Failed to MKD dir: %03d
+PRET command not accepted: %03d
+Remembering we are in dir "%s"
+Failure sending ABOR command: %s
+control connection looks dead
+partial download completed, closing connection
+server did not report OK, got %d
+Uploaded unaligned file size (%I64d out of %I64d bytes)
+Received only partial file: %I64d bytes
+No data was received!
+QUOT string not accepted: %s
+TYPE %c
+Connecting to %s (%s) port %d
+ftp_perform ends with SECONDARY: %d
+Wildcard - Parsing started
+Wildcard - START of "%s"
+Wildcard - "%s" skipped by user
+Failure sending QUIT command: %s
+no memory
+Uploading to a URL without a file name!
+Request has same path as previous transfer
+BINARY
+SUPPRESS GO AHEAD
+STATUS
+TIMING MARK
+NAOCRD
+NAOHTS
+NAOHTD
+NAOFFD
+NAOVTS
+NAOVTD
+NAOLFD
+EXTEND ASCII
+LOGOUT
+BYTE MACRO
+DE TERMINAL
+SUPDUP
+SUPDUP OUTPUT
+SEND LOCATION
+TERM TYPE
+END OF RECORD
+TACACS UID
+OUTPUT MARKING
+TTYLOC
+3270 REGIME
+X3 PAD
+TERM SPEED
+LINEMODE
+XDISPLOC
+OLD-ENVIRON
+AUTHENTICATION
+ENCRYPT
+NEW-ENVIRON
+TELNET
+WSAStartup failed (%d)
+insufficient winsock version to support telnet
+%s IAC %s
+%s IAC %d
+%s %s %s
+%s %s %d
+%s %d %d
+Sending data failed (%d)
+%s IAC SB 
+(terminated by 
+, not IAC SE!) 
+(Empty suboption?)
+%s (unsupported)
+%d (unknown)
+Width: %hu ; Height: %hu
+ INFO/REPLY
+USER,%s
+%127[^= ]%*[ =]%255s
+NEW_ENV
+%hu%*[xX]%hu
+Syntax error in telnet option: %s
+Unknown telnet option %s
+%c%c%c%c%s%c%c
+%c%c%c%c
+%127[^,],%127s
+%c%s%c%s
+In SUBOPTION processing, RCVD
+WS2_32.DLL
+failed to load WS2_32.DLL (%u)
+WSACreateEvent
+failed to find WSACreateEvent function (%u)
+WSACloseEvent
+failed to find WSACloseEvent function (%u)
+WSAEventSelect
+failed to find WSAEventSelect function (%u)
+WSAEnumNetworkEvents
+failed to find WSAEnumNetworkEvents function (%u)
+WSACreateEvent failed (%d)
+WSAEnumNetworkEvents failed (%d)
+Time-out
+WSACloseEvent failed (%d)
+FreeLibrary(wsock2) failed (%u)
+%sAuthorization: Digest %s
+Couldn't open file %s
+Can't open %s for writing
+Can't get the size of %s
+Can't get the size of file.
+failed to resume file:// transfer
+Bad tagged response
+CAPABILITY
+SELECT
+EXAMINE
+SEARCH
+EXPUNGE
+Unexpected continuation response
+LOGIN %s %s
+AUTHENTICATE %s %s
+AUTHENTICATE %s
+LIST "%s" *
+Cannot SELECT without a mailbox.
+SELECT %s
+Cannot FETCH without a UID.
+FETCH %s BODY[%s]<%s>
+FETCH %s BODY[%s]
+Cannot APPEND without a mailbox.
+Cannot APPEND with unknown input file size
+APPEND %s (\Seen) {%I64d}
+Cannot SEARCH without a query string.
+SEARCH %s
+Got unexpected imap-server response
+LOGINDISABLED
+SASL-IR
+OK [UIDVALIDITY %19[0123456789]]
+Mailbox UIDVALIDITY has changed
+Select failed
+Found %I64u bytes to download
+Written %I64u bytes, %I64u bytes are left for transfer
+Failed to parse FETCH response.
+%c%03d
+UIDVALIDITY
+SECTION
+PARTIAL
+NTLM auth restarted
+NTLM handshake rejected
+NTLM handshake failure (internal error)
+%sAuthorization: NTLM %s
+/MATCH:
+/FIND:
+lookup word is missing
+CLIENT libcurl 7.55.1
+MATCH %s %s %s
+Failed sending DICT request
+/DEFINE:
+/LOOKUP:
+CLIENT libcurl 7.55.1
+DEFINE %s %s
+CLIENT libcurl 7.55.1
+Schannel: TLS 1.3 is not yet supported
+schannel: SSL/TLS connection with %s port %hu (step 1/3)
+schannel: WinSSL version is old and may not be able to connect to some servers due to lack of SNI, algorithms, etc.
+wine_get_version
+schannel: re-using existing credential handle
+schannel: incremented credential handle refcount = %d
+schannel: disabled server certificate revocation checks
+schannel: checking server certificate revocation
+schannel: verifyhost setting prevents Schannel from comparing the supplied target name with the subject names in server certificates.
+Unrecognized parameter passed via CURLOPT_SSLVERSION
+schannel: unable to allocate memory
+Microsoft Unified Security Protocol Provider
+schannel: SNI or certificate check failed: %s
+schannel: AcquireCredentialsHandle failed: %s
+schannel: using IP address, SNI is not supported by OS.
+http/1.1
+schannel: ALPN, offering %s
+schannel: initial InitializeSecurityContext failed: %s
+schannel: sending initial handshake data: sending %lu bytes...
+schannel: failed to send initial handshake data: sent %zd of %lu bytes
+schannel: sent initial handshake data: sent %zd bytes
+schannel: SSL/TLS connection with %s port %hu (step 2/3)
+schannel: unable to re-allocate memory
+schannel: failed to receive handshake, need more data
+schannel: failed to receive handshake, SSL/TLS connection failed
+schannel: encrypted data got %zd
+schannel: encrypted data buffer: offset %zu length %zu
+schannel: received incomplete message, need more data
+schannel: a client certificate has been requested
+schannel: sending next handshake data: sending %lu bytes...
+schannel: failed to send next handshake data: sent %zd of %lu bytes
+schannel: next InitializeSecurityContext failed: %s
+schannel: encrypted data length: %lu
+schannel: SSL/TLS handshake complete
+schannel: SSL/TLS connection with %s port %hu (step 3/3)
+schannel: failed to setup sequence detection
+schannel: failed to setup replay detection
+schannel: failed to setup confidentiality
+schannel: failed to setup memory allocation
+schannel: failed to setup stream orientation
+schannel: failed to retrieve ALPN result
+schannel: ALPN, server accepted to use %.*s
+ALPN, server did not agree to a protocol
+schannel: old credential handle is stale, removing
+schannel: failed to store credential handle
+schannel: stored credential handle in session cache
+schannel: failed to retrieve remote cert context
+SSL/TLS connection timeout
+select/poll on SSL/TLS socket, errno: %d
+schannel: timed out sending data (bytes sent: %zd)
+select/poll on SSL socket, errno: %d
+schannel: client wants to read %zu bytes
+schannel: enough decrypted data is already available
+schannel: an unrecoverable error occurred in a prior call
+schannel: server indicated shutdown in a prior call
+schannel: encdata_buffer resized %zu
+schannel: Curl_read_plain returned CURLE_AGAIN
+schannel: Curl_read_plain returned CURLE_RECV_ERROR
+schannel: Curl_read_plain returned error %d
+schannel: server closed the connection
+schannel: decrypted data length: %lu
+schannel: decrypted data added: %zu
+schannel: decrypted data cached: offset %zu length %zu
+schannel: encrypted data cached: offset %zu length %zu
+schannel: remote party requests renegotiation
+schannel: can't renogotiate, an error is pending
+schannel: can't renogotiate, encrypted data available
+schannel: renegotiating SSL/TLS connection
+schannel: renegotiation failed
+schannel: SSL/TLS connection renegotiated
+schannel: failed to decrypt data, need more data
+schannel: failed to read data from server: %s
+schannel: decrypted data buffer: offset %zu length %zu
+schannel: schannel_recv cleanup
+schannel: server closed abruptly (missing close_notify)
+schannel: decrypted data returned %zu
+schannel: shutting down SSL/TLS connection with %s port %hu
+schannel: ApplyControlToken failure: %s
+schannel: failed to send close msg: %s (bytes written: %zd)
+schannel: clear security context handle
+WinSSL
+%c%c==
+%c%c%c=
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+Too long hexadecimal number
+Illegal or missing hexadecimal sequence
+Malformed encoding found
+Write error
+Bad content-encoding found
+%sAuthorization: Negotiate %s
+WDigest
+DIGEST-MD5 handshake failure (empty challenge message)
+digest_sspi: MakeSignature failed, error 0x%08lx
+SPNEGO handshake failure (empty challenge message)
+InitializeSecurityContext failed: %s
+NTLM handshake failure (empty type-2 message)
+NTLM handshake failure (type-3 message): Status=%x
+CRAM-MD5
+DIGEST-MD5
+GSSAPI
+EXTERNAL
+XOAUTH2
+OAUTHBEARER
+Unsupported SASL authentication mechanism
+server response timeout
+select/poll error
+response reading failed
+Excessive server response line length received, %zd bytes. Stripping
+SSPI error: %s failed: %s
+AcquireCredentialsHandle
+Failed to acquire credentials.
+InitializeSecurityContext
+Failed to initialise security context.
+Failed to send SSPI authentication request.
+Failed to send SSPI authentication token.
+Failed to receive SSPI authentication response.
+User was rejected by the SOCKS5 server (%u %u).
+Invalid SSPI authentication response type (%u %u).
+Failed to receive SSPI authentication token.
+QueryCredentialAttributes
+Failed to determine user name.
+SOCKS5 server authencticated user %s with GSS-API.
+integrity
+confidentiality
+SOCKS5 server supports GSS-API %s data protection.
+QueryContextAttributes
+Failed to query security context attributes.
+EncryptMessage
+Failed to send SSPI encryption request.
+Failed to send SSPI encryption type.
+Failed to receive SSPI encryption response.
+Invalid SSPI encryption response type (%u %u).
+Failed to receive SSPI encryption type.
+DecryptMessage
+Invalid SSPI encryption response length (%lu).
+out GSS-API data
+ GSS-API integrity
+ GSS-API confidentiality
+SOCKS5 access with%s protection granted.
+total 
+rwx-tTsS
+0123456789-
+APM0123456789:
+1.2.840.10040.4.1
+1.2.840.10040.4.3
+dsa-with-sha1
+1.2.840.10045.2.1
+ecPublicKey
+1.2.840.10045.3.0.1
+c2pnb163v1
+1.2.840.10045.4.1
+ecdsa-with-SHA1
+1.2.840.10046.2.1
+dhpublicnumber
+1.2.840.113549.1.1.1
+rsaEncryption
+1.2.840.113549.1.1.2
+md2WithRSAEncryption
+1.2.840.113549.1.1.4
+md5WithRSAEncryption
+1.2.840.113549.1.1.5
+sha1WithRSAEncryption
+1.2.840.113549.1.1.10
+RSASSA-PSS
+1.2.840.113549.1.1.14
+sha224WithRSAEncryption
+1.2.840.113549.1.1.11
+sha256WithRSAEncryption
+1.2.840.113549.1.1.12
+sha384WithRSAEncryption
+1.2.840.113549.1.1.13
+sha512WithRSAEncryption
+1.2.840.113549.2.2
+1.2.840.113549.2.5
+1.3.14.3.2.26
+2.5.4.4
+2.5.4.5
+serialNumber
+2.5.4.6
+2.5.4.7
+2.5.4.8
+2.5.4.9
+streetAddress
+2.5.4.10
+2.5.4.11
+2.5.4.12
+2.5.4.13
+description
+2.5.4.17
+postalCode
+2.5.4.41
+2.5.4.42
+givenName
+2.5.4.43
+initials
+2.5.4.44
+generationQualifier
+2.5.4.45
+X500UniqueIdentifier
+2.5.4.46
+dnQualifier
+2.5.4.65
+pseudonym
+1.2.840.113549.1.9.1
+emailAddress
+2.5.4.72
+subjectAltName
+2.5.29.18
+issuerAltName
+2.5.29.19
+basicConstraints
+2.16.840.1.101.3.4.2.4
+sha224
+2.16.840.1.101.3.4.2.1
+sha256
+2.16.840.1.101.3.4.2.2
+sha384
+2.16.840.1.101.3.4.2.3
+sha512
+%.4s-%.2s-%.2s %.2s:%.2s:%c%c%s%.*s%s%.*s
+%u%.2s-%.2s-%.2s %.2s:%.2s:%.2s %.*s
+   %s: %s
+   RSA Public Key (%lu bits)
+RSA Public Key
+rsa(n)
+rsa(e)
+dsa(p)
+dsa(q)
+dsa(g)
+dsa(pub_key)
+dh(pub_key)
+Subject
+%2d Subject: %s
+Issuer
+   Issuer: %s
+Version
+   Version: %lu (0x%lx)
+Serial Number
+   Serial Number: %s
+Signature Algorithm
+   Signature Algorithm: %s
+Start Date
+   Start Date: %s
+Expire Date
+   Expire Date: %s
+Public Key Algorithm
+   Public Key Algorithm: %s
+Signature
+   Signature: %s
+-----BEGIN CERTIFICATE-----
+-----END CERTIFICATE-----
+2.5.29.17
+2.5.4.3
+GSSAPI handshake failure (empty challenge message)
+GSSAPI handshake failure (empty security message)
+GSSAPI handshake failure (invalid security data)
+GSSAPI handshake failure (invalid security layer)
+%s %02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x
+user=%s
+auth=Bearer %s
+user=%s
+host=%s
+auth=Bearer %s
+user=%s
+host=%s
+port=%ld
+auth=Bearer %s
+xdigit
+curl.pdb
+.text$mn
+.text$mn$00
+.text$x
+.idata$5
+.00cfg
+.CRT$XCA
+.CRT$XCAA
+.CRT$XCZ
+.CRT$XIA
+.CRT$XIAA
+.CRT$XIAC
+.CRT$XIZ
+.CRT$XPA
+.CRT$XPZ
+.CRT$XTA
+.CRT$XTZ
+.gfids
+.rdata
+.rdata$zzzdbg
+.rtc$IAA
+.rtc$IZZ
+.rtc$TAA
+.rtc$TZZ
+.xdata
+.idata$2
+.idata$3
+.idata$4
+.idata$6
+.pdata
+.rsrc$01
+.rsrc$02
+inet_pton
+WSAIoctl
+freeaddrinfo
+getaddrinfo
+WS2_32.dll
+CertFreeCertificateContext
+CRYPT32.dll
+SetEndOfFile
+SearchPathA
+ExpandEnvironmentStringsA
+GetEnvironmentVariableA
+SetFileTime
+GetLastError
+CreateFileA
+CloseHandle
+GetModuleFileNameA
+GetTickCount64
+SetLastError
+FormatMessageA
+GetProcAddress
+FreeLibrary
+SleepEx
+EnterCriticalSection
+LeaveCriticalSection
+InitializeCriticalSectionEx
+DeleteCriticalSection
+VerifyVersionInfoA
+GetModuleHandleA
+GetSystemDirectoryA
+LoadLibraryA
+VerSetConditionMask
+ReadFile
+GetStdHandle
+WaitForMultipleObjects
+PeekNamedPipe
+GetFileType
+WaitForSingleObjectEx
+CryptReleaseContext
+CryptGenRandom
+CryptAcquireContextA
+CryptGetHashParam
+CryptDestroyHash
+CryptHashData
+CryptCreateHash
+api-ms-win-core-file-l1-1-0.dll
+api-ms-win-core-processenvironment-l1-2-0.dll
+api-ms-win-core-processenvironment-l1-1-0.dll
+api-ms-win-core-errorhandling-l1-1-0.dll
+api-ms-win-core-handle-l1-1-0.dll
+api-ms-win-core-libraryloader-l1-2-0.dll
+api-ms-win-core-synch-l1-2-0.dll
+api-ms-win-core-sysinfo-l1-1-0.dll
+api-ms-win-core-localization-l1-2-0.dll
+api-ms-win-core-synch-l1-1-0.dll
+api-ms-win-core-kernel32-legacy-l1-1-2.dll
+api-ms-win-core-libraryloader-l1-2-1.dll
+api-ms-win-core-sysinfo-l1-2-0.dll
+api-ms-win-core-synch-l1-2-1.dll
+api-ms-win-core-namedpipe-l1-1-0.dll
+api-ms-win-security-cryptoapi-l1-1-0.dll
+malloc
+__acrt_iob_func
+fflush
+fwrite
+_time64
+_localtime64
+isalpha
+strtol
+_errno
+_lseeki64
+_get_osfhandle
+fclose
+strerror
+strtok
+strpbrk
+strncpy
+strncmp
+isspace
+__stdio_common_vsscanf
+strtoll
+strcspn
+isdigit
+_stat64
+__stdio_common_vfprintf
+calloc
+setlocale
+_fstat64
+strtod
+realloc
+isalnum
+isprint
+strtoul
+__stdio_common_vsprintf
+getenv
+isxdigit
+ferror
+_gmtime64
+__sys_nerr
+_mbschr
+_mbsnbcpy
+tolower
+_mbspbrk
+_beginthreadex
+isupper
+isgraph
+islower
+api-ms-win-crt-heap-l1-1-0.dll
+api-ms-win-crt-stdio-l1-1-0.dll
+api-ms-win-crt-time-l1-1-0.dll
+api-ms-win-crt-string-l1-1-0.dll
+api-ms-win-crt-convert-l1-1-0.dll
+api-ms-win-crt-runtime-l1-1-0.dll
+api-ms-win-crt-filesystem-l1-1-0.dll
+api-ms-win-crt-locale-l1-1-0.dll
+api-ms-win-crt-environment-l1-1-0.dll
+api-ms-win-crt-multibyte-l1-1-0.dll
+api-ms-win-crt-utility-l1-1-0.dll
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+UnhandledExceptionFilter
+SetUnhandledExceptionFilter
+GetCurrentProcess
+TerminateProcess
+IsProcessorFeaturePresent
+QueryPerformanceCounter
+GetCurrentProcessId
+GetCurrentThreadId
+GetSystemTimeAsFileTime
+InitializeSListHead
+IsDebuggerPresent
+GetModuleHandleW
+KERNEL32.dll
+RtlUnwindEx
+InitializeCriticalSectionAndSpinCount
+TlsAlloc
+TlsSetValue
+TlsFree
+LoadLibraryExW
+api-ms-win-core-rtlsupport-l1-1-0.dll
+api-ms-win-core-processthreads-l1-1-0.dll
+_seh_filter_exe
+_set_app_type
+__setusermatherr
+_configure_narrow_argv
+_initialize_narrow_environment
+_get_initial_narrow_environment
+_initterm
+_initterm_e
+_set_fmode
+__p___argc
+__p___argv
+_cexit
+_c_exit
+_register_thread_local_exe_atexit_callback
+_configthreadlocale
+_set_new_mode
+__p__commode
+_initialize_onexit_table
+_register_onexit_function
+_crt_atexit
+terminate
+_fileno
+_setmode
+_strdup
+_access
+_mkdir
+_getch
+_isatty
+_close
+_write
+_free_base
+wcsncmp
+api-ms-win-crt-math-l1-1-0.dll
+api-ms-win-crt-conio-l1-1-0.dll
+strcmp
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<assembly xmlns='urn:schemas-microsoft-com:asm.v1' manifestVersion='1.0'>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+      <requestedPrivileges>
+        <requestedExecutionLevel level='asInvoker' uiAccess='false' />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>

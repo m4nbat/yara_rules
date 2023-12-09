@@ -1,0 +1,163 @@
+!This program cannot be run in DOS mode.
+`.rdata
+@.reloc
+msvcrt.dll
+NTDLL.DLL
+API-MS-Win-Core-ProcessThreads-L1-1-0.dll
+KERNEL32.dll
+API-MS-Win-Security-Base-L1-1-0.dll
+API-MS-WIN-Service-Core-L1-1-0.dll
+API-MS-WIN-Service-winsvc-L1-1-0.dll
+RPCRT4.dll
+HA_A^A]A\_^][
+UVWATAUAVAWH
+A_A^A]A\_^][
+SUVWATAUAVAWH
+WATAUAVAWH
+0A_A^A]A\_
+x ATAUAVH
+ A^A]A\
+D$x!|$(H
+H!|$8H!|$03
+fD9#t#f;3t
+VWATAUAVH
+fD93t$A
+0A^A]A\_^
+u*9Q<|%
+WATAUAVAWH
+ A_A^A]A\_
+x ATAUAVH
+SUVWATAUAVH
+H!1H!2L
+0A^A]A\_^][
+fD93thA
+4FfD96u
+B(D!d$(H
+svchost.pdb
+SvchostPushServiceGlobals
+ServiceMain
+ole32.dll
+CoInitializeEx
+CoCreateInstance
+CoInitializeSecurity
+CLSIDFromString
+RPCRT4.dll
+API-MS-WIN-Service-winsvc-L1-1-0.dll
+API-MS-WIN-Service-Core-L1-1-0.dll
+API-MS-Win-Security-Base-L1-1-0.dll
+KERNEL32.dll
+API-MS-Win-Core-ProcessThreads-L1-1-0.dll
+ntdll.dll
+msvcrt.dll
+?terminate@@YAXXZ
+__set_app_type
+_commode
+__setusermatherr
+_amsg_exit
+_initterm
+_XcptFilter
+__C_specific_handler
+__wgetmainargs
+RtlSubAuthoritySid
+RtlLengthRequiredSid
+RtlFreeHeap
+RtlCopySid
+RtlAllocateHeap
+RtlInitializeSid
+RtlSubAuthorityCountSid
+EtwEventWrite
+RtlImageNtHeader
+EtwEventRegister
+RtlUnhandledExceptionFilter
+EtwEventEnabled
+RtlSetProcessIsCritical
+RtlCaptureContext
+RtlLookupFunctionEntry
+RtlVirtualUnwind
+RtlInitializeCriticalSection
+GetCurrentProcessId
+TerminateProcess
+GetCurrentProcess
+OpenProcessToken
+GetCurrentThreadId
+LocalAlloc
+CloseHandle
+LocalFree
+ExpandEnvironmentStringsW
+WideCharToMultiByte
+FreeLibrary
+GetLastError
+GetProcAddress
+LoadLibraryExA
+DelayLoadFailureHook
+SetUnhandledExceptionFilter
+GetModuleHandleW
+QueryPerformanceCounter
+GetTickCount
+GetSystemTimeAsFileTime
+UnhandledExceptionFilter
+ExitProcess
+GetCommandLineW
+SetErrorMode
+LoadLibraryExW
+GetProcessHeap
+CreateActCtxW
+InitializeCriticalSection
+ActivateActCtx
+RegQueryValueExW
+LeaveCriticalSection
+lstrcmpW
+lstrlenW
+DeactivateActCtx
+ReleaseActCtx
+EnterCriticalSection
+SetProcessAffinityUpdateMode
+RegisterWaitForSingleObjectEx
+RegOpenKeyExW
+lstrcmpiW
+HeapSetInformation
+RegDisablePredefinedCacheEx
+RegCloseKey
+LCMapStringW
+HeapFree
+HeapAlloc
+SetSecurityDescriptorDacl
+InitializeSecurityDescriptor
+GetTokenInformation
+SetSecurityDescriptorGroup
+SetSecurityDescriptorOwner
+AddAccessAllowedAce
+GetLengthSid
+InitializeAcl
+SetServiceStatus
+StartServiceCtrlDispatcherW
+RegisterServiceCtrlHandlerW
+RpcServerUnregisterIf
+RpcServerUseProtseqEpW
+I_RpcMapWin32Status
+RpcMgmtSetServerStackSize
+RpcServerRegisterIf
+RpcMgmtStopServerListening
+RpcMgmtWaitServerListen
+RpcServerListen
+RpcServerUnregisterIfEx
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- Copyright (c) Microsoft Corporation -->
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="5.1.0.0"
+    processorArchitecture="amd64"
+    name="Microsoft.Windows.Services.SvcHost"
+    type="win32"
+<description>Host Process for Windows Services</description>
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+    <security>
+        <requestedPrivileges>
+            <requestedExecutionLevel
+                level="asInvoker"
+                uiAccess="false"
+            />
+        </requestedPrivileges>
+    </security>
+</trustInfo>
+</assembly>

@@ -1,0 +1,881 @@
+pe
+	number_of_signatures = 0
+	is_signed = YR_UNDEFINED
+	signatures
+	pdb_path = "svchost.pdb"
+	number_of_resources = 3
+	resources
+		[0]
+			rva = 38736
+			offset = 25936
+			length = 200
+			type = YR_UNDEFINED
+			id = 1
+			language = 1033
+			type_string = "M\x00U\x00I\x00"
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[1]
+			rva = 37800
+			offset = 25000
+			length = 936
+			type = 16
+			id = 1
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+		[2]
+			rva = 37104
+			offset = 24304
+			length = 690
+			type = 24
+			id = 1
+			language = 1033
+			type_string = YR_UNDEFINED
+			name_string = YR_UNDEFINED
+			language_string = YR_UNDEFINED
+	resource_version
+		minor = 0
+		major = 0
+	resource_timestamp = 0
+	delayed_import_details
+		[0]
+			library_name = "ole32.dll"
+			number_of_functions = 4
+			functions
+				[0]
+					rva = 28672
+					ordinal = YR_UNDEFINED
+					name = "CoInitializeEx"
+				[1]
+					rva = 28680
+					ordinal = YR_UNDEFINED
+					name = "CoCreateInstance"
+				[2]
+					rva = 28688
+					ordinal = YR_UNDEFINED
+					name = "CoInitializeSecurity"
+				[3]
+					rva = 28696
+					ordinal = YR_UNDEFINED
+					name = "CLSIDFromString"
+	import_details
+		[0]
+			library_name = "msvcrt.dll"
+			number_of_functions = 15
+			functions
+				[0]
+					rva = 20480
+					ordinal = YR_UNDEFINED
+					name = "memcpy"
+				[1]
+					rva = 20488
+					ordinal = YR_UNDEFINED
+					name = "?terminate@@YAXXZ"
+				[2]
+					rva = 20496
+					ordinal = YR_UNDEFINED
+					name = "__set_app_type"
+				[3]
+					rva = 20504
+					ordinal = YR_UNDEFINED
+					name = "_fmode"
+				[4]
+					rva = 20512
+					ordinal = YR_UNDEFINED
+					name = "_commode"
+				[5]
+					rva = 20520
+					ordinal = YR_UNDEFINED
+					name = "__setusermatherr"
+				[6]
+					rva = 20528
+					ordinal = YR_UNDEFINED
+					name = "_amsg_exit"
+				[7]
+					rva = 20536
+					ordinal = YR_UNDEFINED
+					name = "_initterm"
+				[8]
+					rva = 20544
+					ordinal = YR_UNDEFINED
+					name = "exit"
+				[9]
+					rva = 20552
+					ordinal = YR_UNDEFINED
+					name = "_cexit"
+				[10]
+					rva = 20560
+					ordinal = YR_UNDEFINED
+					name = "_exit"
+				[11]
+					rva = 20568
+					ordinal = YR_UNDEFINED
+					name = "_XcptFilter"
+				[12]
+					rva = 20576
+					ordinal = YR_UNDEFINED
+					name = "__C_specific_handler"
+				[13]
+					rva = 20584
+					ordinal = YR_UNDEFINED
+					name = "__wgetmainargs"
+				[14]
+					rva = 20592
+					ordinal = YR_UNDEFINED
+					name = "memset"
+		[1]
+			library_name = "ntdll.dll"
+			number_of_functions = 17
+			functions
+				[0]
+					rva = 20608
+					ordinal = YR_UNDEFINED
+					name = "RtlSubAuthoritySid"
+				[1]
+					rva = 20616
+					ordinal = YR_UNDEFINED
+					name = "RtlLengthRequiredSid"
+				[2]
+					rva = 20624
+					ordinal = YR_UNDEFINED
+					name = "RtlFreeHeap"
+				[3]
+					rva = 20632
+					ordinal = YR_UNDEFINED
+					name = "RtlCopySid"
+				[4]
+					rva = 20640
+					ordinal = YR_UNDEFINED
+					name = "RtlAllocateHeap"
+				[5]
+					rva = 20648
+					ordinal = YR_UNDEFINED
+					name = "RtlInitializeSid"
+				[6]
+					rva = 20656
+					ordinal = YR_UNDEFINED
+					name = "RtlSubAuthorityCountSid"
+				[7]
+					rva = 20664
+					ordinal = YR_UNDEFINED
+					name = "EtwEventWrite"
+				[8]
+					rva = 20672
+					ordinal = YR_UNDEFINED
+					name = "RtlImageNtHeader"
+				[9]
+					rva = 20680
+					ordinal = YR_UNDEFINED
+					name = "EtwEventRegister"
+				[10]
+					rva = 20688
+					ordinal = YR_UNDEFINED
+					name = "RtlUnhandledExceptionFilter"
+				[11]
+					rva = 20696
+					ordinal = YR_UNDEFINED
+					name = "EtwEventEnabled"
+				[12]
+					rva = 20704
+					ordinal = YR_UNDEFINED
+					name = "RtlSetProcessIsCritical"
+				[13]
+					rva = 20712
+					ordinal = YR_UNDEFINED
+					name = "RtlCaptureContext"
+				[14]
+					rva = 20720
+					ordinal = YR_UNDEFINED
+					name = "RtlLookupFunctionEntry"
+				[15]
+					rva = 20728
+					ordinal = YR_UNDEFINED
+					name = "RtlVirtualUnwind"
+				[16]
+					rva = 20736
+					ordinal = YR_UNDEFINED
+					name = "RtlInitializeCriticalSection"
+		[2]
+			library_name = "API-MS-Win-Core-ProcessThreads-L1-1-0.dll"
+			number_of_functions = 5
+			functions
+				[0]
+					rva = 20752
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentProcessId"
+				[1]
+					rva = 20760
+					ordinal = YR_UNDEFINED
+					name = "TerminateProcess"
+				[2]
+					rva = 20768
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentProcess"
+				[3]
+					rva = 20776
+					ordinal = YR_UNDEFINED
+					name = "OpenProcessToken"
+				[4]
+					rva = 20784
+					ordinal = YR_UNDEFINED
+					name = "GetCurrentThreadId"
+		[3]
+			library_name = "KERNEL32.dll"
+			number_of_functions = 42
+			functions
+				[0]
+					rva = 20800
+					ordinal = YR_UNDEFINED
+					name = "LocalAlloc"
+				[1]
+					rva = 20808
+					ordinal = YR_UNDEFINED
+					name = "CloseHandle"
+				[2]
+					rva = 20816
+					ordinal = YR_UNDEFINED
+					name = "LocalFree"
+				[3]
+					rva = 20824
+					ordinal = YR_UNDEFINED
+					name = "ExpandEnvironmentStringsW"
+				[4]
+					rva = 20832
+					ordinal = YR_UNDEFINED
+					name = "WideCharToMultiByte"
+				[5]
+					rva = 20840
+					ordinal = YR_UNDEFINED
+					name = "FreeLibrary"
+				[6]
+					rva = 20848
+					ordinal = YR_UNDEFINED
+					name = "GetLastError"
+				[7]
+					rva = 20856
+					ordinal = YR_UNDEFINED
+					name = "GetProcAddress"
+				[8]
+					rva = 20864
+					ordinal = YR_UNDEFINED
+					name = "LoadLibraryExA"
+				[9]
+					rva = 20872
+					ordinal = YR_UNDEFINED
+					name = "DelayLoadFailureHook"
+				[10]
+					rva = 20880
+					ordinal = YR_UNDEFINED
+					name = "Sleep"
+				[11]
+					rva = 20888
+					ordinal = YR_UNDEFINED
+					name = "SetUnhandledExceptionFilter"
+				[12]
+					rva = 20896
+					ordinal = YR_UNDEFINED
+					name = "GetModuleHandleW"
+				[13]
+					rva = 20904
+					ordinal = YR_UNDEFINED
+					name = "QueryPerformanceCounter"
+				[14]
+					rva = 20912
+					ordinal = YR_UNDEFINED
+					name = "GetTickCount"
+				[15]
+					rva = 20920
+					ordinal = YR_UNDEFINED
+					name = "GetSystemTimeAsFileTime"
+				[16]
+					rva = 20928
+					ordinal = YR_UNDEFINED
+					name = "UnhandledExceptionFilter"
+				[17]
+					rva = 20936
+					ordinal = YR_UNDEFINED
+					name = "ExitProcess"
+				[18]
+					rva = 20944
+					ordinal = YR_UNDEFINED
+					name = "GetCommandLineW"
+				[19]
+					rva = 20952
+					ordinal = YR_UNDEFINED
+					name = "SetErrorMode"
+				[20]
+					rva = 20960
+					ordinal = YR_UNDEFINED
+					name = "LoadLibraryExW"
+				[21]
+					rva = 20968
+					ordinal = YR_UNDEFINED
+					name = "GetProcessHeap"
+				[22]
+					rva = 20976
+					ordinal = YR_UNDEFINED
+					name = "CreateActCtxW"
+				[23]
+					rva = 20984
+					ordinal = YR_UNDEFINED
+					name = "InitializeCriticalSection"
+				[24]
+					rva = 20992
+					ordinal = YR_UNDEFINED
+					name = "ActivateActCtx"
+				[25]
+					rva = 21000
+					ordinal = YR_UNDEFINED
+					name = "RegQueryValueExW"
+				[26]
+					rva = 21008
+					ordinal = YR_UNDEFINED
+					name = "LeaveCriticalSection"
+				[27]
+					rva = 21016
+					ordinal = YR_UNDEFINED
+					name = "lstrcmpW"
+				[28]
+					rva = 21024
+					ordinal = YR_UNDEFINED
+					name = "lstrlenW"
+				[29]
+					rva = 21032
+					ordinal = YR_UNDEFINED
+					name = "DeactivateActCtx"
+				[30]
+					rva = 21040
+					ordinal = YR_UNDEFINED
+					name = "ReleaseActCtx"
+				[31]
+					rva = 21048
+					ordinal = YR_UNDEFINED
+					name = "EnterCriticalSection"
+				[32]
+					rva = 21056
+					ordinal = YR_UNDEFINED
+					name = "SetProcessAffinityUpdateMode"
+				[33]
+					rva = 21064
+					ordinal = YR_UNDEFINED
+					name = "RegisterWaitForSingleObjectEx"
+				[34]
+					rva = 21072
+					ordinal = YR_UNDEFINED
+					name = "RegOpenKeyExW"
+				[35]
+					rva = 21080
+					ordinal = YR_UNDEFINED
+					name = "lstrcmpiW"
+				[36]
+					rva = 21088
+					ordinal = YR_UNDEFINED
+					name = "HeapSetInformation"
+				[37]
+					rva = 21096
+					ordinal = YR_UNDEFINED
+					name = "RegDisablePredefinedCacheEx"
+				[38]
+					rva = 21104
+					ordinal = YR_UNDEFINED
+					name = "RegCloseKey"
+				[39]
+					rva = 21112
+					ordinal = YR_UNDEFINED
+					name = "LCMapStringW"
+				[40]
+					rva = 21120
+					ordinal = YR_UNDEFINED
+					name = "HeapFree"
+				[41]
+					rva = 21128
+					ordinal = YR_UNDEFINED
+					name = "HeapAlloc"
+		[4]
+			library_name = "API-MS-Win-Security-Base-L1-1-0.dll"
+			number_of_functions = 8
+			functions
+				[0]
+					rva = 21144
+					ordinal = YR_UNDEFINED
+					name = "SetSecurityDescriptorDacl"
+				[1]
+					rva = 21152
+					ordinal = YR_UNDEFINED
+					name = "InitializeSecurityDescriptor"
+				[2]
+					rva = 21160
+					ordinal = YR_UNDEFINED
+					name = "GetTokenInformation"
+				[3]
+					rva = 21168
+					ordinal = YR_UNDEFINED
+					name = "SetSecurityDescriptorGroup"
+				[4]
+					rva = 21176
+					ordinal = YR_UNDEFINED
+					name = "SetSecurityDescriptorOwner"
+				[5]
+					rva = 21184
+					ordinal = YR_UNDEFINED
+					name = "AddAccessAllowedAce"
+				[6]
+					rva = 21192
+					ordinal = YR_UNDEFINED
+					name = "GetLengthSid"
+				[7]
+					rva = 21200
+					ordinal = YR_UNDEFINED
+					name = "InitializeAcl"
+		[5]
+			library_name = "API-MS-WIN-Service-Core-L1-1-0.dll"
+			number_of_functions = 2
+			functions
+				[0]
+					rva = 21216
+					ordinal = YR_UNDEFINED
+					name = "SetServiceStatus"
+				[1]
+					rva = 21224
+					ordinal = YR_UNDEFINED
+					name = "StartServiceCtrlDispatcherW"
+		[6]
+			library_name = "API-MS-WIN-Service-winsvc-L1-1-0.dll"
+			number_of_functions = 1
+			functions
+				[0]
+					rva = 21240
+					ordinal = YR_UNDEFINED
+					name = "RegisterServiceCtrlHandlerW"
+		[7]
+			library_name = "RPCRT4.dll"
+			number_of_functions = 9
+			functions
+				[0]
+					rva = 21256
+					ordinal = YR_UNDEFINED
+					name = "RpcServerUnregisterIf"
+				[1]
+					rva = 21264
+					ordinal = YR_UNDEFINED
+					name = "RpcServerUseProtseqEpW"
+				[2]
+					rva = 21272
+					ordinal = YR_UNDEFINED
+					name = "I_RpcMapWin32Status"
+				[3]
+					rva = 21280
+					ordinal = YR_UNDEFINED
+					name = "RpcMgmtSetServerStackSize"
+				[4]
+					rva = 21288
+					ordinal = YR_UNDEFINED
+					name = "RpcServerRegisterIf"
+				[5]
+					rva = 21296
+					ordinal = YR_UNDEFINED
+					name = "RpcMgmtStopServerListening"
+				[6]
+					rva = 21304
+					ordinal = YR_UNDEFINED
+					name = "RpcMgmtWaitServerListen"
+				[7]
+					rva = 21312
+					ordinal = YR_UNDEFINED
+					name = "RpcServerListen"
+				[8]
+					rva = 21320
+					ordinal = YR_UNDEFINED
+					name = "RpcServerUnregisterIfEx"
+	export_details
+	export_timestamp = YR_UNDEFINED
+	dll_name = YR_UNDEFINED
+	number_of_exports = 0
+	number_of_delayed_imported_functions = 4
+	number_of_delayed_imports = 1
+	number_of_imported_functions = 99
+	number_of_imports = 8
+	rich_signature
+		version_data = "\x09x\x84\x00\x09x\x95\x00\x00\x00\x01\x00\x09x\x93\x00\x09x\x83\x00\x09x\x89\x00\x09x\x94\x00\x09x\x91\x00"
+		clear_data = "DanS\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x09x\x84\x00\x01\x00\x00\x00\x09x\x95\x00\x01\x00\x00\x00\x00\x00\x01\x00y\x00\x00\x00\x09x\x93\x00\x11\x00\x00\x00\x09x\x83\x00\x13\x00\x00\x00\x09x\x89\x00\x0a\x00\x00\x00\x09x\x94\x00\x01\x00\x00\x00\x09x\x91\x00\x01\x00\x00\x00"
+		raw_data = "\xe8~g0\xac\x1f\x09c\xac\x1f\x09c\xac\x1f\x09c\xa5g\x8dc\xad\x1f\x09c\xa5g\x9cc\xad\x1f\x09c\xac\x1f\x08c\xd5\x1f\x09c\xa5g\x9ac\xbd\x1f\x09c\xa5g\x8ac\xbf\x1f\x09c\xa5g\x80c\xa6\x1f\x09c\xa5g\x9dc\xad\x1f\x09c\xa5g\x98c\xad\x1f\x09c"
+		key = 1661542316
+		length = 80
+		offset = 128
+	overlay
+		size = 0
+		offset = 0
+	sections
+		[0]
+			name = ".text"
+			full_name = ".text"
+			characteristics = 1610612768
+			virtual_address = 4096
+			virtual_size = 12448
+			raw_data_offset = 1536
+			raw_data_size = 12800
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[1]
+			name = ".rdata"
+			full_name = ".rdata"
+			characteristics = 1073741888
+			virtual_address = 20480
+			virtual_size = 6132
+			raw_data_offset = 14336
+			raw_data_size = 6144
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[2]
+			name = ".data"
+			full_name = ".data"
+			characteristics = 3221225536
+			virtual_address = 28672
+			virtual_size = 2720
+			raw_data_offset = 20480
+			raw_data_size = 2560
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[3]
+			name = ".pdata"
+			full_name = ".pdata"
+			characteristics = 1073741888
+			virtual_address = 32768
+			virtual_size = 1020
+			raw_data_offset = 23040
+			raw_data_size = 1024
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[4]
+			name = ".rsrc"
+			full_name = ".rsrc"
+			characteristics = 1073741888
+			virtual_address = 36864
+			virtual_size = 2072
+			raw_data_offset = 24064
+			raw_data_size = 2560
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+		[5]
+			name = ".reloc"
+			full_name = ".reloc"
+			characteristics = 1107296320
+			virtual_address = 40960
+			virtual_size = 84
+			raw_data_offset = 26624
+			raw_data_size = 512
+			pointer_to_relocations = 0
+			pointer_to_line_numbers = 0
+			number_of_relocations = 0
+			number_of_line_numbers = 0
+	data_directories
+		[0]
+			virtual_address = 0
+			size = 0
+		[1]
+			virtual_address = 22600
+			size = 180
+		[2]
+			virtual_address = 36864
+			size = 2072
+		[3]
+			virtual_address = 32768
+			size = 1020
+		[4]
+			virtual_address = 0
+			size = 0
+		[5]
+			virtual_address = 40960
+			size = 84
+		[6]
+			virtual_address = 16448
+			size = 56
+		[7]
+			virtual_address = 0
+			size = 0
+		[8]
+			virtual_address = 0
+			size = 0
+		[9]
+			virtual_address = 0
+			size = 0
+		[10]
+			virtual_address = 0
+			size = 0
+		[11]
+			virtual_address = 736
+			size = 292
+		[12]
+			virtual_address = 20480
+			size = 856
+		[13]
+			virtual_address = 22372
+			size = 64
+		[14]
+			virtual_address = 0
+			size = 0
+		[15]
+			virtual_address = 0
+			size = 0
+	loader_flags = 0
+	size_of_heap_commit = 4096
+	size_of_heap_reserve = 1048576
+	size_of_stack_commit = 32768
+	size_of_stack_reserve = 524288
+	dll_characteristics = 33088
+	subsystem = 2
+	checksum = 78167
+	size_of_headers = 1536
+	size_of_image = 45056
+	win32_version_value = 0
+	subsystem_version
+		minor = 1
+		major = 6
+	image_version
+		minor = 1
+		major = 6
+	os_version
+		minor = 1
+		major = 6
+	linker_version
+		minor = 0
+		major = 9
+	file_alignment = 512
+	section_alignment = 4096
+	base_of_data = YR_UNDEFINED
+	base_of_code = 4096
+	size_of_uninitialized_data = 0
+	size_of_initialized_data = 13312
+	size_of_code = 12800
+	opthdr_magic = 523
+	version_info_list
+		[0]
+			key = "CompanyName"
+			value = "Microsoft Corporation"
+		[1]
+			key = "FileDescription"
+			value = "Host Process for Windows Services"
+		[2]
+			key = "FileVersion"
+			value = "6.1.7600.16385 (win7_rtm.090713-1255)"
+		[3]
+			key = "InternalName"
+			value = "svchost.exe"
+		[4]
+			key = "LegalCopyright"
+			value = "\xa9 Microsoft Corporation. All rights reserved."
+		[5]
+			key = "OriginalFilename"
+			value = "svchost.exe"
+		[6]
+			key = "ProductName"
+			value = "Microsoft\xae Windows\xae Operating System"
+		[7]
+			key = "ProductVersion"
+			value = "6.1.7600.16385"
+	version_info
+		CompanyName = "Microsoft Corporation"
+		FileDescription = "Host Process for Windows Services"
+		FileVersion = "6.1.7600.16385 (win7_rtm.090713-1255)"
+		InternalName = "svchost.exe"
+		LegalCopyright = "\xa9 Microsoft Corporation. All rights reserved."
+		OriginalFilename = "svchost.exe"
+		ProductName = "Microsoft\xae Windows\xae Operating System"
+		ProductVersion = "6.1.7600.16385"
+	number_of_version_infos = 8
+	number_of_rva_and_sizes = 16
+	image_base = 4294967296
+	entry_point_raw = 9324
+	entry_point = 6764
+	characteristics = 34
+	size_of_optional_header = 240
+	number_of_symbols = 0
+	pointer_to_symbol_table = 0
+	timestamp = 1247527873
+	number_of_sections = 6
+	machine = 34404
+	is_pe = 1
+	IMPORT_ANY = -1
+	IMPORT_STANDARD = 1
+	IMPORT_DELAYED = 2
+	IMAGE_DEBUG_TYPE_REPRO = 16
+	IMAGE_DEBUG_TYPE_MPX = 15
+	IMAGE_DEBUG_TYPE_ILTCG = 14
+	IMAGE_DEBUG_TYPE_POGO = 13
+	IMAGE_DEBUG_TYPE_VC_FEATURE = 12
+	IMAGE_DEBUG_TYPE_CLSID = 11
+	IMAGE_DEBUG_TYPE_RESERVED10 = 10
+	IMAGE_DEBUG_TYPE_BORLAND = 9
+	IMAGE_DEBUG_TYPE_OMAP_FROM_SRC = 8
+	IMAGE_DEBUG_TYPE_OMAP_TO_SRC = 7
+	IMAGE_DEBUG_TYPE_FIXUP = 6
+	IMAGE_DEBUG_TYPE_EXCEPTION = 5
+	IMAGE_DEBUG_TYPE_MISC = 4
+	IMAGE_DEBUG_TYPE_FPO = 3
+	IMAGE_DEBUG_TYPE_CODEVIEW = 2
+	IMAGE_DEBUG_TYPE_COFF = 1
+	IMAGE_DEBUG_TYPE_UNKNOWN = 0
+	RESOURCE_TYPE_MANIFEST = 24
+	RESOURCE_TYPE_HTML = 23
+	RESOURCE_TYPE_ANIICON = 22
+	RESOURCE_TYPE_ANICURSOR = 21
+	RESOURCE_TYPE_VXD = 20
+	RESOURCE_TYPE_PLUGPLAY = 19
+	RESOURCE_TYPE_DLGINCLUDE = 17
+	RESOURCE_TYPE_VERSION = 16
+	RESOURCE_TYPE_GROUP_ICON = 14
+	RESOURCE_TYPE_GROUP_CURSOR = 12
+	RESOURCE_TYPE_MESSAGETABLE = 11
+	RESOURCE_TYPE_RCDATA = 10
+	RESOURCE_TYPE_ACCELERATOR = 9
+	RESOURCE_TYPE_FONT = 8
+	RESOURCE_TYPE_FONTDIR = 7
+	RESOURCE_TYPE_STRING = 6
+	RESOURCE_TYPE_DIALOG = 5
+	RESOURCE_TYPE_MENU = 4
+	RESOURCE_TYPE_ICON = 3
+	RESOURCE_TYPE_BITMAP = 2
+	RESOURCE_TYPE_CURSOR = 1
+	SECTION_SCALE_INDEX = 1
+	SECTION_MEM_WRITE = 2147483648
+	SECTION_MEM_READ = 1073741824
+	SECTION_MEM_EXECUTE = 536870912
+	SECTION_MEM_SHARED = 268435456
+	SECTION_MEM_NOT_PAGED = 134217728
+	SECTION_MEM_NOT_CACHED = 67108864
+	SECTION_MEM_DISCARDABLE = 33554432
+	SECTION_LNK_NRELOC_OVFL = 16777216
+	SECTION_ALIGN_MASK = 15728640
+	SECTION_ALIGN_8192BYTES = 14680064
+	SECTION_ALIGN_4096BYTES = 13631488
+	SECTION_ALIGN_2048BYTES = 12582912
+	SECTION_ALIGN_1024BYTES = 11534336
+	SECTION_ALIGN_512BYTES = 10485760
+	SECTION_ALIGN_256BYTES = 9437184
+	SECTION_ALIGN_128BYTES = 8388608
+	SECTION_ALIGN_64BYTES = 7340032
+	SECTION_ALIGN_32BYTES = 6291456
+	SECTION_ALIGN_16BYTES = 5242880
+	SECTION_ALIGN_8BYTES = 4194304
+	SECTION_ALIGN_4BYTES = 3145728
+	SECTION_ALIGN_2BYTES = 2097152
+	SECTION_ALIGN_1BYTES = 1048576
+	SECTION_MEM_PRELOAD = 524288
+	SECTION_MEM_LOCKED = 262144
+	SECTION_MEM_16BIT = 131072
+	SECTION_MEM_PURGEABLE = 131072
+	SECTION_MEM_FARDATA = 32768
+	SECTION_GPREL = 32768
+	SECTION_NO_DEFER_SPEC_EXC = 16384
+	SECTION_LNK_COMDAT = 4096
+	SECTION_LNK_REMOVE = 2048
+	SECTION_LNK_INFO = 512
+	SECTION_LNK_OTHER = 256
+	SECTION_CNT_UNINITIALIZED_DATA = 128
+	SECTION_CNT_INITIALIZED_DATA = 64
+	SECTION_CNT_CODE = 32
+	SECTION_NO_PAD = 8
+	IMAGE_ROM_OPTIONAL_HDR_MAGIC = 263
+	IMAGE_NT_OPTIONAL_HDR64_MAGIC = 523
+	IMAGE_NT_OPTIONAL_HDR32_MAGIC = 267
+	IMAGE_DIRECTORY_ENTRY_COM_DESCRIPTOR = 14
+	IMAGE_DIRECTORY_ENTRY_DELAY_IMPORT = 13
+	IMAGE_DIRECTORY_ENTRY_IAT = 12
+	IMAGE_DIRECTORY_ENTRY_BOUND_IMPORT = 11
+	IMAGE_DIRECTORY_ENTRY_LOAD_CONFIG = 10
+	IMAGE_DIRECTORY_ENTRY_TLS = 9
+	IMAGE_DIRECTORY_ENTRY_GLOBALPTR = 8
+	IMAGE_DIRECTORY_ENTRY_COPYRIGHT = 7
+	IMAGE_DIRECTORY_ENTRY_ARCHITECTURE = 7
+	IMAGE_DIRECTORY_ENTRY_DEBUG = 6
+	IMAGE_DIRECTORY_ENTRY_BASERELOC = 5
+	IMAGE_DIRECTORY_ENTRY_SECURITY = 4
+	IMAGE_DIRECTORY_ENTRY_EXCEPTION = 3
+	IMAGE_DIRECTORY_ENTRY_RESOURCE = 2
+	IMAGE_DIRECTORY_ENTRY_IMPORT = 1
+	IMAGE_DIRECTORY_ENTRY_EXPORT = 0
+	BYTES_REVERSED_HI = 32768
+	UP_SYSTEM_ONLY = 16384
+	DLL = 8192
+	SYSTEM = 4096
+	NET_RUN_FROM_SWAP = 2048
+	REMOVABLE_RUN_FROM_SWAP = 1024
+	DEBUG_STRIPPED = 512
+	MACHINE_32BIT = 256
+	BYTES_REVERSED_LO = 128
+	LARGE_ADDRESS_AWARE = 32
+	AGGRESIVE_WS_TRIM = 16
+	LOCAL_SYMS_STRIPPED = 8
+	LINE_NUMS_STRIPPED = 4
+	EXECUTABLE_IMAGE = 2
+	RELOCS_STRIPPED = 1
+	TERMINAL_SERVER_AWARE = 32768
+	GUARD_CF = 16384
+	WDM_DRIVER = 8192
+	APPCONTAINER = 4096
+	NO_BIND = 2048
+	NO_SEH = 1024
+	NO_ISOLATION = 512
+	NX_COMPAT = 256
+	FORCE_INTEGRITY = 128
+	DYNAMIC_BASE = 64
+	HIGH_ENTROPY_VA = 32
+	SUBSYSTEM_WINDOWS_BOOT_APPLICATION = 16
+	SUBSYSTEM_XBOX = 14
+	SUBSYSTEM_EFI_ROM_IMAGE = 13
+	SUBSYSTEM_EFI_RUNTIME_DRIVER = 12
+	SUBSYSTEM_EFI_BOOT_SERVICE_DRIVER = 11
+	SUBSYSTEM_EFI_APPLICATION = 10
+	SUBSYSTEM_WINDOWS_CE_GUI = 9
+	SUBSYSTEM_NATIVE_WINDOWS = 8
+	SUBSYSTEM_POSIX_CUI = 7
+	SUBSYSTEM_OS2_CUI = 5
+	SUBSYSTEM_WINDOWS_CUI = 3
+	SUBSYSTEM_WINDOWS_GUI = 2
+	SUBSYSTEM_NATIVE = 1
+	SUBSYSTEM_UNKNOWN = 0
+	MACHINE_CEE = 49390
+	MACHINE_CEF = 3311
+	MACHINE_TRICORE = 1312
+	MACHINE_AXP64 = 644
+	MACHINE_ALPHA64 = 644
+	MACHINE_SH3E = 420
+	MACHINE_ALPHA = 388
+	MACHINE_R10000 = 360
+	MACHINE_R3000 = 354
+	MACHINE_TARGET_HOST = 1
+	MACHINE_WCEMIPSV2 = 361
+	MACHINE_THUMB = 450
+	MACHINE_SH5 = 424
+	MACHINE_SH4 = 422
+	MACHINE_SH3DSP = 419
+	MACHINE_SH3 = 418
+	MACHINE_R4000 = 358
+	MACHINE_POWERPCFP = 497
+	MACHINE_POWERPC = 496
+	MACHINE_MIPSFPU16 = 1126
+	MACHINE_MIPSFPU = 870
+	MACHINE_MIPS16 = 614
+	MACHINE_M32R = 36929
+	MACHINE_IA64 = 512
+	MACHINE_I386 = 332
+	MACHINE_EBC = 3772
+	MACHINE_ARM64 = 43620
+	MACHINE_ARMNT = 452
+	MACHINE_ARM = 448
+	MACHINE_AMD64 = 34404
+	MACHINE_AM33 = 467
+	MACHINE_UNKNOWN = 0
+ttp_masquerading_svchost /home/sans/Desktop/MALWARE-Samples/Lab-MalwareMasquerade/1-goodware-svchost-exe-93b2ed4004ed5f7f3039dd7ecbd22c7e4e24b6373b4d9ef8d6e45a179b13a5e8
