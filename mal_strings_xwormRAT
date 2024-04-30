@@ -2,7 +2,7 @@ rule mal_strings_xwormRAT
 {
     meta:
         description = "rule designed to match strings cvommonly associated with the XWorm RAT"
-        author = "Manb4t"
+        author = "M4nbat"
         hash = "e761f2d9049734373c12c97aa557183081403e792b40028c410e4a6c0646c2b8"
         malware_name = "XWorm RAT"
         malware_type = "RAT"
