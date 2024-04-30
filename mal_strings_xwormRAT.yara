@@ -8,7 +8,7 @@ rule mal_strings_xwormRAT
         yarahub_author_twitter = "@knappresearchlb"
         yarahub_reference_md5 = "6b438a52d60887a534e6e38f72ededff"
         sha256 = "e761f2d9049734373c12c97aa557183081403e792b40028c410e4a6c0646c2b8"
-        yarahub_uuid = "f695b517-b316-4f57-9254-dbe90d9iu76y"
+        yarahub_uuid = "78ef8d56-538d-4990-a42d-5fac4f9315a2"
         yarahub_license = "CC BY 4.0"
         yarahub_rule_matching_tlp = "TLP:WHITE"
         yarahub_rule_sharing_tlp = "TLP:WHITE"
